@@ -4,6 +4,7 @@ import Image from "next/image";
 import logo from "./pathways_transparent.png";
 import { useState } from "react";
 import { TypeAnimation } from "react-type-animation";
+import { FaUser, FaRobot } from "react-icons/fa";
 
 export default function Home() {
   const [submitted, setSubmitted] = useState(false);
@@ -89,9 +90,12 @@ export default function Home() {
             }`}
           >
             {message.sender === "user" ? (
-              <span className="block">{message.text}</span>
+              <span className="flex-row flex font-3xl mr-10">
+                {message.text} <FaUser size={40} className="ml-5" />
+              </span>
             ) : (
-              <span className="block">
+              <span className="flex flex-row font-3xl ml-10">
+                <FaRobot size={40} className="mr-5" />
                 <TypeAnimation
                   sequence={[`${message.text}`]}
                   repeat={1}
@@ -106,7 +110,7 @@ export default function Home() {
       {submitted && (
         <form
           onSubmit={handleSubmit}
-          className="absolute bottom-0 w-full p-5 flex justify-center items-center mb-5"
+          className="absolute bottom-0 w-full p-5 flex justify-center items-center mb-10"
         >
           <input
             className="shadow appearance-none border rounded p-5 w-11/12 h-12 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
