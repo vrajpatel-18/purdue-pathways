@@ -1,0 +1,218 @@
+https://www.purdue.edu/science/Current_Students/curriculum_and_degree_requirements/Great%20Issues%20Courses.php
+Great Issues in Science
+Curricular Outcomes: ability to think and function as a scientist and demonstrated breadth of knowledge
+This important core requirement challenges College of Science students to apply their critical thinking and analytical abilities gained from engagement in their major area of study to the global conversation regarding the impact of Science on society and the ramifications of scientific advances.
+Curricular Notice:
+Courses which have been taken to meet the Great Issues requirement may not also be used to meet a student's Culture/Diversity or General Education requirement. AP, IB, and A LEVEL credit will not meet the Great Issues Requirement. Transfer courses from accredited institutions may be submitted to as student's advisor for review by the Associate Dean of Undergraduate Education.
+If you would like to view the course description, please access the 
+MyPurdue Course Catalog
+.
+Archived Great Issues Courses
+*Variable Title Great Issues Courses. Only the titles listed for a variable title course (ex. HONR 39900) are approved to meet the Great Issues requirement.
+.searchfilters{
+    background-color: #cccccc;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+float:left; 
+}
+#coursesearch, #subject, #ucore {
+    margin: 0 10px 10px 0;
+}
+#semester {
+    margin: 0 0 10px 0;
+}
+.container_15 {
+ width:1200px;
+}
+.main {
+width:1200px;
+} 
+#content_wrapper{
+ margin-left:10px;
+}
+ #chkBtnOpenexample{
+   visibility: hidden;
+}
+#example_cb_Current{
+float:left;position:absolute; margin-left:50px;
+}
+$(document).ready( function () {
+				$('#example').dataTable({
+"columnDefs": [
+                { "type": "numeric-comma", targets: 3 }
+            ],"aaSorting": [ [0,'asc'], [1,'asc'] ],
+              "bPaginate": false,"sDom": '<"top"><"bottom"><"clear">',"aoColumns" : [ { "bVisible" : true },  
+                        { "bVisible" : true }, 
+                        { "bVisible" : true },
+                        { "bVisible" : true }, 
+                        { "bVisible" : true },
+                        { "bVisible" : false} 
+            ]})
+							.columnFilter({aoColumns:[
+								{ type:"select", sSelector: "#subject"},
+                                                                null,
+                                                                 { sSelector: "#coursesearch"},
+                                                                 {type:"select", sSelector: "#ucore"},
+                                                                 {type:"select", sSelector: "#semester"}
+								]}
+							);
+			     $("#level_filter").change(function (e) {
+                    var selectedItem = $('#level_filter').val(); 
+                    $('#example').dataTable().fnFilter(selectedItem, 5, true);
+                    $('#level_filter').appendTo($('thead tr:eq(1) td').eq( 1));
+                    console.log(selectedItem);
+                    dtable.draw();
+                });  
+			} );
+Subject:
+BIOL - Biology
+CHM - Chemistry
+CNIT - Computer and Info Tech
+CS - Computer Science
+EAPS - Earth Atmos Planetary Sci
+HIST - History
+HONR - Honors
+MA - Mathematics
+ME - Mechanical Engineering
+PHYS - Physics
+POL - Political Science
+STAT - Statistics
+Number:
+All Levels
+1000
+2000
+3000
+4000+
+Keyword/Title:
+Ucore:
+Behavioral/Social Science (BSS)
+Humanities (H)
+Semester:
+Fall 2023
+Fall 2023 Only
+Fall 2023, Spring 2024
+Fall 2023, Spring 2024, Summer 2024
+Spring 2024
+Subject
+Number
+Keyword/Title
+UCORE
+Semester
+BIOL - Biology
+31200
+Great Issues Genomics &Society
+BIOL - Biology
+39500
+The COVID-19 Pandemic
+Fall 2023
+BIOL - Biology
+48300
+Great Iss:Environ&Conserv Biol
+Spring 2024
+BIOL - Biology
+49500
+Data Science: Good Versus Bad*
+BIOL - Biology
+49500
+Energy Transduction 
+CHM - Chemistry
+49000
+The Nuclear Age*
+Spring 2024
+CNIT - Computer and Info Tech
+49900
+Seminar in Global Policy Issues*
+CS - Computer Science
+39000
+Great Issues In Computer Sci
+Fall 2023, Spring 2024
+EAPS - Earth Atmos Planetary Sci
+30100
+Oil !
+EAPS - Earth Atmos Planetary Sci
+32700
+Climate, Science & Society
+Fall 2023, Spring 2024, Summer 2024
+EAPS - Earth Atmos Planetary Sci
+36000
+Great Issues Sci Soc
+Fall 2023, Spring 2024, Summer 2024
+EAPS - Earth Atmos Planetary Sci
+36400
+Natural Hazards: Sci & Society
+EAPS - Earth Atmos Planetary Sci
+37500
+Fossil Fuels, Energy & Society
+Fall 2023, Spring 2024, Summer 2024
+EAPS - Earth Atmos Planetary Sci
+59100
+Models in Climate Change Science & Policy*
+HIST - History
+30700
+Hist Artif Intell:Minds & Mach
+Fall 2023 Only
+HIST - History
+31305
+Medical Devices & Innovation
+Humanities (H)
+Fall 2023
+HIST - History
+35205
+Death, Disease & Medicine
+Humanities (H)
+HONR - Honors
+29900
+Food Security*
+HONR - Honors
+31000
+Spacetime!*
+HONR - Honors
+39900
+Biotechnology: Social & Ethical Issues*
+HONR - Honors
+39900
+Human Redesign*
+HONR - Honors
+39900
+The Nuclear Age: Its Science, History, and Ethics*
+HONR - Honors
+39900
+Holocene*
+HONR - Honors
+39900
+Spacetime!*
+HONR - Honors
+39900
+Rise & Fall Of American Empire*
+MA - Mathematics
+27900
+Modern Mathematics In Science And Society
+Fall 2023
+MA - Mathematics
+49000
+History of Math
+ME - Mechanical Engineering
+49200
+Technology and Values
+Spring 2024
+PHYS - Physics
+31700
+Special Nuclear Materials
+PHYS - Physics
+49000
+Data Science: Good Versus Bad*
+PHYS - Physics
+49000
+Sustainable Energy Sources*
+POL - Political Science
+32700
+Global Green Politics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+42900
+Climate, Science and Society*
+STAT - Statistics
+49000
+Data Science: Good Versus Bad*

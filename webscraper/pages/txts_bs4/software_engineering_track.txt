@@ -1,0 +1,70 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/track-softengr-fall2023.html
+Software Engineering Track
+Objectives
+The track is designed to prepare students to become software engineers who:
+understand and can use the principles and techniques of software engineering essential for the design and development of large software products,
+are familiar with and can effectively use a variety of tools for software analysis, design, testing, and maintenance, and
+can effectively work in teams and communicate orally and in writing.
+All major required courses, all track requirements and track selectives, and their pre-requisites, regardless of department, must be completed with a grade of C or better
+.
+Required Courses (5)
+Course
+Title
+CS 30700
+Software Engineering I
+CS 35200
+or
+CS 35400
+Compilers: Principles and Practice  
+Operating Systems
+CS 38100
+Introduction to the Analysis of Algorithms
+CS 40800
+Software Testing
+CS 40700
+Software Engineering Senior Project
+Electives (1)
+Course
+Title
+CS 31100
+and
+CS 41100
+Competitive Programming 2 and 3
+The combination of (CS31100 and CS41100) satisfy one elective
+CS 34800
+Information Systems
+CS 35100
+Cloud Computing
+CS 35200
+Compilers: Principles and Practice
+CS 35300
+Principles of Concurrency and Parallelism
+CS 35400
+Operating Systems
+CS 37300
+Data Mining and Machine Learning
+CS 42200
+Computer Networks
+CS 42600
+Computer Security
+CS 44800
+Introduction to Relational Database Systems
+CS 45600
+Programming Languages
+CS 47300
+Web Information Search And Management
+CS 48900
+Embedded Systems
+CS 49000-DSO
+Distributed Systems
+CS 49000-SWS
+Software Security
+CS 51000
+Software Engineering
+CS 59000-SRS
+Software Reliability and Security
+Note: 
+Engineering Projects In Community Service (EPICS), Vertically-Integrated Projects (VIP), etc. can be used in place of the Software Engineering Senior Project if approved by Software Engineering Track Chair. EPICS must be EPCS 41100 and EPCS 41200 (Senior Design), not EPCS 40100 and EPCS 40200 (Senior Participation).
+Note: No course can be counted both for required and elective credit. This is true for all tracks.
+Last Updated:
+ Jun 23, 2023 9:31 AM

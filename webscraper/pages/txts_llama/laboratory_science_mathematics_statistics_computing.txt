@@ -1,0 +1,95 @@
+https://www.purdue.edu/science/Current_Students/curriculum_and_degree_requirements/laboratory-science.html
+                                                                       (https://www.purdue.edu)
+Laboratory Science Mathematics/Statistics/Computing
+Curricular Outcome: Ability to think and function as a scientist
+College of Science students will complement critical thinking and analytical abilities gained within their major area of study by
+completing a two-course sequence and related laboratory experience in a science outside of their major. Students are also
+required to develop proficiency and knowledge in the areas of mathematics, statistics, and computer science.
+
+Laboratory Science
+The laboratory science requirement is met by completion of a one-year sequence of laboratory science.
+College of Science students are strongly encouraged by our faculty to complete laboratory courses with in-person laboratory
+experiences.
+List of Approved Lab Science Courses
+
+Mathematics
+         The Mathematics requirement is met by completion of a one-year sequence of single variable calculus. The following
+         sequences are approved to meet the math requirement:
+         MA 16100: Plane Analytic Geometry and Calculus I (5 cr.) AND MA 16200: Plane Analytic Geometry and Calculus II (5
+         cr.) OR MA 16500: Analytic Geometry and Calculus I (4 cr.) AND MA 16600: Analytic Geometry and Calculus II (4 cr.)
+Note: MA 16100/MA 16500 AND MA 16200/16600 may be interchanged to meet the single variable calculus requirement.
+Biology Majors only: MA 16010: Applied Calculus I and MA 16020: Applied Calculus II
+
+Statistics
+The Statistics requirement is met by completion of an approved statistics course in a student's program of study (major). Check
+specific department and major requirements for approval of the following courses:
+         STAT 30100: Elementary Statistical Methods
+         STAT 35000: Introduction to Statistics
+         STAT 35500: Statistics for Data Science
+         STAT 50300: Statistical Methods for Biology
+         STAT 51100: Statistical Methods
+
+Computing
+The Computing requirement is met by completion of a computing course in a student's program of study (major). Check
+specific department and major requirements for approval of the following courses:
+         CS 15900: C Programming
+         CS 17600: Data Engineering in Python
+         CS 17700: Programming With Multimedia Objects
+         CS 18000: Programming I
+---
+         ECE 49500: Intro to Computer
+         ENGR 14200: Honors Creativity and Innovation and Engineering Design II
+         ENGR 16200: Honors Introduction To Innovation And The Physical Science Of Engineering Design II
+         Three (3) of the following one (1) credit courses
+                  MA 16201: The Data Science Labs in Probability
+                  MA 29000: The Data Science Labs in Multivariate Calculus
+                  MA 39000: The Data Science Labs in in Fourier Analysis
+                  MA 49000: The Data Science Labs in on Probability
+         TDM 10100: Data Mine I AND TDM 10200: Data Mine II
+
+Archived Approved computing courses which are not longer offered:
+         CS 15800: C Programming (effective Fall 2009)
+         CS 19000: Introduction to Computational Thinking (Fall 07, Spring 08, Fall 08)
+         CS 19000: Data Engineering in Python
+         CS 19000: Data Engineering in Python
+         STAT 29000: Introduction to Big Data Analysis
+         STAT 19000: Data Mine I AND STAT 19000: Data Mine II
+
+                                                                                                         ADVISING
+    All Aboard Purdue
+    Academic & Registration Resources
+    Advisor Directory
+    CoS Advising Policy
+    CODO Information
+    CODO Procedure and Advising
+    Dual Degree Policy
+                                                                 CURRICULUM AND DEGREE REQUIREMENTS
+    Majors
+    Minors
+    Grade Appeals
+    Pre-professional Programs
+    Earning Requirements Through Experience
+    Degree+
+---
+                                                              STUDENT RESOURCES
+Scholarships
+Registrar's Office Student Resources
+(
+Tutoring Services/Help Sessions
+Student and Family FAQ
+                                                          INTERNATIONAL STUDENTS
+Global Science Partners Program
+                                                                        RESEARCH
+Resources
+Links
+Undergraduate Research Poster Symposium
+(
+       Purdue University College of Science, 150 N. University St, West Lafayette, IN 47907 • Phone: (765) 494-
+                                                               1729, Fax: (765) 494-1736
+                Student Advising Office: (765) 494-1771, Fax: (765) 496-3015 •                             Science IT, (765) 494-4488
+         © 2024 Purdue University (https://www.purdue.edu/purdue/disclaimer.php) | An equal access/equal
+          opportunity university (https://www.purdue.edu/home/ea_eou_statement/) | Copyright Complaints
+      (https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-
+                                                                     infringement.php)
+    Trouble with this page? Disability-related accessibility issue (https://www.purdue.edu/disabilityresources/)?
+                                            Please contact the College of Science Webmaster.

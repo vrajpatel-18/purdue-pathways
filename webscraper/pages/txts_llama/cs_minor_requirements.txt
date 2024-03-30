@@ -1,0 +1,42 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/minor.html
+Minor in Computer Science
+Minor Requirements:
+         Students' current academic advisor can add the CS minor at any time.
+         Students must complete five CS courses from the approved list of minor courses (see below drop-downs for requirements
+         for student’s catalog term). Once the minor is complete, students will not be able to take more CS courses.
+         Students must earn a minimum grade of 'C' in all CS courses used towards the minor (a 'C-' is not accepted).
+         Students must take CS courses in off-peak terms. See the                                                Course Access & Request policy for more information about
+         when courses are off-peak and available to non-majors.
+                  Effective Fall 2023, Declared CS Minors will be able to register for core courses the Friday before classes begin,
+                  space permitting, and in off-peak semesters.
+                  Appeals to register for courses during peak terms are not accepted.
+
+PEAK/OFF-PEAK Semesters
+  Semester                         CS 18000                         CS 18200                         CS 24000                          CS 2500                          CS 25100  CS 25200
+  Fall                             PEAK                             OFF-PEAK                         OFF-PEAK                          PEAK                             PEAK      OFF-PEAK
+  Spring                           OFF-PEAK                         PEAK                             PEAK                              OFF-PEAK                         OFF-PEAK  PEAK
+  Summer                           OFF-PEAK                         OFF-PEAK                         OFF-PEAK                          OFF-PEAK                         OFF-PEAK  OFF-PEAK
+
+Notes:
+         The CS department cannot guarantee students seeking a minor access to any courses.
+                  Enrollment in all CS courses is subject to space availability.
+                  CS majors are given priority in registering for all CS courses.
+                  Students seeking a CS minor have access to courses during off-peak terms.
+         All Course prerequisites must be met in order to enroll in any Computer Science course.
+                  NO overrides for prerequisites will be approved.
+         All courses used for the minor must be taken at Purdue University West Lafayette campus.
+         CS Minors are limited to five (5) CS courses, students who request to take more CS courses beyond the courses that
+         complete their CS Minor will be denied.
+         Students are responsible for maintaining an up-to-date minor plan of study with their primary academic advisor, for
+         knowing registration timelines, and for requesting space through the correct process and off-peak terms.
+    CS Minor Requirements Effective Summer 2023 and Forward                                                                                                                                 ➕
+    CS Minor Requirements Effective Fall 2018 - Spring 2023                                                                                                                                 ➕
+    CS Minor Requirements Effective Fall 2016 - Summer 2018                                                                                                                                 ➕
+    CS Minor Requirements Effective Summer 2013 - Summer 2016                                                                                                                               ➕
+---
+CS Minor Requirements Effective Fall 2006 - Spring 2013                                                                              ➕
+                                                                                                   Last Updated: Feb 5, 2024 4:54 PM
+                        Department of Computer Science, 305 N. University Street, West Lafayette, IN 47907
+                                             Phone: (765) 494-6010 • Fax: (765) 494-0739
+             Copyright © 2024 Purdue University | An equal access/equal opportunity university | Copyright Complaints
+                 Trouble with this page? Disability-related accessibility issue? Please contact the College of Science.

@@ -1,0 +1,255 @@
+https://www.cs.purdue.edu/graduate/curriculum/masters.html#Non-thesis
+Master's Program
+The CS Policies/Procedures Manual is online and is incorporated in the CS Grad website. The website contains all current information on the CS policies/procedures, in addition to other helpful information and links. 
+The
+Purdue Graduate School manual
+contains the minimum requirements, but CS policies may exceed the Grad School requirements and are considered the primary policy to follow in those situations.
+Successful completion of the master's program requires:
+10 Three-Credit Courses or 8 with a Thesis
+Course and Grade Requirements
+Non-Thesis Option
+Thesis Option
+Professional Master’s in Information and Cybersecurity
+Plan of Study
+Advisory Committee
+Ethics Requirement
+Communication Requirement
+Petition to Transfer from MS to PhD—Student Instructions
+Graduation Candidacy Information
+Course and Grade Requirements
+Up to six semester-hours of credit for graduate courses taken at other institutions may be transferred with the approval of the Graduate Committee and the Graduate School. The grades must be A or B or the equivalent. Application for transfer is made when the 
+plan of study
+ is submitted for approval. Students may ask the Graduate Committee to accept equivalent graduate courses taken at other institutions in lieu of at most two of the above courses. Requests must be submitted to the CS grad office within the first six weeks of the fall or spring semester.  Follow the link below for instruction on course transfer:
+Instructions on Course Transfer
+ (PDF)
+Courses used to fulfill the requirements for other degrees (at Purdue or elsewhere) are not eligible for use on master's plans of study. The sole exception is that courses used for a doctoral degree may be used on a master's plan of study provided the doctoral plan of study does not include any course used for any other master's degree.
+For the Non-Thesis Option
+Three core courses: 
+CS 50200 or 56500, CS 50300 or 53600, and CS 58000 or 58800
+. These represent the areas Systems I, Systems II, and Algorithms in the 
+Areas and Courses table
+.
+Four other courses 
+from the table
+. These must include courses from at least two areas other than Systems I, Systems II, and Algorithms.
+Three more Level 5000 or 6000 elective courses (not necessarily in Computer Science), at most two of which may be individual study courses. 
+For each 
+individual study course
+, students must identify a CS faculty member willing to offer the course and submit a 
+detailed one page course description
+ (PDF) approved and signed by the CS instructor to the graduate office (
+csgrad@purdue.edu
+) before the course can be approved on a plan of study. Students registering for an individual study course are reminded that the course must be titled (30 characters or less) and taken in regular grade mode (not P/NP) if the course is planned for inclusion on a plan of study.
+Follow this link for a listing of courses normally approved as electives by the Graduate Committee: 
+Approved Courses List
+For the
+Thesis Option
+Three core courses: 
+CS 50200 or 56500, CS 50300 or 53600, and CS 58000 
+or 58800
+. These represent the areas Systems I, Systems II, and Algorithms in the 
+Areas and Courses table
+.
+Four other courses 
+from the table
+. These must include courses from at least two areas other than Systems I, Systems II, and Algorithms.
+One more Level 5000 or 6000 elective course (not necessarily in Computer Science), which may 
+not
+ be an individual study course. Follow this link for a listing of elective courses normally approved by the Graduate Committee: 
+Approved Courses List
+At least six credit hours of CS 69800, Research. M.S. Thesis. The thesis must be presented in an oral defense before the advisory committee.
+MS thesis defense procedure instructions
+For the Professional Master’s in Information and Cybersecurity
+Two foundational courses: 
+CS 50010 and CS 50011
+Two core courses: 
+CS 52600 and CS 55500
+Four focus courses chosen from these Professional Master’s in Information and Cybersecurity offerings: 
+CS 52300, CS 52700, CS 52800, CS 52900, and CS 55600
+Two more Level 5000 or 6000 elective courses (not necessarily in Computer Science), which may be individual study courses
+.
+For each 
+individual study course
+, students must identify a CS faculty member willing to offer the course and submit a 
+detailed one page course description
+ (PDF) approved and signed by the CS instructor to the graduate office (
+csgrad@purdue.edu
+) before the course can be approved on a plan of study. 
+Students registering for an individual study course are reminded that the course must be titled (30 characters or less) and taken in regular grade mode (not P/NP) if the course is planned for inclusion on a plan of study.
+Follow this link for a listing of elective courses normally approved by the Graduate Committee: 
+Approved Courses List
+Back to top
+Plan of Study
+Courses used to fulfill degree requirements must be listed on a plan of study and submitted for approval by the Graduate Committee and the Graduate School well before the final session. Grades in the A range (A+, A, A-) or B range (B+, B, B-) are expected, but one or two grades in the C range may be accepted if they are compensated by grades in the A range (regardless of + and -). Other grades are unacceptable. The GPA of the courses on the plan must be at least 3.0. CS 69800, Research M.S. Thesis, is not listed on the plan of study.
+Master's programs typically take three or four semesters. The practical maximum load is four courses per semester and two in the summer session. Students with assistantships rarely take more than three courses per semester and one in the summer session. Completing a master's program within twelve months is sometimes possible for well-prepared, industrious students.
+The deadline for final submission of the MS plan of study:
+Not later than April 1st if planning to receive the degree the following August or December
+Not later than November 1st if planning to receive the degree the following May
+Follow the link below for detailed instructions on how to file a plan of study:
+Instructions for Filing a Plan of Study
+Graduation Deadline Calendar
+Back to top
+Advisory Committee
+For students in a non-thesis master's program, the role of the advisory committee will be fulfilled by the chair of the department's graduate committee.
+For students in a thesis master's program, the advisory committee consists of the supervisor of the research plus two or more other faculty members agreed upon by the student and the supervisor. Qualified faculty from other departments may serve on the committee but may not form a majority of it.
+Back to top
+Ethics Requirement
+All CS graduate students must fulfill all CS Department Ethics requirements (lecture and research training) during the first year in the program.
+1.  Ethics Lecture
+All MS Students must view an ethics lecture and complete the associated quiz with a 100% grade via a course in Brightspace. It is imperative that students watch the video in its entirety. Contact 
+csgrad@purdue.edu
+ if this course is not available to you in Brightspace.
+2.  Ethics Research Training
+Non-Thesis Option Students:
+Non-thesis MS students must pass the 
+Responsible Conduct of Research
+(RCR)
+ Training for 
+Undergraduate Students
+ on-line test at 
+CITI Program
+ and forward the certificate to the Graduate Office at 
+csgrad@purdue.edu
+ with the subject "Ethics Requirement". Go to the 
+CITI Program website
+ and register with Purdue University as your Organization Affiliation.
+Thesis Option Students:
+Thesis MS students must pass the 
+Responsible Conduct of Research (RCR) 
+Training for
+ Faculty, Postdoctoral, and Graduate Course
+ on-line test at 
+CITI Program
+ and forward the certificate to the Graduate Office at 
+csgrad@purdue.edu
+ with the subject "Ethics Requirement". Go to the 
+CITI Program website
+ and register with Purdue University as your Organization Affiliation.)
+Thesis option students must also complete the University-mandated Field-Specific RCR Training requirement of two hours of additional training. The first hour will be fulfilled by viewing the CS Ethics lecture as noted in #1 above. The second hour can be fulfilled by one hour of:
+Participation  in discussions with colleagues on RCR topics related to their specific research programs (e.g., through group meetings, coursework, orientations, professional development activities, or other organized events.) OR
+Participation/viewing panel discussions around topics identified as most relevant by the College of Science researchers. There will be a one hour event each spring semester to fulfill this. These will be announced by the Grad Office whenever available.
+Each student researcher is responsible for self-reporting their activities at: 
+https://webapps.ecn.purdue.edu/VPR/RT/login
+Further information on 
+Responsible Conduct of Research
+.
+Back to top
+Communication Requirement
+All MS students that entered after spring 2008 must demonstrate effectiveness in communication.
+For students using the thesis option, this will be assessed in the normal course of their program.
+For students using the non-thesis option this can be assessed on the basis of presentations and papers in courses. Students should ask a CS faculty member from whom they have taken a course and in whose judgment they have demonstrated effectiveness in communication to inform the graduate office by sending an e-mail to 
+csgrad@purdue.edu
+ with the subject "Communication Requirement".
+Otherwise, the student must write a technical essay at the beginning of the final semester and submit it to the chair of the Graduate Committee for evaluation. A research paper may also be used if the student is the sole author.
+The deadline for completion of the communication requirement:
+Not later than April 1st if planning to receive the degree the following August or December
+Not later than November 1st if planning to receive the degree the following May
+Back to top
+Changes in Requirements
+These requirements apply to all students entering or reentering the Department of Computer Sciences at West Lafayette ("the Department") as degree-seeking graduate students in the summer session of 2013 or later. For students entering prior to summer 2013, refer to the 
+2008 master's degree requirements.
+Students are governed by the degree requirements in effect when they enter the Department as degree-seeking students. Students who wish to take advantage of subsequent changes may apply to the Graduate Committee to be governed by 
+all degree requirements
+ in effect at a specified subsequent time. Choosing features from different sets of requirements is not permitted.
+For students re-entering, the date of the most recent re-entry determines the degree requirements.
+The above requirements for the master's program may change without notice.
+Back to top
+Areas and Courses
+Area
+Course(s)
+Algorithms
+CS 58000, 58800
+a
+Bioinformatics
+CS 57900
+Complexity
+CS 58400
+Databases
+CS 54100, 54200
+64100
+Artificial Intelligence
+CS 57300, 54701, 57100, 57700
+b
+, 57800, 58700
+e
+Distributed Systems
+CS 50500
+Geometric Modeling, Visualization, and Graphics
+CS 53000, 53100, 53500
+c
+, 58600
+Numerical Computing
+CS 51400
+c
+, 51500, 52000
+61400, 61500
+c
+Parallel and Distributed Computing
+CS 52500,
+60300
+Security
+CS 52600, 52700
+d
+, 52800
+d
+, 55500, 55600
+d
+62600, 65500
+Simulation and Modeling
+CS 54300, 54400
+Software Engineering
+CS 51000
+Systems I (Compilers and Programming Languages)
+CS 50200, 56000, 56500
+66100
+Systems II (Networks and Operating Systems)
+CS 50300, 53600, 55100
+63600, 63800
+CS 58800 was offered as 59000RA in fall 2020
+CS 57700 was CS 59000 NLP, Machine Learning Meth, in spring 2015, spring 2016, and fall 2017
+when taught by a professor whose primary appointment is in Computer Sciences
+CS 52700, 52800 and 55600 may only be included on an MS plan of study if CS 52600 is also included
+CS 69000DPL taken in Spring 2023 may be counted as CS 58700. Earlier offerings may not be counted
+Back to top
+Current CS MS students wanting to pursue a CS PhD —Student Instructions
+The process depends on your current standing with the CS Department:
+A current CS MS student who does not have a committed advisor should apply through the 
+regular application process
+.
+All Purdue Professional MS students applying to the CS PhD program must apply through the 
+regular application process
+.
+All non-CS Purdue students should apply through the 
+regular application process
+.
+Only a current CS MS student who has a CS faculty as a committed advisor, and meets the requirement expectations, should follow the petition process listed below. If you are in doubt, please consult with the Grad Office.
+In order to join the PhD program, the committee would expect:
+Completion of the PhD core requirement
+Ability to populate a PhD plan of study with a 3.5 minimum GPA
+Evidence of research promise, which would be two semesters of research (as either CS 69800 or CS 59000).
+Support from the CS faculty member they’ve been doing research with, especially if that advisor was going to support the student as an RA.
+Petition Process
+Those who need to follow the petition process (student standing number 4 from above) should submit all required materials, listed below, in PDF format to 
+Ha Nguyen
+ by the end of week 3 of the Fall and Spring semesters.
+ If approved, PhD status would be effective the following semester.
+Needed materials and process for petitioning:
+When you entered the MS program and if you had applied to the PhD program
+Purdue transcript
+Summarize course info:
+Specify overall GPA and core course GPA
+State if you have met the PhD core course requirement and include which courses.
+State which 6 courses are expected to be used on a PhD Plan of Study
+Address any poor grades on your transcript
+Who your PhD advisor will be 
+and
+ have that professor send a letter of support that also confirms intent to serve as your PhD advisor directly 
+to the Grad Chair
+, by the end of week 4 of the semester.
+Statement of Purpose/Research Statement that describes your interests and future plans. Include what research has already been done including work carried out as part of CS 69800 and/or CS 59000.
+Financial support status during your MS program.
+Include if you wish to switch to PhD only or add PhD as a degree objective while also completing the MS degree and include the expected MS completion date.
+Your petition will be reviewed at the first Grad Studies Committee meeting, which typically takes place within a month of classes starting.
+Back to top
+Last Updated:
+ Mar 14, 2024 9:53 AM

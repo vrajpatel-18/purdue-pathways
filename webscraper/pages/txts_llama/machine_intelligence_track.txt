@@ -1,0 +1,56 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/track-mI-fall2023.html
+Machine Intelligence Track
+Objectives
+The track is designed to prepare students to work in fields related to analysis of data, including areas such as machine learning,
+artificial intelligence, information retrieval, and data mining. The track is designed to prepare students to understand, and
+effectively apply in practice, the principles and techniques of data and knowledge representation, search, as well as learning
+and reasoning with data.
+All major required courses, all track requirements and track selectives, and their pre-requisites, regardless
+of department, must be completed with a grade of C or better.
+Required Courses (4)
+ Course                      Title
+ CS 37300                    Data Mining and Machine Learning
+ CS 38100                    Introduction to the Analysis of Algorithms
+ CS 47100                    Artificial Intelligence
+ or                          or
+ CS 47300
+                             Web Information Search & Management
+ STAT 41600                  Probability
+ or                          or
+ MA 41600                    Probability
+ or                          or
+ STAT 51200
+                             Applied Regression Analysis
+NOTE: Students considering graduate work or research in this area are encouraged to take STAT/MA
+41600 and STAT 41700.
+Electives (2)
+ Course                      Title
+ CS 31100                    Competitive Programming 2 and 3
+ and                         The combination of (CS31100 and CS41100) may be reviewed for approval as one elective on a case
+                             -by-case basis
+ CS 41100
+---
+ CS 31400                   Numerical Methods
+ CS 34800                   Information Systems
+ CS 35200                   Compilers: Principles And Practice
+ CS 44800                   Introduction To Relational Database Systems
+ CS 45600                   Programming Languages
+ CS 47100                   Introduction to Artificial Intelligence
+ CS 47300                   Web Information Search & Management
+ CS 48300                   Introduction To The Theory Of Computation
+ CS 43900                   Introduction to Data Visualization
+ or                         or
+ CS 44000                   Large-Scale Data Analytics
+ or                         or
+ CS 47500                   Human-Computer Interactions
+ CS 49000 ROB               Introductions to Robotics
+ CS 57700                   Natural Language Processing
+ CS 57800                   Statistical Machine Learning
+Note: Three credits of a relevant EPICS or independent study project may be used as one elective with
+approval from the track chair.
+Note: No course can be counted both for required and elective credit. This is true for all tracks.
+                                                                                               Last Updated: Dec 6, 2023 8:49 AM
+                      Department of Computer Science, 305 N. University Street, West Lafayette, IN 47907
+                                          Phone: (765) 494-6010 • Fax: (765) 494-0739
+           Copyright © 2024 Purdue University | An equal access/equal opportunity university | Copyright Complaints
+              Trouble with this page? Disability-related accessibility issue? Please contact the College of Science.

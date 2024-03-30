@@ -1,0 +1,1041 @@
+https://catalog.purdue.edu/preview_program.php?catoid=16&poid=26503&returnto=20097
+ 17
+(//www.purdue.edu)
+Office of the Registrar
+(https://www.purdue.edu/index.html)
+ 2023-2024 U…
+Catalog Search                       Computer             a
+ Entire Catalog
+ Search Catalog
+                                     Science:
+     Whole Word/Phrase
+                                     Programming
+Advanced Search
+                                     Language, BS
+  Catalog Navigation
+                                         Return to: College of Science
+                                     About the
+                                     Program
+                                     Purdue Computer Science is
+                                     one of the country’s top-ranked
+                                     programs. Faculty members are
+                                     shaping the future of information
+                                     technology through cutting-
+                                     edge research. Students can
+                                     take courses that include such
+                                     topics as graphics and
+                                     animation, web programming,
+                                     competitive programming,
+                                     cryptography and security,
+                                     networks, software engineering,
+                                     distributed systems, information
+                                     systems, artificial intelligence,
+                                     and bioinformatics.
+                                     The flexible curriculum offers
+                                     students the opportunity to be
+                                     involved in a dynamic discipline
+                                     that will continue to grow and to
+                                     contribute significantly to
+                                     progress in many other
+                                     disciplines and ultimately to
+                                     changes in human society that
+                                     are nothing short of profound.
+                                     Students learn communication
+                                     skills, teamwork, and problem-
+                                     solving skills and acquire the
+                                     necessary technical skills for
+                                     positions in computing
+                                     throughout society.
+                                     Computer Science Website
+                                     Computer Science Major
+                                     Change (CODO) Requirements
+                                     Computer Science students
+                                     begin by taking six core courses
+---
+that teach them the
+fundamentals of computer
+science. Students then take
+coursework in a concentration,
+which allows them to deepen
+their understanding in a specific
+area. This track is designed to
+prepare students to work in
+fields related to program
+understanding, manipulation
+and transformation. This
+includes run-time system
+engineering as well as domain
+specific techniques (e.g., real-
+time computing or web
+programming). They will acquire
+tools and techniques needed to
+specify and implement
+language-based solutions.
+   About the
+   Program
+   Purdue Computer Science is
+   one of the country’s top-
+   ranked programs. Faculty
+   members are shaping the
+   future of information
+   technology through cutting-
+   edge research. Students can
+   take courses that include
+   such topics as graphics and
+   animation, web
+   programming, competitive
+   programming, cryptography
+   and security, networks,
+   software engineering,
+   distributed systems,
+   information systems, artificial
+   intelligence, and
+   bioinformatics.
+   The flexible curriculum offers
+   students the opportunity to
+   be involved in a dynamic
+   discipline that will continue to
+   grow and to contribute
+   significantly to progress in
+   many other disciplines and
+   ultimately to changes in
+   human society that are
+   nothing short of profound.
+   Students learn
+   communication skills,
+   teamwork, and problem-
+   solving skills and acquire the
+   necessary technical skills for
+   positions in computing
+   throughout society.
+   Computer Science Website
+---
+Computer Science Major
+Change (CODO)
+Requirements
+Computer Science students
+begin by taking six core
+courses that teach them the
+fundamentals of computer
+science. Students then take
+coursework in a
+concentration, which allows
+them to deepen their
+understanding in a specific
+area. This track is designed
+to prepare students to work
+in fields related to program
+understanding, manipulation
+and transformation. This
+includes run-time system
+engineering as well as
+domain specific techniques
+(e.g., real-time computing or
+web programming). They will
+acquire tools and techniques
+needed to specify and
+implement language-based
+solutions.
+Degree
+Requirements
+120 Credits
+Required
+Curriculum and
+Degree
+Requirements
+for College of
+Science
+A College of Science degree
+is conferred when a student
+successfully completes all
+requirements in their degree
+program.  Students will
+complete coursework or
+approved experiential
+learning activities to meet the
+following three degree
+components:
+ 1. Major
+ 2. Science Core Curriculum
+ 3. Electives
+Students may use any of the
+following options to meet
+College of Science degree
+requirements:
+---
+     Purdue Coursework
+     AP, IB, and CLEP credit.
+     The use of AP and IB
+     coursework varies
+     between College of
+     Science degree plans.
+     Transfer Credit. Students
+     should consult the
+     Admissions Transfer
+     Credit Resource page
+     for all available transfer
+     options.
+College of Science degree
+programs vary widely in their
+approval and use of the
+proceeding options and thus
+students are strongly
+encouraged to work closely
+with their academic advisors
+and to regularly consult their
+MyPurduePlan to view the
+use of each option in their
+degree plan.
+Most College of Science
+degree programs contain
+elective credits students may
+use to pursue courses that
+relate to their interests or
+which support their major
+area of study. The elective
+area of a degree plan may
+also be used to complete
+minors, second majors and
+certificates such as the
+Entrepreneurial
+Certificate. With the
+exception of courses on the
+No Count List, any Purdue
+course may be used to meet
+the elective area of a
+student’s degree plan.
+College of Science Core
+Requirements
+All Students starting Purdue
+University Fall semester,
+2007 or later are required to
+pursue the 2007 Science
+Core curriculum.
+The College of Science Core
+Curriculum requires the
+completion of approved
+coursework and/or
+experiential learning
+opportunities in the following
+academic areas:
+     Composition and
+     Presentation
+     Computing
+     Cultural Diversity
+---
+       (Language and Culture)
+       General Education
+       Great Issues in Science
+       Laboratory Science
+       Mathematics
+       Science Technology and
+       Society
+       Statistics
+       Teambuilding and
+       Collaboration
+       No Count List
+Earning Core Curricular
+Requirements through
+Experience
+Students may meet selected
+core curriculum requirements
+through approved
+experiential learning
+opportunities. Interested
+students should contact their
+academic advisor for more
+information on this option
+and incorporating
+experiential learning into their
+four-year program of study.
+For more information on
+earning requirements through
+experience, please click
+here.
+Computer
+Science Major
+Courses (46-50
+credits)
+    Required CS
+    Major Math
+    Courses (7-8
+    credits)
+    Must have C or better to
+    meet prerequisite for
+    certain upper level CS
+    courses
+            MA 26100 -
+            Multivariate Calculus
+            or
+            MA 27101 - Honors
+            Multivariate Calculus
+
+            MA 26500 - Linear
+            Algebra or
+            MA 35100 -
+            Elementary Linear
+            Algebra
+---
+Required CS
+Major Core
+Courses (21
+credits)
+Must have C or better in
+all courses.
+        CS 18000 - Problem
+        Solving And Object-
+        Oriented
+        Programming ♦
+        (satisfies Computing
+        and Teambuilding
+        requirements for
+        College of Science
+        core)
+        CS 18200 -
+        Foundations Of
+        Computer Science
+         ♦
+        CS 24000 -
+        Programming In C
+         ♦
+        CS 25000 - Computer
+        Architecture
+        CS 25100 - Data
+        Structures And
+        Algorithms
+        CS 25200 - Systems
+        Programming
+Programming
+Language
+Concentration
+(18 credits)
+     Required
+     Courses
+            CS 35200 -
+            Compilers:
+            Principles And
+            Practice
+            CS 35400 -
+            Operating Systems
+            CS 45600 -
+            Programming
+            Languages
+     Selectives
+     Choose 3 courses.
+            CS 30700 -
+            Software
+            Engineering I or
+            CS 40800 -
+            Software Testing
+---
+                CS 34800 -
+                Information
+                Systems or
+                CS 44800 -
+                Introduction To
+                Relational
+                Database Systems
+                CS 35300 -
+                Principles Of
+                Concurrency And
+                Parallelism
+                CS 38100 -
+                Introduction To
+                The Analysis Of
+                Algorithms
+                CS 42600 -
+                Computer Security
+                CS 48300 -
+                Introduction To
+                The Theory Of
+                Computation
+                CS 56000 -
+                Reasoning About
+                Programs
+
+                MA 38500 -
+                Introduction To
+                Logic or
+                MA 45300 -
+                Elements Of
+                Algebra I
+Other
+Departmental/P
+rogram Course
+Requirements
+(32-54 credits)
+    COLLEGE OF
+    SCIENCE CORE
+    REQUIREMENTS
+    ^ - Labeled as a Science
+    Core Selection in the four
+    year plan of study
+    * - Requirement may be
+    met with a zero credit
+    experiential learning
+    option. See your advisor
+    for more information.
+         Composition &
+         Presentation
+              First-Year
+              Composition (3-
+              4 credits)
+---
+Choose one course
+from the Written
+Communication list
+here. (satisfies
+Written
+Communication and
+Information Literacy
+for core)
+Technical
+Writing And
+Presentation* (0-
+6 credits)
+Students may elect
+to take one course
+(COM 21700), a
+combination of
+courses, or
+experiences to meet
+the TWTP
+requirement. The list
+of approved courses
+and experiences
+can be found here
+(ADD LINK IN
+ACALOG). (satisfies
+OC for core)
+Special Note:
+Students
+completing
+both COM
+11400 (elective) and
+COM
+21700 (Technical
+Writing and
+Presentation
+requirement) may
+use both courses to
+meet degree
+requirements.
+*Students wishing to
+meet the Technical
+Presentation and/or
+Technical Writing
+requirement through
+experience are
+required to
+complete
+the Experiential
+Learning Contract
+process.
+International
+Students Only:
+International
+students whose
+primary high
+school/equivalent
+instruction
+was not in English
+---
+    may meet this
+    requirement with a
+    course option only.
+Computing
+Met with required
+major coursework.
+Cultural
+Diversity
+(Language &
+Culture)^* (0-9
+credits)
+Choose courses from
+this list to fulfill each
+Option below (select
+courses COULD satisfy
+Humanities for core).
+      Language &
+      Culture Option I
+      Language &
+      Culture Option II
+      Language &
+      Culture Option III
+General
+Education^ (9
+credits)
+Choose courses from
+this list to fulfill each
+Option below (select
+courses COULD satisfy
+Behavioral/Social
+Science for core).
+      General Education
+      Option I
+      General Education
+      Option II
+      General Education
+      Option III
+Great Issues In
+Science (3
+credits)
+Choose one from
+this list.
+Laboratory
+Science (6-8
+credits)
+Choose courses from
+this list to fulfill each
+Option below (satisfies
+Science for core).
+---
+       Laboratory
+       Science Option I
+       Laboratory
+       Science Option II
+Mathematics (8-
+10 credits)
+(satisfies Quantitative
+Reasoning for core)
+       MA 16100 - Plane
+       Analytic Geometry
+       And Calculus I
+       (must have C or
+       better to meet
+       prerequisite for CS
+       18200) or
+       MA 16500 -
+       Analytic Geometry
+       And Calculus I
+       (must have C or
+       better to meet
+       prerequisite for CS
+       18200)
+
+       MA 16200 - Plane
+       Analytic Geometry
+       And Calculus II or
+       MA 16600 -
+       Analytic Geometry
+       And Calculus II
+Science
+Technology and
+Society^* (0-3
+credits)
+Choose one from the
+Science Technology
+and Society list here,
+excluding those on the
+College of Science No
+Count list (satisfies STS
+for core).
+Statistics (3
+credits)
+       STAT 35000 -
+       Introduction To
+       Statistics ♦ or
+       STAT 51100 -
+       Statistical
+       Methods ♦
+Team-Building
+and
+Collaboration
+Met with required
+---
+       major coursework.
+Electives (16-
+42 credits)
+CS 19300 - Tools is a
+required freshman seminar
+course; corequisites with CS
+18000. Theis is not a degree
+requirement. CS 29100 -
+Sophomore Development
+Seminar and CS 39100 -
+Junior Resources
+Seminar are optional but
+recommended.
+Grade
+Requirements
+     All major required
+     courses, all track
+     requirements and track
+     selectives, and their pre-
+     requisites, regardless of
+     department, must be
+     completed with a grade
+     of C or better.
+     All track requirements,
+     regardless of
+     department, must be
+     completed with a grade
+     of C or higher.
+     Minimum grade
+     requirements for
+     prerequisites is C unless
+     alternative minimum
+     grade requirement is
+     listed.
+GPA
+Requirements
+     2.0 Major and
+     Graduation GPA
+     required for Bachelor of
+     Science degree.
+Course
+Requirements
+& Notes
+     Enrollment in freshman
+     seminar course  CS
+     19300  is required with
+     CS 18000 . This is not a
+     degree requirement. CS
+     29100 - Sophomore
+     Development Seminar
+---
+      and CS 39100 - Junior
+     Resources Seminar  are
+     optional but
+     recommended.
+     Courses cannot double
+     count between General
+     Education, Culture and
+     Diversity, and Great
+     Issues requirements.
+College of
+Science
+Pass/No Pass
+Option Policy
+     Only free electives and
+     courses at the 50000-
+     level general education
+     requirement may be
+     taken under the
+     pass/not-pass option.
+     The pass/not-pass
+     grade mode may be
+     entered for courses
+     which are not required
+     by a student’s major(s),
+     minor(s) or science core
+     curriculum.
+     Grade mode Passing is
+     equivalent to at a
+     minimum grade of C-
+     had a letter grade been
+     awarded.
+     Students may elect to
+     use the pass/not-pass
+     option for no more than
+     20% of the 124/120
+     credit requirement for
+     graduation and for no
+     more than two courses
+     per academic year (Fall-
+     Summer).
+     The pass/not-pass
+     option cannot be elected
+     for a course that has
+     already been completed
+     with a letter grade.
+     University Regulation.
+     Students may take
+     elective credit while
+     abroad using the P/NP
+     mode.  In the case of
+     universities which only
+     post P/NP, the
+     University will apply a
+     calculation process to
+     determine a letter grade.
+     Department of
+     Languages and Cultures
+     P/NP policy and
+---
+      Language Placement
+      results. Students must
+      take advanced
+      coursework for a letter
+      grade to receive credit
+      for lower-level language
+      courses.
+College of
+Science
+Transfer Credit
+Policy
+College of Science degree
+programs vary widely in their
+approval and use of non-
+Purdue originated credit (AP,
+IB, CLEP, and transfer credit).
+Students work closely with
+their academic advisors and
+degree plan audits to
+review the use and approval
+of each non-Purdue credit
+option.
+University
+Requirements
+    University Core
+    Requirements
+    For a complete listing of
+    University Core Course
+    Selectives, visit the
+    Provost’s Website.
+          Human Cultures:
+          Behavioral/Social
+          Science (BSS)
+          Human Cultures:
+          Humanities (HUM)
+          Information Literacy
+          (IL)
+          Oral Communication
+          (OC)
+          Quantitative
+          Reasoning (QR)
+          Science #1 (SCI)
+          Science #2 (SCI)
+          Science, Technology,
+          and Society (STS)
+          Written
+          Communication (WC)
+    Civics Literacy
+    Proficiency
+    Requirement
+---
+The Civics Literacy
+Proficiency activities are
+designed to develop
+civic knowledge of
+Purdue students in an
+effort to graduate a
+more informed
+citizenry. For more
+information visit the
+Civics Literacy
+Proficiency website.
+Students will complete the
+Proficiency by passing a
+test of civic knowledge,
+and completing one of
+three paths:
+     Attending six
+     approved civics-
+     related events and
+     completing an
+     assessment for each;
+     or
+     Completing 12
+     podcasts created by
+     the Purdue Center for
+     C-SPAN Scholarship
+     and Engagement that
+     use C-SPAN material
+     and completing an
+     assessment for each;
+     or
+     Earning a passing
+     grade for one
+     of these approved
+     courses (or
+     transferring in
+     approved AP or
+     departmental credit in
+     lieu of taking a
+     course).
+Upper Level
+Requirement
+     Resident study at
+     Purdue University for
+     at least two
+     semesters and the
+     enrollment in and
+     completion of at least
+     32 semester hours of
+     coursework required
+     and approved for the
+     completion of the
+     degree. These
+     courses are expected
+     to be at least junior-
+     level
+     (30000+) courses.
+     Students should be
+     able to fulfill most, if
+     not all, of these
+---
+            credits within their
+            major requirements;
+            there should be a
+            clear pathway for
+            students to complete
+            any credits not
+            completed within
+            their major.
+Sample 4-Year
+Plan
+    Fall 1st Year
+            CS 18000 - Problem
+            Solving And Object-
+            Oriented
+            Programming ♦ ***
+
+            MA 16100 - Plane
+            Analytic Geometry
+            And Calculus I or
+            MA 16500 - Analytic
+            Geometry And
+            Calculus I
+
+            Science Core
+            Selection - Credit
+            Hours: 3.00-4.00
+            (English Composition
+            suggested.)
+            Elective - Credit
+            Hours: 3.00
+            Elective - Credit
+            Hours: 1.00 (CS
+            19300 suggested.)
+         15-17 Credits
+    Spring 1st Year
+            CS 18200 -
+            Foundations Of
+            Computer Science ♦
+            ***
+            CS 24000 -
+            Programming In C ♦
+            ***
+
+            MA 16200 - Plane
+            Analytic Geometry
+            And Calculus II or
+            MA 16600 - Analytic
+            Geometry And
+            Calculus II
+
+            Science Core First-
+            Year Composition
+            Selection - Credit
+---
+        Hours: 3.00-4.00
+        Electives - Credit
+        Hours: 1.00 - 3.00
+     14-18 Credits
+Fall 2nd Year
+        CS 25000 - Computer
+        Architecture ***
+        CS 25100 - Data
+        Structures And
+        Algorithms ***
+
+        MA 26100 -
+        Multivariate Calculus
+        or
+        MA 27101 - Honors
+        Multivariate Calculus
+
+        Science Core
+        Selection - Credit
+        Hours: 3.00 - 4.00
+        Elective - Credit
+        Hours: 1.00 (CS
+        29100 recommended)
+     15-17 Credits
+Spring 2nd Year
+        CS 25200 - Systems
+        Programming ***
+
+        MA 26500 - Linear
+        Algebra or
+        MA 35100 -
+        Elementary Linear
+        Algebra
+
+        Science Core
+        Selection - Credit
+        Hours: 3.00 - 4.00
+        (COM
+        21700 suggested.)
+        Science Core
+        Selection - Credit
+        Hours: 3.00 - 4.00
+        Elective - Credit
+        Hours: 3.00
+     16-17 Credits
+Fall 3rd Year
+        STAT 35000 -
+        Introduction To
+        Statistics ♦ or
+---
+        STAT 51100 -
+        Statistical Methods
+        ♦
+
+        Programming
+        Language
+        Concentration course
+        - Credit Hours: 3.00
+        ***
+        Programming
+        Language
+        Concentration course
+        - Credit Hours: 3.00
+        ***
+        Science Core
+        Selection - Credit
+        Hours: 3.00 - 4.00
+        Elective - Credit
+        Hours: 1.00 (CS
+        39100 recommended)
+        Elective - Credit
+        Hours: 3.00
+     16-17 Credits
+Spring 3rd Year
+        Programming
+        Language
+        Concentration course
+        - Credit Hours: 3.00
+        ***
+        Programming
+        Language
+        Concentration course
+        - Credit Hours: 3.00
+        ***
+        Great Issues In
+        Science Selection -
+        Credit Hours: 3.00
+        Science Core
+        Selection - Credit
+        Hours: 3.00 - 4.00
+        Elective - Credit
+        Hours: 3.00
+     15-17 Credits
+Fall 4th Year
+        Programming
+        Language
+        Concentration course
+        - Credit Hours: 3.00
+        ***
+        Science Core
+        Selection - Credit
+        Hours: 3.00 - 4.00
+        Science Core
+---
+         Selection - Credit
+         Hours: 3.00 - 4.00
+         Elective - Credit
+         Hours: 3.00
+         Elective - Credit
+         Hours: 3.00
+         Elective - Credit
+         Hours: 1.00
+        16-18 Credits
+    Spring 4th Year
+         Programming
+         Language
+         Concentration course
+         - Credit Hours: 3.00
+         ***
+         Science Core
+         Selection - Credit
+         Hours: 3.00 - 4.00
+         Science Core
+         Selection - Credit
+         Hours: 3.00 - 4.00
+         Elective - Credit
+         Hours: 3.00
+         Elective - Credit
+         Hours: 3.00
+        15-17 Credits
+World
+Language
+Courses
+World Language proficiency
+requirements vary
+by program. The following list
+is inclusive of all world
+languages PWL offers for
+credit; for acceptable
+languages and proficiency
+levels, see your advisor.
+(ASL-American Sign
+Language; ARAB-Arabic;
+CHNS-Chinese; FR-French;
+GER-German; GREK-
+Greek(Ancient); HEBR-
+Hebrew(Biblical); HEBR-
+Hebrew(Modern); ITAL-
+Italian; JPNS-Japenese;
+KOR-Korean; LATN-Latin;
+PTGS=Portuguese; RUSS-
+Russian; SPAN-Spanish)
+Critical Course
+        The ♦ course is
+---
+        considered
+        critical.
+        In alignment with
+        the Degree Map
+        Guidance for
+        Indiana’s Public
+        Colleges and
+        Universities,
+        published by the
+        Commission for
+        Higher Education
+        (pursuant to HEA
+        1348-2013), a
+        Critical Course is
+        identified as “one
+        that a student
+        must be able to
+        pass to persist
+        and succeed in a
+        particular major.
+         Students who
+        want to be
+        nurses, for
+        example, should
+        know that they
+        are expected to
+        be proficient in
+        courses like
+        biology in order
+        to be successful.
+        These would be
+        identified by the
+        institutions for
+        each degree
+        program”.
+Disclaimer
+        The student is
+        ultimately
+        responsible for
+        knowing and
+        completing all
+        degree
+        requirements.
+        Consultation with
+        an advisor may
+        result in an
+        altered plan
+        customized for
+        an individual
+        student.
+        The
+        myPurduePlan
+        powered by
+        DegreeWorks is
+        the knowledge
+        source for
+        specific
+        requirements and
+---
+                                                                                   completion.
+                                                                             Return to: College of Science
+                                                                                              a
+   All catalogs (/misc/catalog_list.php?catoid=16) © 2024 Purdue University.
+Powered by the Acalog™ Academic Catalog Management System™ (ACMS™)
+                             (http://www.digarc.com).

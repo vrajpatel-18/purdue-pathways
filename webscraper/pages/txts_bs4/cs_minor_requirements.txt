@@ -1,0 +1,249 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/minor.html
+Minor in Computer Science
+Minor Requirements:
+Students' current academic advisor can add the CS minor at any time.  
+Students must complete five CS courses from the approved list of minor courses (see below drop-downs for requirements for student’s catalog term). Once the minor is complete, students will not be able to take more CS courses. 
+Students must earn a minimum grade of 'C' in all CS courses used towards the minor (a 'C-' is not accepted). 
+Students must take CS courses in off-peak terms. See the  
+Course Access & Request policy
+ for more information about when courses are off-peak and available to non-majors.  
+Effective Fall 2023,
+ Declared CS Minors
+ will be able to register for core courses the Friday before classes begin, space permitting, and in off-peak semesters.  
+Appeals to register for courses during peak terms are not accepted. 
+PEAK/OFF-PEAK Semesters
+Semester
+CS 18000
+CS 18200
+CS 24000
+CS 2500
+CS 25100
+CS 25200
+Fall
+PEAK
+OFF-PEAK 
+OFF-PEAK 
+PEAK
+PEAK
+OFF-PEAK 
+Spring
+OFF-PEAK 
+PEAK
+PEAK
+OFF-PEAK 
+OFF-PEAK 
+PEAK
+Summer
+OFF-PEAK 
+OFF-PEAK 
+OFF-PEAK 
+OFF-PEAK 
+OFF-PEAK 
+OFF-PEAK 
+Notes:
+The CS department 
+cannot
+ guarantee students seeking a minor access to any courses.   
+Enrollment in all CS courses is subject to space availability. 
+CS majors are given priority in registering for all CS courses. 
+Students seeking a CS minor have access to courses during off-peak terms.   
+All Course prerequisites must be met in order to enroll in any Computer Science course. 
+NO overrides for prerequisites will be approved. 
+All courses used for the minor must be taken at Purdue University West Lafayette campus. 
+CS Minors are limited to five (5) CS courses, students who request to take more CS courses beyond the courses that complete their CS Minor will be denied.
+Students are responsible for maintaining an up-to-date minor plan of study with their primary academic advisor, for knowing registration timelines, and for requesting space through the correct process and off-peak terms. 
+CS Minor Requirements Effective Summer 2023 and Forward
+To obtain a minor in Computer Science, students must take and pass five (5) CS classes that fulfill CS major requirements with a minimum grade of 'C' at Purdue University West Lafayette.
+Notes:
+Five (5) CS courses from the list below may be used for the minor.  AP Credit can be used for the minor application, but WILL NOT count towards the five (5) CS courses required to complete the minor.
+Students may use AP credit to bypass CS 18000 as follows:
+Score a 4 or 5 on the AP Computer Science exam AND pass the CS Proficiency Exam for CS 18000.
+Students who bypass CS 18000 will need to take five (5) CS courses at Purdue University West Lafayette in order to complete the minor.
+Math majors may use MA 37500 in place of CS 18200 as a prerequisite for other CS courses as follows:
+MA 37500 WILL NOT count towards the five (5) CS courses required to complete the minor.
+Students who use MA 37500 for CS 18200 will need to take five (5) CS courses at Purdue University West Lafayette in order to complete the minor.
+Required Courses (10 credits)
+Course
+Credits   
+CS 18000: Problem Solving and Object-Oreiented Programming 
+4
+CS 18200: Foundations of Computer Science
+3
+CS 24000: Programming in C
+3
+Elective Courses (6-8 credits)
+Course
+Credits
+CS 25000: Computer Architecture
+4
+CS 25100: Data Structures and Algorithms
+3
+CS 25200: Systems Programming
+4
+CS 30700: Software Engineering I
+3
+CS 31400: Numerical Methods
+3
+CS 33400: Fundamentals of Computer Graphics
+3
+CS 34800: Information Systems
+3
+CS 35500: Introduction to Cybersecurity
+3
+CS 38100: Introduction to the Analysis of Algorithms
+3
+CS 40800: Software Testing
+3
+CS 44800: Introduction to Relational Database System
+3
+CS 47100: Introduction to Artificial Intelligence
+3
+The Student is ultimately responsible for knowing and completing all degree requirements. MyPurduePlan and the Computer Science website are sources for specific requirements and completion.
+CS Minor Requirements Effective Fall 2018 - Spring 2023
+CS Minor Application Process: (ended Spring 2023, no longer in use)
+Take an approved Calculus course to meet the prerequisite for CS 18000.
+Approved Calculus courses: MA 16100 or MA 16300 or MA 16500 or MA 16700 or (MA 16010 AND MA 16020) or (MA 22100 AND MA 22200) or MA 16021 or (MA 22300 AND MA 22400) or establish credit for Calculus I through AP credit, Transfer Credit, or credit by exam.
+Take CS 18000 during off-peak semester.
+For more information about on-peak and off-peak semesters see the 
+Course Access & Request Policy
+Letter grade of C or better must be earned.
+Complete the 
+CS Minor Application
+ (Qualtrics) with your current academic advisor.
+Only CS advisors may add the CS Minor to a student's record.
+Students and their academic advisor will receive an email confirmation of the submission.
+Students submit the application anytime during or after the semester they take CS 18000.
+The CS undergraduate office will add the minor designation to the student's record 
+AFTER
+ CS 18000 is completed and grades are posted.
+Notes:
+The CS department 
+cannot
+ guarantee students seeking a minor access to any courses.  
+Enrollment in all CS courses is subject to space availability.
+CS majors are given priority in registering for all CS courses.
+All Course prerequisites must be met in order to enroll in any Computer Science course.
+No overrides for prerequisites will be approved.
+All courses used for the minor must be taken at Purdue University West Lafayette campus.
+Students must earn a minimum grade of 'C' in all CS courses used towards the minor (a 'C-' in not accepted).
+CS Minors are expected to take CS courses during off-peak sessions.
+Course Access & Request Policy
+CS Minors are limited to five (5) CS courses and no more.
+Students are responsible for maintaining an up-to-date minor plan of study, for knowing registration timelines, and for requesting space through the correct process.
+To obtain a minor in Computer Science, students must take and pass five (5) CS classes that fulfill CS major requirements with a minimum grade of 'C' at Purdue University West Lafayette.
+Requirements:
+Five (5) CS courses from the list below may be used for the minor.  AP Credit can be used for the minor application, but WILL NOT count towards the five (5) CS courses required to complete the minor.
+Students may use AP credit to bypass CS 18000 as follows:
+Score a 4 or 5 on the AP Computer Science exam AND pass the CS Proficiency Exam for CS 18000.
+Students who bypass CS 18000 will need to take five (5) CS courses at Purdue University West Lafayette in order to complete the minor.
+Math majors may use MA 37500 in place of CS 18200 as a prerequisite for other CS courses as follows:
+MA 37500 WILL NOT count towards the five (5) CS courses required to complete the minor.
+Students who use MA 37500 for CS 18200 will need to take five (5) CS courses at Purdue University West Lafayette in order to complete the minor.
+Required Courses (10 credits)
+Course
+Credits   
+CS 18000: Problem Solving and Object-Oreiented Programming 
+4
+CS 18200: Foundations of Computer Science
+3
+CS 24000: Programming in C
+3
+Elective Courses (6-8 credits)
+Course
+Credits
+CS 25000: Computer Architecture
+4
+CS 25100: Data Structures and Algorithms
+3
+CS 25200: Systems Programming
+4
+CS 30700: Software Engineering I
+3
+CS 31400: Numerical Methods
+3
+CS 33400: Fundamentals of Computer Graphics
+3
+CS 34800: Information Systems
+3
+CS 35500: Introduction to Cybersecurity
+3
+CS 38100: Introduction to the Analysis of Algorithms
+3
+CS 40800: Software Testing
+3
+CS 44800: Introduction to Relational Database System
+3
+CS 47100: Introduction to Artificial Intelligence
+3
+The Student is ultimately responsible for knowing and completing all degree requirements. MyPurduePlan and the Computer Science website are sources for specific requirements and completion.
+CS Minor Requirements Effective Fall 2016 - Summer 2018
+To obtain a minor in Computer Science, students must take and pass five (5) CS classes that fulfill CS major requirements with a minimum grade of 'C' at Purdue University West Lafayette.
+Notes:
+Five (5) CS courses from the list below may be used for the minor. AP credit can be used for the minor application, but WILL NOT count towards one of the five (5) required CS courses.
+Students may use AP credit to bypass CS 18000 as follows:
+Score a 4 on the AP exam and pass the CS 1800 proficiency exam
+Score a 5 on the AP exam
+Students who bypass CS 18000 will need to take five (5) CS courses at Purdue University West Lafayette in order to complete the minor.
+Math majors may use MA 37500 in place of CS 18200 as a prerequisite for other CS courses as follows:
+MA 37500 WILL NOT count towards the five (5) CS courses required to complete the minor. 
+Students who use MA 37500 for CS 18200 will need to take five (5) CS courses at Purdue University West Lafayette in order to complete the minor.
+Required Courses (10 credits)
+Course
+Credits
+CS 18000: Problem Solving and Object-Oriented Programing
+4
+CS 18200: Foundations of Computer Science
+3
+CS 24000: Programming in C
+3
+Elective Courses (6-8 credits)
+Course
+Credits
+CS 25000:  Computer Architecture
+4
+CS 25100:  Data Structures and Algorithms
+3
+CS 25200:  Systems Programming
+4
+CS 30700:  Software Engineering I
+3
+CS 31400:  Numerical Methods
+3
+CS 33400:  Fundamentals of Computer Graphics
+3
+CS 34800:  Information Systems
+3
+CS 35500:  Introduction to Cryptography
+3
+CS 38100:  Introduction to the Analysis of Algorithms
+3
+CS 40800:  Software Testing
+3
+CS 44800:  Introduction to Relational Database Systems
+3
+CS 47100:  Introduction to Artificial Intelligence
+3
+The Student is ultimately responsible for knowing and completing all degree requirements.  MyPurduePlan and the Computer Science website are sources for specific requirements and completion.
+CS Minor Requirements Effective Summer 2013 - Summer 2016
+To obtain a minor in Computer Science, students must take and pass five (5) CS classes that fulfill CS major requirements with a minimum of 'C' st Purdue University West Lafayette.
+Notes:
+May use any course number CS _9000 (i.e. CS 39000 or CS 49000), but must be confirmed with the Computer Science Advising Office.
+None of the following can be used:
+CS independent study courses
+EPCS courses (EPICS)
+CS courses numbered below CS 18000
+CS 23500
+The Student is ultimately responsible for knowing and completing all degree requirements.  MyPurduePlan and the Computer Science website are sources for specific requirements and completion.
+CS Minor Requirements Effective Fall 2006 - Spring 2013
+To obtain a minor in Computer Science, students must take and pass five (5) CS classes that fulfill CS major requirements with a minimum grade of 'C' at Purdue University West Lafayette.
+Notes:
+Only one CS 49000 (3 credits), may be used
+None of the following can be used:
+Variable Title courses (i.e. CS 39000)
+CS independent study courses
+EPCS courses (EPICS)
+CS Courses numbered below CS 18000
+CS 23500
+The Student is ultimately responsible for knowing and completing all degree requirements.  MyPurduePlan and the Computer Science website are sources for specific requirements and completion.
+Last Updated:
+ Feb 5, 2024 4:54 PM

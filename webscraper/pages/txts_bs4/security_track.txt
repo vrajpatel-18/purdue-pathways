@@ -1,0 +1,60 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/track-security-fall2023.html
+Security Track
+Objectives
+The track is designed to prepare students to become computer scientists who:
+understand the importance of and are capable of designing and developing secure software,
+are familiar with the societal impact of insecure software and related infrastructure, and
+are familiar with and can use techniques for testing and assessing systems for secure operation.
+All major required courses, all track requirements and track selectives, and their pre-requisites, regardless of department, must be completed with a grade of C or better
+.
+Required Courses (3)
+Course
+Title
+CS 35400
+Operating Systems
+CS 35500
+Introduction to Cryptography
+CS 42600
+Computer Security
+Electives (3)
+Course
+Title
+CS 30700
+or
+CS 40800
+Software Engineering I
+Software Testing
+CS 34800
+or
+CS 44800
+or
+CS 47300
+Information Systems
+Introduction to Relational Database Systems
+Web Information Search and Management
+CS 35200
+Compilers: Principles and Practice
+CS 35300
+or
+CS 45600
+Principles Of Concurrency And Parallelism
+Programming Languages
+CS 37300
+or
+CS 47100
+Data Mining and Machine Learning
+Introduction to Artificial Intelligence
+CS 38100
+Introduction to the Analysis of Algorithms
+CS 42200
+Computer Networks
+CS 48900
+or
+CS 49000-DSO
+Embedded Systems
+Distributed Systems
+CS 49000-SWS
+Software Security
+Note: When an A or B choice is listed, only one of A and B can be used to satisfy the elective requirement.
+Last Updated:
+ Jun 23, 2023 9:28 AM

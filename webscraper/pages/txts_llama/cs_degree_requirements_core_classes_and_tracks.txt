@@ -1,0 +1,77 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/bachelor.html
+Computer Science Degree Requirements
+The first six (core) courses, which are taken in the freshman and sophomore years, lay a strong foundation for computer
+science majors. Each student then selects a Track in which to complete 6 advanced courses. Each Track has 2-4 Required
+Courses and a list of potential electives. A student may complete more than one Track if desired.
+The flexibility of the Computer Science curriculum comes from requiring only six foundational (core) courses followed by one
+or more Tracks, which allow students to deepen their understanding in a specific area of computer science. Some intersection
+between tracks allows specialization in multiple areas, for example, Systems Programming and Software Engineering.
+All beginning computer science majors are required to take CS 19300, Tools. This is a 1 credit course that Computer Science
+students take in their first semester. Students are equally encouraged to take CS 29100, Sophomore Development Seminar,
+and CS 39100, Junior Resource Seminar.
+All major required courses, all track requirements and track selectives, and their pre-requisites, regardless
+of department, must be completed with a grade of C or better.
+Core Requirements (21)
+  Course                               Title                                                                                                                  Credits  Semester
+  CS 18000                             Problem Solving and Object-Oriented Programming                                                                        4        1
+  CS 18200                             Foundations of Computer Science                                                                                        3        2
+  CS 24000                             Programming in C                                                                                                       3        2
+  CS 25000                             Computer Architecture                                                                                                  4        3-4
+  CS 25100                             Data Structures and Algorithms                                                                                         3        3-4
+  CS 25200                             Systems Programming                                                                                                    4        4
+Transfer credit (including credit from regional campuses) for 100 and 200 level core courses is possible only
+if those courses are taken before the student enters the Purdue West Lafayette Computer Science program.
+
+Tracks:
+To view course details for all tracks at the same time, click                                              Computer Science Track Details Prior to Fall 2019
+(PDF),  Computer Science Track Details as of Fall 2019 (PDF), or Computer Science Track Details as of Fall
+2023 (PDF).
+The Department of Computer Science does not accept transfer credit for 300 or 400 level CS coursework
+(with the exception of pre-approved Study Abroad coursework).
+No course can be counted both for required and elective credit. (This holds for all tracks).
+---
+Computer Science Tracks
+                                                                       Tracks                 Fall             Fall 2023               Track
+                                                                                           2019 -                      &                Chair
+                                                                                           Spring               Forward
+                                                                                            2023
+  Computational Science and Engineering Track: Introduces computer scienc                    Link                   Link           David Glei
+  e basics of Computational Science and Engineering.                                                                                       ch
+  Computer Graphics and Visualization Track: Prepares students for work                      Link                   Link          Daniel Alia
+  and/or for graduate school in computer graphics, visualization, and related areas.                                                       ga
+  Database and Information Systems Track: Prepares students to apply databa                  Link                   Link          Walid Aref
+  se principles, algorithms, and optimization techniques to design, build, and manag
+  e current and future database and information systems.
+                                                                                             Link                   Link          Mikhail At
+  (Algorithmic) Foundations Track: (Formerly: Foundations of Computer Scie
+                                                                                                                                        allah
+  nce) Gives students a broad education on foundational concepts, tools, and techniq
+  ues underlying existing and future areas of computer science.
+  Machine Intelligence Track: Prepares students to work in fields related to analy           Link                   Link          Chris Clifto
+  sis of data, including areas such as machine learning, artificial intelligence, informa                                                   n
+  tion retrieval, and data mining.
+  Programming Language Track: Prepares students to work in fields related to p               Link                   Link          Ben Delaw
+  rogram understanding, analysis, manipulation and transformation.                                                                        are
+  Security Track: Prepares students to design and develop secure software and to u           Link                   Link          Ninghui Li
+  se techniques for testing and assessing systems for secure operation.
+  Software Engineering Track: Prepares students to design and develop large sof              Link                   Link           H.E. Duns
+  tware products, be familiar with analysis, design, testing, and maintenance, and be                                                   more
+  able to work in teams.
+  Systems Software Track: (Formerly: Systems Programming) Prepares student                   Link                   Link          Douglas Co
+  s to build low-level operating system software, system tools, and programs that co                                                     mer
+  mmunicate over a network.
+Detailed BS in Computer Science Description and Plan of Study from the University Catalog
+
+College of Science Requirement Restrictions
+Teambuilding and Collaboration (Cannot be met through credit-by-exam)
+Approved course & approved experience: No departmental restrictions
+Unacceptable courses for credit for CS students in College of Science
+CURRICULUM RESOURCES
+Computer Science prerequisite flowchart (PDF)
+Visit the College of Science Curriculum Resources page to find Degree Progression Guides.
+                                                                                              Last Updated: Oct 31, 2023 5:24 PM
+---
+          Department of Computer Science, 305 N. University Street, West Lafayette, IN 47907
+                               Phone: (765) 494-6010 • Fax: (765) 494-0739
+Copyright © 2024 Purdue University | An equal access/equal opportunity university | Copyright Complaints
+   Trouble with this page? Disability-related accessibility issue? Please contact the College of Science.

@@ -1,0 +1,80 @@
+https://catalog.purdue.edu/preview_program.php?catoid=16&poid=25257&returnto=20097
+a
+Share this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+2023-2024 University Catalog
+Computer Science Minor
+ Return to: 
+College of Science
+Requirements for the Minor (16-18 credits)
+Students must complete five CS courses from the approved list of minor courses.
+Students must earn a minimum grade of ‘C’ in all CS courses used towards the minor (a ‘C-’ in not accepted).
+Students must take CS courses in off-peak terms.  See the 
+Course Access & Request policy
+ for more information for when courses are off-peak and available to non-majors.
+Required Courses (10 credits)
+CS 18000 - Problem Solving And Object-Oriented Programming 
+ *
+CS 18200 - Foundations Of Computer Science 
+ **
+CS 24000 - Programming In C 
+Elective Courses - Choose Two (6-8 credits)
+CS 25000 - Computer Architecture 
+CS 25100 - Data Structures And Algorithms 
+CS 25200 - Systems Programming 
+CS 30700 - Software Engineering I 
+CS 31400 - Numerical Methods 
+CS 33400 - Fundamentals Of Computer Graphics 
+CS 34800 - Information Systems 
+CS 35500 - Introduction To Cryptography 
+CS 38100 - Introduction To The Analysis Of Algorithms 
+CS 40800 - Software Testing 
+CS 44800 - Introduction To Relational Database Systems 
+CS 47100 - Introduction to Artificial Intelligence 
+Notes
+Enrollment in all CS courses is subject to space availability and CS majors are given priority in registering for all CS courses.  The CS department cannot guarantee students seeking a CS minor access to courses.  
+All Course prerequisites must be met to enroll in any Computer Science course.  No overrides for prerequisites will be approved.
+All courses used for the minor must be taken at Purdue University West Lafayette campus.
+CS Minors are limited to five (5) CS courses.
+Students are responsible for understanding our 
+Course Access & Request policy
+, knowing registration timelines, and for requesting space through the correct process.
+*Students with AP CS credit plus a passing score in the 
+CS 18000
+ Proficiency Exam
+ (as described above) may use their AP credit in place of 
+CS 18000
+ as a pre-requisite for other CS courses, but
+ AP credit will not count
+ toward the five (5) CS courses. In this case, the student must choose 
+three
+ of the Elective Courses.
+**Math majors may use 
+MA 37500
+ in place of 
+CS 18200
+ as a pre-requisite for other CS courses, but 
+MA 37500
+ will not count toward the five (5) CS courses.  In this case, the student must choose 
+three
+ of the Elective Courses.
+Disclaimer
+The student is ultimately responsible for knowing and completing all degree requirements.
+Consultation with an advisor may result in an altered plan customized for an individual student.
+The myPurduePlan powered by DegreeWorks is the knowledge source for specific requirements and completion.
+Close
+Close
+Close
+Close
+Close
+ Return to: 
+College of Science
+a
+Share this Page
+Facebook this Page (opens a new window)
+Tweet this Page (opens a new window)
+Print (opens a new window)
+Help (opens a new window)

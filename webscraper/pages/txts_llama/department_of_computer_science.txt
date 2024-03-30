@@ -1,0 +1,549 @@
+https://catalog.purdue.edu/preview_entity.php?catoid=16&ent_oid=4761&returnto=20097
+  17
+(//www.purdue.edu)
+Office of the Registrar
+(https://www.purdue.edu/index.html)
+  2023-2024 U…
+Catalog Search
+  Entire Catalog
+  Search Catalog                     Department
+      Whole Word/Phrase              of
+Advanced Search                      Computer
+                                     Science
+    Catalog Navigation
+                                         Return to:
+                                     College of Science
+                                     Department of
+                                     Computer
+                                     Science
+                                     Purdue Computer
+                                     Science is one of
+                                     the country’s top-
+                                     ranked programs.
+                                     Faculty members
+                                     are shaping the
+                                     future of information
+                                     technology through
+                                     cutting-edge
+                                     research. Students
+                                     can take courses
+                                     that include such
+                                     topics as artificial
+                                     intelligence and
+                                     machine learning,
+                                     security and
+                                     cryptography,
+                                     software
+                                     engineering,
+                                     networking,
+                                     operating systems,
+                                     graphics and
+                                     animation,
+                                     competitive
+                                     programming,
+                                     distributed systems,
+                                     information
+                                     systems, and
+                                     bioinformatics.
+                                     Computer Science
+                                     graduates pursue
+                                     careers in software
+                                     engineering, data
+                                     science, systems
+---
+development,
+animation and
+visualization,
+computational
+finance, consulting,
+information security,
+wireless systems,
+embedded systems,
+and biotechnology.
+Many also go on to
+graduate or
+professional school
+in areas such as
+engineering,
+business, law, or
+medicine.
+The Department
+also offers a Data
+Science program. A
+major in data
+science puts
+graduates at the
+forefront of an
+emerging field and
+prepares them for
+an exciting career at
+the intersection of
+computer science
+and statistics. Data
+Science is the
+interdisciplinary field
+of inquiry that uses
+quantitative and
+analytical methods
+to help gain insights
+and predictions
+based on big data.
+Students learn
+about key
+computational
+methods and
+statistical
+techniques and
+develop the deep
+analytical thinking
+skills needed to
+reason reliably,
+intelligently and
+creatively from data.
+The vast amounts of
+data generated
+every day has
+created a data-rich
+and data-driven
+world. The data
+science major opens
+pathways to careers
+in virtually every
+area of society, from
+healthcare, security
+and sustainability to
+education, business
+---
+and economics.
+The department is
+located in the
+Lawson Computer
+Science Building,
+which opened in
+2006. In addition to
+offering an inviting
+and comfortable
+environment, the
+building is equipped
+with cutting-edge
+networking and
+computing
+technologies,
+including 10-gigabit
+Ethernet cabling and
+wireless access
+throughout the
+building. There are
+four classrooms, five
+instructional labs,
+five research labs,
+and a student
+activity center. The
+building also offers
+students a variety of
+interaction areas,
+and a deli-style café
+and espresso bar. A
+16-by-9 foot tiled
+video wall is used
+for a variety of
+purposes, including
+notices of campus
+events, workshop
+and colloquium
+speakers, news and
+information, sporting
+events, research
+demonstrations, and
+class projects.
+The Purdue
+Computer Science
+Department offers a
+Bachelor of Science
+(BS), a minor in
+computer science,
+or a 5-year
+combined BS/MS
+degree. The
+department also
+offers an Honors
+Program, and the
+opportunity to
+participate in the
+Cooperative
+Education Program.
+A transfer program
+is also available,
+TSAP in Computer
+---
+Science.
+Computer Science
+Website
+Faculty
+Contact
+Information
+General
+Department
+Contact
+Purdue University
+Department of
+Computer Science
+305 N. University
+Street
+West Lafayette, IN
+47907-2107
+Phone: (765) 494-
+6010
+Fax: (765) 494-0739
+Graduate
+Information
+For Graduate
+Information please
+see Computer
+Science Graduate
+Program
+Information.
+Programs
+Baccalaureate
+     Artificial
+     Intelligence, BS
+     Computer
+     Science
+     Honors:
+     Algorithmic
+     Foundations,
+     BS
+     Computer
+     Science
+     Honors:
+     Computational
+     Science and
+     Engineering, BS
+     Computer
+     Science
+     Honors:
+     Computer
+     Graphics and
+     Visualization,
+     BS
+     Computer
+     Science
+     Honors:
+     Database and
+     Information
+---
+Systems, BS
+Computer
+Science
+Honors:
+Machine
+Intelligence, BS
+Computer
+Science
+Honors:
+Programming
+Language, BS
+Computer
+Science
+Honors:
+Security, BS
+Computer
+Science
+Honors:
+Software
+Engineering, BS
+Computer
+Science
+Honors:
+Systems
+Software, BS
+Computer
+Science:
+Algorithmic
+Foundations,
+BS
+Computer
+Science:
+Computational
+Science And
+Engineering, BS
+Computer
+Science:
+Computer
+Graphics and
+Visualization,
+BS
+Computer
+Science:
+Database and
+Information
+Systems, BS
+Computer
+Science:
+Machine
+Intelligence, BS
+Computer
+Science:
+Programming
+Language, BS
+Computer
+Science:
+Security, BS
+Computer
+Science:
+Software
+Engineering, BS
+---
+     Computer
+     Science:
+     Systems
+     Software, BS
+     Data Science,
+     BS (CS)
+Minor
+     Computer
+     Science Minor
+Pre-Program
+     Data Science
+     First Year (CS)
+Courses
+Computer
+Sciences
+     CS 10100 -
+     Digital Literacy
+     CS 15900 - C
+     Programming
+     CS 17600 -
+     Data
+     Engineering In
+     Python
+     CS 17700 -
+     Programming
+     With Multimedia
+     Objects
+     CS 18000 -
+     Problem
+     Solving And
+     Object-Oriented
+     Programming
+     CS 18200 -
+     Foundations Of
+     Computer
+     Science
+     CS 18300 -
+     Professional
+     Practice I
+     CS 18400 -
+     Professional
+     Practice II
+     CS 19000 -
+     Topics In
+     Computer
+     Sciences
+     CS 19100 -
+     Freshman
+     Resources
+     Seminar
+     CS 19300 -
+     Tools
+     CS 19700 -
+     Freshman
+     Honors Seminar
+     CS 21100 -
+     Competitive
+---
+Programming I
+CS 23500 -
+Introduction To
+Organizational
+Computing
+CS 24000 -
+Programming In
+C
+CS 24200 -
+Introduction To
+Data Science
+CS 25000 -
+Computer
+Architecture
+CS 25100 -
+Data Structures
+And Algorithms
+CS 25200 -
+Systems
+Programming
+CS 28400 -
+Professional
+Practice III
+CS 28401 -
+Professional
+Practice Part-
+Time
+CS 29000 -
+Topics In
+Computer
+Sciences
+CS 29100 -
+Sophomore
+Development
+Seminar
+CS 29199 -
+Cooperative
+Experience I
+CS 29299 -
+Cooperative
+Experience II
+CS 30700 -
+Software
+Engineering I
+CS 31100 -
+Competitive
+Programming II
+CS 31400 -
+Numerical
+Methods
+CS 33400 -
+Fundamentals
+Of Computer
+Graphics
+CS 34800 -
+Information
+Systems
+CS 35100 -
+Cloud
+Computing
+---
+CS 35200 -
+Compilers:
+Principles And
+Practice
+CS 35300 -
+Principles Of
+Concurrency
+And Parallelism
+CS 35400 -
+Operating
+Systems
+CS 35500 -
+Introduction To
+Cryptography
+CS 37300 -
+Data Mining
+And Machine
+Learning
+CS 38001 -
+C++
+Programming
+CS 38002 -
+Advanced Java
+Programming
+CS 38003 -
+Python
+Programming
+CS 38100 -
+Introduction To
+The Analysis Of
+Algorithms
+CS 38600 -
+Professional
+Practice IV
+CS 39000 -
+Topics In
+Computer
+Sciences
+CS 39100 -
+Junior
+Resources
+Seminar
+CS 39499 -
+Extensive
+Cooperative
+Experience IV
+CS 39599 -
+Extensive
+Cooperative
+Experience V
+CS 39700 -
+Honors Seminar
+CS 40700 -
+Software
+Engineering
+Senior Project
+CS 40800 -
+Software
+Testing
+CS 41100 -
+---
+Competitive
+Programming III
+CS 42200 -
+Computer
+Networks
+CS 42600 -
+Computer
+Security
+CS 43400 -
+Advanced
+Computer
+Graphics
+CS 43900 -
+Introduction To
+Data
+Visualization
+CS 44000 -
+Large Scale
+Data Analytics
+CS 44800 -
+Introduction To
+Relational
+Database
+Systems
+CS 45600 -
+Programming
+Languages
+CS 47100 -
+Introduction to
+Artificial
+Intelligence
+CS 47300 -
+Web
+Information
+Search And
+Management
+CS 47500 -
+Human-
+Computer
+Interaction
+CS 47800 -
+Introduction to
+Bioinformatics
+CS 48300 -
+Introduction To
+The Theory Of
+Computation
+CS 48700 -
+Professional
+Practice V
+CS 48900 -
+Embedded
+Systems
+CS 49000 -
+Topics In
+Computer
+Sciences For
+Undergraduates
+CS 49700 -
+Honors
+---
+                                                                                  Research
+                                                                                  Project
+                                                                              Consumer Science
+                                                                                  CS 39399 -
+                                                                                  Cooperative
+                                                                                  Experience III
+                                                                                 Return to:
+                                                                              College of Science
+
+   All catalogs (/misc/catalog_list.php?catoid=16) © 2024 Purdue University.
+Powered by the Acalog™ Academic Catalog Management System™ (ACMS™)
+                             (http://www.digarc.com).
