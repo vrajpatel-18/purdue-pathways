@@ -6,10 +6,43 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores.chroma import Chroma
 from langchain_openai import ChatOpenAI
 from langchain.load import dumps, loads
+from ragatouille import RAGPretrainedModel
 
 CHROMA_PATH = "chroma"
 DATA_PATH = "data"
 embedding_function = OpenAIEmbeddings()
+
+def colbert_retriever(query_text):
+    RAG = RAGPretrainedModel.from_pretrained("colbert-ir/colbertv2.0")
+    retriever = RAG.as_langchain_retriever(k=3)
+    results = retriever.invoke(query_text)
+
+    context = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
+
+    PROMPT_TEMPLATE = """
+    Answer the question based only on the following context:
+
+    {context}
+
+    ---
+
+    Answer the question based on the above context: {question}
+    """
+
+    prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+    
+    print(prompt)
+
+    model = ChatOpenAI()
+
+    chain = (prompt | model | StrOutputParser())
+
+    response = chain.invoke({"context": context, "question": query_text})
+    
+    sources = [doc.metadata.get("source", None) for doc, _score in results]
+    formatted_response = f"Response: {response}\nSources: {sources}"
+
+    return formatted_response
 
 def reciprocal_rank_fusion(query_text):
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
