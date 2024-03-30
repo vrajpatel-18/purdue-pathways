@@ -1,0 +1,4931 @@
+https://www.purdue.edu/science/Current_Students/general_education_elective_list.php
+Comprehensive General Education Elective List
+This is a comprehensive list of all General Education Elective courses approved by the College of Science.
+If you feel there is a course not included on this list that meets the outcome of the General Education elective requirement of gaining insights in the Humanities, Social Sciences, and/or Management to deepen their awareness of other disciplines of thought which complements and informs their scientific understanding of the world, please 
+submit a course description and syllabus for review
+.
+NOTE: All courses on this list could be used to satisfy the General Education Elective. The total requirement is 9 credits of General Education Elective. Of those 9 credits ONLY 3 credits may have the subject of: MGMT, ECON, OBHR, AGEC, ENTR.
+If you would like to view the course description, please access the 
+MyPurdue Course Catalog
+.
+Special Note: Students are encouraged to incorporate one or more Justice-Equity-Diversity-Inclusion (JEDI) courses into their Culture and Diversity experience to deepen their understanding of racial and cultural differences, and current social movements. JEDI courses are marked with an asterisk (*).
+.searchfilters{
+    background-color: #cccccc;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+float:left; 
+}
+#coursesearch, #subject, #ucore {
+    margin: 0 10px 10px 0;
+}
+#semester {
+    margin: 0 0 10px 0;
+}
+.container_15 {
+ width:1200px;
+}
+.main {
+width:1200px;
+} 
+#content_wrapper{
+ margin-left:10px;
+}
+ #chkBtnOpenexample{
+   visibility: hidden;
+}
+#example_cb_Current{
+float:left;position:absolute; margin-left:50px;
+}
+$(document).ready( function () {
+				$('#example').dataTable({
+"columnDefs": [
+                { "type": "numeric-comma", targets: 3 }
+            ],"aaSorting": [ [0,'asc'], [1,'asc'] ],
+              "bPaginate": false,"sDom": '<"top"><"bottom"><"clear">',"aoColumns" : [ { "bVisible" : true },  
+                        { "bVisible" : true }, 
+                        { "bVisible" : true },
+                        { "bVisible" : true }, 
+                        { "bVisible" : true },
+                        { "bVisible" : false} 
+            ]})
+							.columnFilter({aoColumns:[
+								{ type:"select", sSelector: "#subject"},
+                                                                null,
+                                                                 { sSelector: "#coursesearch"},
+                                                                 {type:"select", sSelector: "#ucore"},
+                                                                 {type:"select", sSelector: "#semester"}
+								]}
+							);
+			     $("#level_filter").change(function (e) {
+                    var selectedItem = $('#level_filter').val(); 
+                    $('#example').dataTable().fnFilter(selectedItem, 5, true);
+                    $('#level_filter').appendTo($('thead tr:eq(1) td').eq( 1));
+                    console.log(selectedItem);
+                    dtable.draw();
+                });  
+			} );
+Subject:
+AAS - African American Studies
+AD - Art and Design
+AGEC - Agricultural Economics
+AMST - American Studies
+ANSC - Animal Science
+ANTH - Anthropology
+ARAB - Arabic
+ASAM - Asian American Studies
+ASEC - Agric Sciences Educ and Comm
+ASL - American Sign Language
+CHNS - Chinese
+CLCS  - Classics
+CLCS - Classics
+CMPL - Comparative Literature
+COM - Communication
+DANC - Dance
+ECON - Economics
+EDPS - Education Educational and Psych Studies
+ENGL - English
+ENTR - Entrepreneurship
+FR  - French
+FR - French
+FS - Food Science
+FVS - Film and Video Studies
+GER  - German
+GER - German
+GSLA - Global Studies Lib Arts
+HDFS - Human Development and Family Studies
+HEBR - Hebrew
+HIST - History
+HONR - Honors
+IDIS - Interdisciplinary Studies
+ILS - Information and Library Sci
+ITAL - Italian
+JPNS - Japanese
+JWST - Jewish Studies
+KOR - Korean
+LALS - Latin American and Latino Studies
+LATN - Latin
+LC  - Languages and Cultures
+LC - Languages and Cultures
+MARS - Medieval and Renaissance Studies
+MGMT - Management
+MUS  - Music History and Theory
+MUS - Music History and Theory
+NS - Naval Science
+OBHR - Organizational Behavior and Human Resource
+PHIL - Philosophy
+PHPR - Philosophy
+POL  - Political Science
+POL - Political Science
+PSY - Psychology
+PTGS - Portuguese
+REL - Religious Studies
+RUSS - Russian
+SFS - Sustainable Food and Farm Sys
+SOC - Sociology
+SPAN - Spanish
+SYS - Purdue Sys Collaboratory
+THTR - Theatre
+WGSS - Women Gender and Sexuality Studies
+YDAE - Youth Development and Ag Education
+Number:
+All Levels
+1000
+2000
+3000
+4000+
+Keyword/Title:
+UCORE/Civics Literacy Proficiency:
+Behavioral/Social Science (BSS)
+Behavioral/Social Science (BSS),Civics Literacy
+Behavioral/Social Science (BSS),Science Technology and Society (STS)
+Civics Literacy
+Humanities (H)
+Humanities (H),Civics Literacy
+Humanities (H),Science Technology and Society (STS)
+Information Literacy (IL)
+Information Literacy (IL),Written Communication (WC)
+JEDI
+JEDI,Behavioral/Social Science (BSS)
+JEDI,Behavioral/Social Science (BSS),Humanities (H)
+JEDI,Humanities (H)
+JEDI,Humanities (H),Science Technology and Society (STS)
+Oral Communication (OC)
+Science (S)
+Science Technology and Society (STS)
+Science Technology and Society (STS),Information Literacy (IL)
+Written Communication (WC)
+Semester:
+Fall 2023
+Fall 2023, Spring 2024
+Fall 2023, Spring 2024, Summer 2024
+Fall 2023, Summer 2024
+Spring 2024
+Spring 2024, Summer 2024
+Summer 2024
+Subject
+Number
+Keyword/Title
+UCORE/Civics Literacy Proficiency
+Semester
+AAS - African American Studies
+27100
+Intro African American Studies
+JEDI,Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+AAS - African American Studies
+27700
+African American Popular Culture
+AAS - African American Studies
+35900
+Black Women Writers
+AAS - African American Studies
+37000
+Black Women Rising
+AAS - African American Studies
+37100
+African American Athletes and the Problem of Race
+AAS - African American Studies
+37100
+African American Music
+AAS - African American Studies
+37100
+Black Leisure & Recrtion
+Fall 2023
+AAS - African American Studies
+37100
+Black Politics
+JEDI
+AAS - African American Studies
+37100
+Black Women in Politics
+AAS - African American Studies
+37100
+Blackness In Culture
+AAS - African American Studies
+37100
+Martin L. King
+JEDI
+AAS - African American Studies
+37100
+The Black Athlete
+AAS - African American Studies
+37100
+The Harlem Renaissance
+Spring 2024
+AAS - African American Studies
+37101
+Black Radical Thought
+Fall 2023
+AAS - African American Studies
+37300
+History of Injustice in America
+JEDI
+Spring 2024
+AAS - African American Studies
+37300
+North African Lit & Culture
+JEDI
+AAS - African American Studies
+37300
+Phil,Cul,African Ameri
+JEDI
+AAS - African American Studies
+37300
+Philosophy and Culture
+AAS - African American Studies
+37300
+Post Sout Black Lit Post 1960
+AAS - African American Studies
+37300
+Race & Religion in the U.S.
+AAS - African American Studies
+37300
+Studies in African Diaspora
+AAS - African American Studies
+37300
+The Black Community
+AAS - African American Studies
+37500
+The Black Family
+AAS - African American Studies
+37600
+The Black Male
+AAS - African American Studies
+39200
+Caribbean History and Cuiture
+AAS - African American Studies
+47300
+Blacks In Hollywood Film
+JEDI
+Spring 2024
+AAS - African American Studies
+49100
+Africa in 20th Century
+AAS - African American Studies
+49100
+African-American Protest Lit
+AAS - African American Studies
+49100
+Africn Americn Chorl Foundtins
+AAS - African American Studies
+49100
+Cultural Heritage
+AAS - African American Studies
+49100
+R.F. Williams Seminar
+AAS - African American Studies
+49100
+Teaching the Wire
+AAS - African American Studies
+57500
+Theories of African American Studies
+AD - Art and Design
+12500
+Introduction to Interior Design
+Humanities (H)
+AD - Art and Design
+22600
+History of Art To 1400
+Humanities (H)
+Fall 2023
+AD - Art and Design
+22700
+Hist Of Art Since 1400
+Humanities (H)
+Fall 2023, Spring 2024
+AD - Art and Design
+25100
+History Of Photo I
+Humanities (H)
+Fall 2023
+AD - Art and Design
+25500
+Art Appreciation
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+AD - Art and Design
+31100
+Greek Art
+AD - Art and Design
+31200
+Ancient Roman Art
+Spring 2024
+AD - Art and Design
+32700
+Theories of Art from the Renaissance to the Digital World
+AD - Art and Design
+33400
+New Media Culture
+Fall 2023
+AD - Art and Design
+33900
+20th Century Women Artists
+Behavioral/Social Science (BSS)
+AD - Art and Design
+34300
+Northern Renaissance Art
+AD - Art and Design
+34400
+Latin American Art in the 20th Century
+Spring 2024
+AD - Art and Design
+34600
+Italian Renaissance Art
+Spring 2024
+AD - Art and Design
+34800
+Islamic Art
+AD - Art and Design
+35900
+Medieval Europe Art
+Fall 2023
+AD - Art and Design
+38000
+Baroque Art
+AD - Art and Design
+38200
+Global Art, 18-19th Centuries
+AD - Art and Design
+38300
+Modern Art
+Humanities (H)
+Fall 2023
+AD - Art and Design
+38400
+Contemporary Art
+Humanities (H)
+Spring 2024
+AD - Art and Design
+38500
+History Of Int Design
+AD - Art and Design
+39100
+History of Chinese Art
+AD - Art and Design
+39500
+History of Design
+Science Technology and Society (STS)
+Fall 2023
+AD - Art and Design
+45200
+Northern Renaissance Art
+AD - Art and Design
+45400
+ Modern Architecture
+AD - Art and Design
+48500
+History Of Contemporary Interiors
+AGEC - Agricultural Economics
+21700
+Economics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+AMST - American Studies
+10100
+America and the World
+Written Communication (WC)
+Spring 2024, Summer 2024
+AMST - American Studies
+20100
+African American Pop Culture
+Humanities (H)
+Fall 2023
+AMST - American Studies
+20100
+American Social Movements-Honors
+Humanities (H)
+AMST - American Studies
+20100
+Asian American Pop Culture
+Humanities (H)
+AMST - American Studies
+20100
+Automobiles in America
+Humanities (H)
+AMST - American Studies
+20100
+Electronic Music & Pop Culture
+Humanities (H)
+AMST - American Studies
+20100
+Fan Users and Games
+Humanities (H)
+AMST - American Studies
+20100
+Fashion & Technology
+Humanities (H)
+AMST - American Studies
+20100
+Global habitats, Community Development & Sustainability
+Humanities (H)
+AMST - American Studies
+20100
+Interpreting America
+Humanities (H)
+Fall 2023, Spring 2024
+AMST - American Studies
+20100
+Interpreting America: Arab-American Literature
+Humanities (H)
+AMST - American Studies
+20100
+Intro Asian American Studies
+Humanities (H)
+Fall 2023
+AMST - American Studies
+30100
+1960's America
+AMST - American Studies
+30100
+1960's Revolution
+AMST - American Studies
+30100
+African-American Protest Lit
+AMST - American Studies
+30100
+Afro-Asia Pol & Cul Alli
+AMST - American Studies
+30100
+American Beauty
+AMST - American Studies
+30100
+American Conspiracy Theories
+JEDI
+Spring 2024
+AMST - American Studies
+30100
+American Representations of the Middle East and North Africa
+AMST - American Studies
+30100
+American Studies/Global Studies
+AMST - American Studies
+30100
+American Virgin
+AMST - American Studies
+30100
+Arabic Lit in Translation
+AMST - American Studies
+30100
+Asian Amer Pop Cul
+JEDI
+Spring 2024
+AMST - American Studies
+30100
+Contemporary Isses in Asian American Studies
+AMST - American Studies
+30100
+Contmp Issue ASAM: Disney
+AMST - American Studies
+30100
+Data Viz For Societal Problems
+AMST - American Studies
+30100
+Democracy and Education
+AMST - American Studies
+30100
+Electr Music & Pop Cult
+AMST - American Studies
+30100
+Food in Modern America
+AMST - American Studies
+30100
+Gender, Media & Pop Culture
+AMST - American Studies
+30100
+Glb Hlth Sustainblty & Com Dev
+AMST - American Studies
+30100
+Global Hist Theory & Practice
+AMST - American Studies
+30100
+Intro Asian American Studies
+Fall 2023
+AMST - American Studies
+30100
+Muslims in America
+AMST - American Studies
+30100
+New Media
+Fall 2023
+AMST - American Studies
+30100
+New Media Culture
+Fall 2023
+AMST - American Studies
+30100
+North African Lit & Culture
+JEDI
+AMST - American Studies
+30100
+Perspectives on America
+AMST - American Studies
+30100
+Post Soul Black Lit Post 1960
+AMST - American Studies
+30100
+Social Issues Immigration
+AMST - American Studies
+30100
+Spanish American Literature in Translation
+AMST - American Studies
+30100
+Sports & Feminism
+JEDI
+Spring 2024
+AMST - American Studies
+30100
+Sport/Gender
+AMST - American Studies
+30100
+Technology, Culture & Society
+AMST - American Studies
+30100
+The 1960's Rock to Revolution
+AMST - American Studies
+30100
+Theories of Global Studies
+AMST - American Studies
+30100
+Understanding the NFL
+AMST - American Studies
+30100
+Virtual Reality
+AMST - American Studies
+31000
+Invention, Innovation and Design
+Humanities (H),Science Technology and Society (STS)
+AMST - American Studies
+32000
+Understanding the NFL
+AMST - American Studies
+32500
+Sports, Technology and Innovation
+Humanities (H),Science Technology and Society (STS)
+ANSC - Animal Science
+33100
+Horses In Culture/Society
+Humanities (H)
+Summer 2024
+ANTH - Anthropology
+10000
+Being Human: Intro To Anth
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+20100
+Intro Arch Prehist
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+20300
+Biol Base Human Behav
+Behavioral/Social Science (BSS)
+Fall 2023
+ANTH - Anthropology
+20400
+Human Origins
+Science (S)
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+20500
+Human Cultural Diversity
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+21000
+Technology And Culture
+Science Technology and Society (STS)
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+21200
+Culture, Food & Health
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+23000
+Gender Across Cultures
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024
+ANTH - Anthropology
+23500
+The Great Apes
+Fall 2023
+ANTH - Anthropology
+25400
+Arch Hoaxes, Myths and Frauds
+Spring 2024
+ANTH - Anthropology
+25600
+Archaeology of Beer
+Spring 2024
+ANTH - Anthropology
+28200
+Introduction to LGBT Studies
+ANTH - Anthropology
+30700
+Anthropological Theory
+ANTH - Anthropology
+31000
+Mortuary Practices
+ANTH - Anthropology
+31100
+The Archaeology Of The Ancient Andes
+ANTH - Anthropology
+31200
+Arch Of Egypt
+Fall 2023
+ANTH - Anthropology
+31300
+Archaeology of North America
+ANTH - Anthropology
+32000
+Ancient States & Empires
+ANTH - Anthropology
+32600
+Sustainability Studies
+ANTH - Anthropology
+32700
+Environment And Culture
+Spring 2024
+ANTH - Anthropology
+33500
+Primate Behavior
+Spring 2024
+ANTH - Anthropology
+33600
+Human Variation
+Spring 2024
+ANTH - Anthropology
+33700
+Human Diet
+Fall 2023
+ANTH - Anthropology
+34000
+Global Health
+JEDI
+Fall 2023, Spring 2024, Summer 2024
+ANTH - Anthropology
+34100
+Culture & Personality
+Fall 2023
+ANTH - Anthropology
+35200
+Drugs, Culture & Society
+ANTH - Anthropology
+35800
+ African Cultures
+ANTH - Anthropology
+37000
+ Ethnicity And Culture
+ANTH - Anthropology
+37300
+Anthropology of Religion
+ANTH - Anthropology
+37700
+Anthropology of Hunter-Gatherer Societies
+ANTH - Anthropology
+37800
+Archaeology and Cultural Anthropology of Mesoamerica (Mexico, Belize and Guatemala)
+ANTH - Anthropology
+37900
+Native American Cultures
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024
+ANTH - Anthropology
+38000
+Using Anthropology in the World
+ANTH - Anthropology
+38400
+Designing for People
+Spring 2024
+ANTH - Anthropology
+39200
+Amazonia and Film
+ANTH - Anthropology
+39200
+ANTH Of Asia & Asian Diaspora
+Fall 2023
+ANTH - Anthropology
+39200
+Anthropology of Beer Craft
+ANTH - Anthropology
+39200
+Anthropology Of Violence
+ANTH - Anthropology
+39200
+Anthropology of Water: Development & Justice
+ANTH - Anthropology
+39200
+Archaeology of Beer
+ANTH - Anthropology
+39200
+Blackness and Culture
+ANTH - Anthropology
+39200
+Colonial Globaln Food Justice
+ANTH - Anthropology
+39200
+Critical Approach to Sci&Tech
+ANTH - Anthropology
+39200
+Evidence:How Things BecomeTrue
+ANTH - Anthropology
+39200
+Food, Culture and Power
+ANTH - Anthropology
+39200
+Intro to Forensic Anthropology
+ANTH - Anthropology
+39200
+Migration, Borders & Walls
+ANTH - Anthropology
+39200
+Myths & Hoaxes in Archaeology
+ANTH - Anthropology
+39200
+Pregnancy Birth & Babies
+ANTH - Anthropology
+39200
+Pregnancy, Birth & Babies
+ANTH - Anthropology
+39200
+Race & Religion in the U.S.
+ANTH - Anthropology
+39200
+Sustain,Dev&SovernAfrca-Honors
+ANTH - Anthropology
+39200
+Urban-Rural Change Latin America
+ANTH - Anthropology
+39200
+Visual Anthropology
+ANTH - Anthropology
+39201
+Health, Science & Culture
+Fall 2023
+ANTH - Anthropology
+40400
+ Comparative Social Organization
+ANTH - Anthropology
+41400
+Intro Langua Culture
+Spring 2024
+ANTH - Anthropology
+42500
+Archaeo Method & Theory
+ANTH - Anthropology
+43600
+Human Evolution
+ANTH - Anthropology
+48200
+Sexual Diversity In Global Perspectives
+ANTH - Anthropology
+50400
+Archaeological Theory
+Spring 2024
+ANTH - Anthropology
+50500
+Culture and Society
+Spring 2024
+ANTH - Anthropology
+50700
+Hist Of Theory In Anthropology
+Fall 2023
+ANTH - Anthropology
+53400
+Human Osteology
+Fall 2023
+ANTH - Anthropology
+53500
+Foundations of Biological Anthropology
+ANTH - Anthropology
+53600
+Primate Ecology
+ANTH - Anthropology
+57500
+Economic Anthropology
+ANTH - Anthropology
+59200
+Anth Ed: Race, Gender, Class & Idnt
+ANTH - Anthropology
+59200
+Anthropology of Aging
+ANTH - Anthropology
+59200
+Applied Anthropology
+ANTH - Anthropology
+59200
+Climate Change in Antiquity
+ANTH - Anthropology
+59200
+Evidence and Expertise
+ANTH - Anthropology
+59200
+Human Genitals and Cultures
+ARAB - Arabic
+23000
+Arabic Literature In Translation
+ARAB - Arabic
+23900
+Arab Women Writers
+Humanities (H)
+ARAB - Arabic
+28000
+Arabic Culture
+Humanities (H)
+Fall 2023
+ARAB - Arabic
+28100
+Intro To Islamic Civ & Cul
+Spring 2024
+ARAB - Arabic
+33400
+North African Lit & Culture
+JEDI
+ARAB - Arabic
+58700
+Modern Arab Thought
+ASAM - Asian American Studies
+24000
+Introduction To Asian American Studies
+Humanities (H)
+ASAM - Asian American Studies
+34000
+Afro-Asia Pol & Cul Alli
+ASAM - Asian American Studies
+34000
+American Music Pol Image
+ASAM - Asian American Studies
+34000
+Asian American Pop Cult
+Spring 2024
+ASAM - Asian American Studies
+34000
+Contemporary Issues In Asian American Studies
+ASAM - Asian American Studies
+34000
+Contmp Issue ASAM: Disney
+ASAM - Asian American Studies
+34000
+Social Issues in Immigration
+ASEC - Agric Sciences Educ and Comm
+33100
+Horses In Culture/Society
+Humanities (H)
+Summer 2024
+ASEC - Agric Sciences Educ and Comm
+49100
+ Special Topics In Agricultural Science And Education Communication�Consequences of Race and Privilege in Today�s American
+ASL - American Sign Language
+28000
+Amer Deaf:Lng, Cul,Soc
+JEDI
+Spring 2024
+CHNS - Chinese
+24100
+Intro Study Chinese Lit
+Humanities (H)
+Fall 2023
+CHNS - Chinese
+28000
+Chinese Culture
+JEDI,Humanities (H)
+Spring 2024
+CHNS - Chinese
+28100
+Intro Chinese Food Culture II
+JEDI
+Spring 2024
+CHNS - Chinese
+33000
+Chinese Cinema
+Humanities (H)
+Spring 2024
+CHNS - Chinese
+34100
+Chinese Lit I: Traditl
+Spring 2024
+CHNS - Chinese
+34200
+Chinese Literature II: Modern Chinese Literature
+CHNS - Chinese
+49000
+Intro to Chinese Food Culture
+CHNS - Chinese
+59400
+Chinese Classical Tales
+CHNS - Chinese
+59400
+Chinese Lit and Culture
+CHNS - Chinese
+59400
+Dream Of Red Chamber
+CHNS - Chinese
+59400
+Modern Chinese Theatre
+Spring 2024
+CHNS - Chinese
+59400
+Poetry of Li Bai and Du Fu
+CHNS - Chinese
+59400
+Special Topics in Chinese Literature
+CHNS - Chinese
+59400
+Tang Dynasty Poetry
+CLCS  - Classics
+48100
+ Culture And Society In The Age Of Pericles
+CLCS  - Classics
+59300
+ Special Topics In Classical Literature�The Classics and Black Literature
+CLCS - Classics
+18100
+Classical Wrld Civiliz
+Behavioral/Social Science (BSS)
+Fall 2023
+CLCS - Classics
+23010
+Survey Of Greek Lit
+Humanities (H)
+Spring 2024
+CLCS - Classics
+23100
+Survey Of Latin Lit
+Humanities (H)
+CLCS - Classics
+23300
+Comparative Mythology
+Humanities (H)
+Spring 2024
+CLCS - Classics
+23500
+Intr To Classical Myth
+Humanities (H)
+Fall 2023, Summer 2024
+CLCS - Classics
+23700
+Gender Sex Greece Rome
+JEDI,Humanities (H)
+Spring 2024
+CLCS - Classics
+23800
+The Tragic Vision
+Humanities (H)
+CLCS - Classics
+23900
+The Comic Vision
+Humanities (H)
+CLCS - Classics
+28000
+Studies in Greek Warfare
+CLCS - Classics
+33700
+The Ancient Epic
+Fall 2023
+CLCS - Classics
+33900
+Literature and the Law
+Humanities (H)
+CLCS - Classics
+38000
+Alexander The Great
+Humanities (H)
+CLCS - Classics
+38100
+Julius Caesar: Statesman, Soldier, Citizen
+CLCS - Classics
+38300
+The Roman Empire
+Spring 2024
+CLCS - Classics
+38400
+Ancient Western Medicine
+CLCS - Classics
+38500
+Sci,Med,Magic Anc West
+Humanities (H)
+Spring 2024
+CLCS - Classics
+38600
+Ancient Greek Religion
+Fall 2023
+CLCS - Classics
+38700
+Roman Religion
+CLCS - Classics
+48000
+Potters and Society in Antiquity
+CLCS - Classics
+48300
+Republican Rome
+CMPL - Comparative Literature
+23000
+A Brief History of Doom
+CMPL - Comparative Literature
+23000
+Arab Women Writers
+CMPL - Comparative Literature
+23000
+Arab-American Literature
+CMPL - Comparative Literature
+23000
+Arabic Culture
+CMPL - Comparative Literature
+23000
+Arthurian Lit: Medieval to Mod
+CMPL - Comparative Literature
+23000
+Dragons
+CMPL - Comparative Literature
+23000
+German Lit In Translation
+Spring 2024
+CMPL - Comparative Literature
+23000
+Intro to Islamic Civ & Cul
+Spring 2024
+CMPL - Comparative Literature
+23000
+Introduction to Comparative Literature
+CMPL - Comparative Literature
+23000
+Israel And The Modern World
+CMPL - Comparative Literature
+23000
+Myths & Legends: Elves to Elvis
+CMPL - Comparative Literature
+23000
+Nature in German Literature
+CMPL - Comparative Literature
+23000
+North African Lit & Culture
+JEDI
+CMPL - Comparative Literature
+23000
+Russian Literature II
+CMPL - Comparative Literature
+23000
+Soviet Literature and Beyond
+CMPL - Comparative Literature
+23000
+Spanish American Literature in Translation
+CMPL - Comparative Literature
+23000
+The Comic Vision
+CMPL - Comparative Literature
+23000
+Women Writers in Translation
+CMPL - Comparative Literature
+26600
+World Literature: From The Beginnings To 1700 A.D.
+Humanities (H)
+CMPL - Comparative Literature
+26700
+World Lit 1700 To Now
+Humanities (H)
+Spring 2024
+CMPL - Comparative Literature
+33000
+International Cinema
+COM - Communication
+22400
+Com Global Workplace
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024, Summer 2024
+COM - Communication
+25000
+Mass Commun & Society
+Fall 2023, Spring 2024, Summer 2024
+COM - Communication
+25100
+Comm, Info, And Society
+Science Technology and Society (STS),Information Literacy (IL)
+Fall 2023, Spring 2024, Summer 2024
+COM - Communication
+31200
+Rhetoric In The Western World
+Civics Literacy
+COM - Communication
+31400
+Adv Presntatnl Spk
+Fall 2023, Spring 2024, Summer 2024
+COM - Communication
+31500
+Spe Commun Tech Info
+Spring 2024, Summer 2024
+COM - Communication
+31800
+Prin Of Persuasion
+Fall 2023, Spring 2024, Summer 2024
+COM - Communication
+32000
+Small Group Communication
+Fall 2023, Spring 2024, Summer 2024
+COM - Communication
+32900
+History Of The Mass Media
+COM - Communication
+35100
+Mass Commun Ethics
+Fall 2023
+DANC - Dance
+25000
+Dance Appreciation
+Humanities (H)
+DANC - Dance
+37800
+Dance History
+Humanities (H)
+ECON - Economics
+21000
+Prin Of Economics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+ECON - Economics
+25100
+Microeconomics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+ECON - Economics
+25200
+Macroeconomics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+EDPS - Education Educational and Psych Studies
+23500
+Learning & Motivation
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024
+EDPS - Education Educational and Psych Studies
+31500
+Collab Leader: Interpersonal
+Oral Communication (OC)
+Spring 2024, Summer 2024
+EDPS - Education Educational and Psych Studies
+31600
+Leadership: Cross-Cultural
+Behavioral/Social Science (BSS)
+Spring 2024
+EDPS - Education Educational and Psych Studies
+31700
+Leadership: Mentoring
+Spring 2024
+ENGL - English
+20200
+Engaging English
+Humanities (H)
+Spring 2024
+ENGL - English
+21700
+Myth & Legend I: Monsters
+Humanities (H)
+Spring 2024
+ENGL - English
+21800
+Myth & Legend II: Heroes & Villains 
+Humanities (H)
+ENGL - English
+21900
+Magic And Marvels
+Humanities (H)
+ENGL - English
+22300
+Literature And Technology
+Science Technology and Society (STS)
+ENGL - English
+22400
+ Literature, Money, And Markets
+ENGL - English
+22500
+Literature, Inequality, Injustice
+Humanities (H)
+ENGL - English
+22600
+Narrative Medicine
+Science Technology and Society (STS)
+ENGL - English
+22800
+Language And Social Identity
+ENGL - English
+23000
+Great Narrative Works
+Humanities (H)
+Fall 2023, Spring 2024
+ENGL - English
+23100
+Introduction to Literature
+ENGL - English
+23200
+Arab Women Writers
+ENGL - English
+23200
+Arab-American Literature
+ENGL - English
+23200
+Arabic Culture
+Fall 2023
+ENGL - English
+23200
+Arabic Lit in Translation
+ENGL - English
+23200
+Arthurian Literature: Medieval to Mod
+ENGL - English
+23200
+Contemporary Foreign Women Writers
+ENGL - English
+23200
+Dragons
+ENGL - English
+23200
+Interpreting the Play Script
+ENGL - English
+23200
+Intro to Islamic Civ & Cul
+Spring 2024
+ENGL - English
+23200
+Math, Science, & Literature
+ENGL - English
+23200
+Nature in German Literature
+ENGL - English
+23200
+North African Lit & Culture
+ENGL - English
+23200
+Pirates!
+ENGL - English
+23200
+Russian and Slavic Fairy Tales
+ENGL - English
+23200
+Span Am Lit in Trans
+ENGL - English
+23200
+Sports & Literature
+ENGL - English
+23200
+The Tragic Vision
+ENGL - English
+23200
+Tolkein
+ENGL - English
+23200
+Women Writers in Translation
+ENGL - English
+23400
+Literature and the Environment
+Science Technology and Society (STS)
+Spring 2024
+ENGL - English
+23500
+Introduction To Drama
+ENGL - English
+23700
+Intro To Poetry
+Humanities (H)
+Fall 2023
+ENGL - English
+23800
+Intro To Fiction
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+ENGL - English
+24000
+Brit Lit Thru 18 Ct
+Humanities (H)
+Spring 2024
+ENGL - English
+24100
+Brit Lit After 1789
+Humanities (H)
+Fall 2023
+ENGL - English
+24900
+Great British Books
+ENGL - English
+25000
+Great American Books
+Humanities (H)
+Fall 2023, Spring 2024
+ENGL - English
+25700
+Lit Of Black America
+Fall 2023
+ENGL - English
+25800
+Nobel Prize Winners In Literature
+ENGL - English
+26200
+Greek Roman Classics
+Spring 2024
+ENGL - English
+26400
+Bible As Literature
+Humanities (H)
+Fall 2023, Spring 2024
+ENGL - English
+26600
+World Literature: From The Beginnings To 1700 A.D.
+Humanities (H)
+ENGL - English
+26700
+World Lit 1700 To Now
+Humanities (H)
+Spring 2024
+ENGL - English
+27600
+Shakespeare On Film
+Humanities (H)
+Fall 2023
+ENGL - English
+27900
+American Short Story in Print & Film
+ENGL - English
+28000
+Games, Narrative, Culture
+ENGL - English
+28600
+The Movies
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+ENGL - English
+32200
+Word, Image, Media
+Humanities (H)
+Spring 2024
+ENGL - English
+33000
+Games and Diversity
+JEDI
+Spring 2024, Summer 2024
+ENGL - English
+33100
+ Medieval English Literature
+ENGL - English
+33500
+Restoration And Eighteenth-Century English Literature
+ENGL - English
+33900
+Twentieth-Century British Literature
+ENGL - English
+34100
+COVID Conspiracy Apocalyp Lit
+ENGL - English
+34100
+Human Env & End Of Nature
+ENGL - English
+34100
+Lit & Scientific Paradigm-Honors
+ENGL - English
+34200
+Legal Fictions
+ENGL - English
+34300
+Labor & Literature
+ENGL - English
+34400
+Environ Ethics/Policy/Sustain
+Spring 2024
+ENGL - English
+34500
+Games & World Building
+ENGL - English
+35000
+American Lit Before 1865
+Humanities (H)
+Fall 2023
+ENGL - English
+35100
+American Literature After 1865
+Humanities (H)
+Spring 2024
+ENGL - English
+35200
+Native American Lit
+JEDI
+Spring 2024
+ENGL - English
+35400
+Asian American Lit
+Spring 2024
+ENGL - English
+35800
+Black Drama
+Spring 2024
+ENGL - English
+35900
+Black Women Writers
+ENGL - English
+36000
+Gender And Literature
+Humanities (H)
+Fall 2023, Spring 2024
+ENGL - English
+36500
+Lit And Imperialism
+JEDI,Humanities (H)
+ENGL - English
+36600
+Postcolonial Lit
+Fall 2023
+ENGL - English
+36700
+Detective Fiction
+Humanities (H)
+Spring 2024
+ENGL - English
+37000
+19th Century American Literature
+ENGL - English
+37300
+Science Fict & Fantasy
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+ENGL - English
+37700
+Modern And Contemporary Poetry
+Fall 2023
+ENGL - English
+37900
+The Short Story
+Fall 2023
+ENGL - English
+38000
+Issues Rhetoric & Public Life
+Information Literacy (IL),Written Communication (WC)
+Spring 2024
+ENGL - English
+38100
+The British Novel
+Humanities (H)
+ENGL - English
+38200
+The American Novel
+Humanities (H)
+Fall 2023
+ENGL - English
+38600
+History Of Film To 1950
+Fall 2023
+ENGL - English
+38700
+Hist Film Since 1950
+ENGL - English
+38900
+Literature for Children
+Humanities (H)
+ENGL - English
+39200
+Young Adult Literature
+Spring 2024
+ENGL - English
+39300
+Sustainability Studies
+ENGL - English
+39600
+African-American Protest Lit
+ENGL - English
+39600
+Cinematic Shakespeare
+ENGL - English
+39600
+Games & Narrative
+ENGL - English
+39600
+Games & World Building
+ENGL - English
+39600
+Games, Narrative, & Culture
+ENGL - English
+39600
+International Cinema
+ENGL - English
+39600
+Intro to Disability Studies
+ENGL - English
+39600
+Language & Humor
+ENGL - English
+39600
+Jane Austen
+Fall 2023
+ENGL - English
+39600
+Language And Thought
+Fall 2023
+ENGL - English
+39600
+Latina/o Literture
+ENGL - English
+39600
+Literature And Feminism
+Fall 2023
+ENGL - English
+39600
+Milton God Champ Devil Advo
+Fall 2023
+ENGL - English
+39600
+North African Lit & Culture
+ENGL - English
+39600
+Post Soul Black Lit Post 1960
+ENGL - English
+39600
+Rhetorics of Religion
+Fall 2023
+ENGL - English
+39600
+Socioling Af Am Engl
+Fall 2023
+ENGL - English
+39600
+Theories of Global Studies
+ENGL - English
+39600
+Tolstoy And His Age
+ENGL - English
+39600
+Writing For Law
+Fall 2023
+ENGL - English
+39600
+Women&Games: Design Dev & Play
+ENGL - English
+41100
+Chaucer
+ENGL - English
+41100
+Chaucer and Subjectivity; Be Yourself, but also Don't
+ENGL - English
+41100
+Hurston
+ENGL - English
+41100
+Jane Austen
+ENGL - English
+41100
+Mark Twain
+ENGL - English
+41100
+Octavia Butler
+ENGL - English
+41100
+Tolkien
+ENGL - English
+41100
+William Faulkner
+ENGL - English
+41200
+American Autobiography
+ENGL - English
+41200
+American Short Story
+ENGL - English
+41200
+Digital Humanities
+ENGL - English
+41200
+Literary Modernism
+ENGL - English
+41200
+The Literary Gothic
+ENGL - English
+41200
+The Modern Novel
+ENGL - English
+41200
+Twenty-First Century Fiction
+ENGL - English
+41300
+Early American Networks
+ENGL - English
+41300
+Early Engl Lit:ManuscriptPrint
+ENGL - English
+41300
+Florence & the Renaissance
+ENGL - English
+41300
+Gilded Age
+ENGL - English
+41300
+Harlem Renaissance
+ENGL - English
+41300
+Lit in the Age of Eugenics
+ENGL - English
+41300
+Reimagining Medieval Lit Today
+Fall 2023
+ENGL - English
+41300
+Studies in African Diaspora
+ENGL - English
+41300
+The Heavens to Outer Space
+ENGL - English
+41300
+Tudor Queens in Lit & Film
+ENGL - English
+41300
+Vikings and Literature
+ENGL - English
+41400
+Environment Studies, Climate Change & Film
+ENGL - English
+41400
+New England Literary Journeys
+ENGL - English
+41400
+Postmodern Lit & Culture
+ENGL - English
+41400
+Sci & Wonder in Early Amer Lit
+ENGL - English
+41400
+The Hum & Higher Ed-Honors
+ENGL - English
+41400
+Word, Image, Media
+ENGL - English
+43900
+Disability in Fiction & Memoir
+ENGL - English
+43900
+Disability Literature
+JEDI
+ENGL - English
+43900
+Eugenics Then & Now
+ENGL - English
+43900
+Lit in the Age of Eugenics
+Spring 2024
+ENGL - English
+43900
+Topics in Disability Studies
+ENGL - English
+43900
+Topics in Disability Studies: Bodies & Cultures
+ENGL - English
+44100
+Chaucer's Canterbury Tales
+ENGL - English
+44200
+Shakespeare
+ENGL - English
+44400
+Milton
+ENGL - English
+46000
+ Studies In Women�s Literature
+ENGL - English
+46200
+The Bible as Literature: The Old Testament
+ENGL - English
+46300
+The Bible as Literature: The New Testament
+ENGL - English
+46600
+Cultural Encounters
+ENGL - English
+52800
+Medieval English Literature
+ENGL - English
+53100
+ The Rise Of The Novel
+ENGL - English
+53200
+English Novel In the 19th Century
+ENGL - English
+53400
+Seventeenth-Century Literature
+ENGL - English
+53500
+ Restoration And Early Eighteenth
+ENGL - English
+53800
+English Drama from the Restoration to the Modern Period
+ENGL - English
+54100
+Studies in Chaucer's Canterbury Tales
+ENGL - English
+54200
+Shakepeare's Dramatic Art
+ENGL - English
+54300
+Shakespeare in Critical Perspective
+ENGL - English
+54400
+Milton
+ENGL - English
+54700
+British Romanticism
+ENGL - English
+54800
+Victorian Literature
+ENGL - English
+55200
+Toni Morrison & Louise Erdrich
+ENGL - English
+55300
+Colonial & Early American Literature
+ENGL - English
+55400
+American Literary Culture: 1820-1860
+ENGL - English
+55700
+ Nineteenth
+ENGL - English
+55800
+American Literature in the Later Nineteenth Century
+ENGL - English
+56000
+Modern American Poetry
+Spring 2024
+ENGL - English
+57300
+Tragedy
+ENGL - English
+57900
+Modern British Fiction
+ENGL - English
+58300
+Contemporary African American Fiction
+ENGL - English
+59200
+Postcol & Globalization Stds
+ENGL - English
+59200
+PostCol Sts in End Times
+ENGL - English
+59200
+Postcolonial Studies
+ENGL - English
+59300
+Contemporary British Fiction
+ENGL - English
+59400
+Contemporary Poetry
+ENGL - English
+59500
+Contemporary American Fiction
+ENGL - English
+59600
+American Poetry's Great Debuts
+ENGL - English
+59600
+Bad Film
+ENGL - English
+59600
+Early American Networks
+ENGL - English
+59600
+Environmental Ethics
+ENGL - English
+59600
+Games, Narrative, & Culture
+ENGL - English
+59600
+History of Alt Film Making
+ENGL - English
+59600
+Literature for Children
+ENGL - English
+59600
+Magic & Realism
+ENGL - English
+59600
+Modern Arab Thought
+Fall 2023
+ENGL - English
+59600
+ModEuroRhetorc,Poetcs,Narrativ
+ENGL - English
+59600
+Philosophy & Lit Theory
+ENGL - English
+59600
+Postculturalism
+ENGL - English
+59600
+Revolutionary Poetics
+ENGL - English
+59600
+Stephen King's Short Stories
+ENGL - English
+59600
+Tragedy & Phil
+ENGL - English
+59600
+Women&Games: Design Dev & Play
+ENGL - English
+59600
+Writing the Divine
+ENGL - English
+59600
+Young Adult Literature
+Fall 2023
+ENGL - English
+59700
+ Contemporary Black Feminist Literature
+ENTR - Entrepreneurship
+20000
+Intro Entr & Innov
+Fall 2023, Spring 2024, Summer 2024
+ENTR - Entrepreneurship
+31000
+Mktg Mgmt For New Ventures
+Spring 2024, Summer 2024
+ENTR - Entrepreneurship
+47000
+Gender, Diversity And Leadrshp
+JEDI
+Spring 2024
+ENTR - Entrepreneurship
+47000
+Women and Leadership
+JEDI
+FR  - French
+34100
+ French Literature I: From The Middle Ages To The Enlightenment
+FR  - French
+54100
+ Renaissance French Literature
+FR - French
+24100
+Intro Study French Lit
+Fall 2023, Spring 2024
+FR - French
+33000
+French Cinema
+Humanities (H)
+Fall 2023
+FR - French
+34200
+French Literature II
+Fall 2023
+FR - French
+38000
+French Food Culture
+Spring 2024
+FR - French
+38000
+Sport/Spectacle Berlin/Paris
+FR - French
+39400
+French Caribbean Literatures
+FR - French
+39400
+Out of Africa
+FR - French
+44300
+Francophone Literature
+FR - French
+48000
+French Civilization
+FR - French
+54900
+French Literature and Film
+FR - French
+55800
+French Novel of 20th Century
+FR - French
+58100
+French Culture
+FR - French
+58200
+Francophone Cultures
+FR - French
+59400
+Conte Francais
+FR - French
+59400
+Contemporary Fiction
+FR - French
+59400
+French Caribbean Literature
+Spring 2024
+FS - Food Science
+47000
+Wine Appreciation
+Spring 2024
+FVS - Film and Video Studies
+49100
+Cinematic Shakespeare
+FVS - Film and Video Studies
+49100
+Engaging Religious Diversity
+Spring 2024
+FVS - Film and Video Studies
+49100
+Bad Films
+Fall 2023
+FVS - Film and Video Studies
+49100
+Feminist Prsp on Film & Camera
+FVS - Film and Video Studies
+49100
+Films of Alfred Hitchcock
+FVS - Film and Video Studies
+49100
+Jewish Cinema
+Spring 2024
+FVS - Film and Video Studies
+49100
+Mafia And The Movies
+FVS - Film and Video Studies
+49100
+Post-Soviet Russian Cinema
+Fall 2023
+FVS - Film and Video Studies
+49100
+Spirit of Ital Comedy
+Spring 2024
+FVS - Film and Video Studies
+49100
+Terrorism & The Movies
+GER  - German
+54400
+ German Romanticism
+GER - German
+23000
+A Brief History of Doom
+Humanities (H)
+GER - German
+23000
+German Fairy Tales
+Humanities (H)
+GER - German
+23000
+German Lit in Translation
+Humanities (H)
+Spring 2024
+GER - German
+23000
+Myth, Legend, & Folklore
+Humanities (H)
+GER - German
+23000
+Myths & Legends: Elves to Elvis
+Humanities (H)
+GER - German
+23000
+Nature in German Literature
+Humanities (H)
+GER - German
+23000
+Vikings, Monsters, Grimm & God
+Humanities (H)
+GER - German
+24100
+Intro Study German Lit
+Fall 2023, Spring 2024, Summer 2024
+GER - German
+28000
+Beer & Brewing In Ger Cul
+Summer 2024
+GER - German
+33000
+German Cinema
+Humanities (H)
+Spring 2024
+GER - German
+34100
+German Literature I
+Fall 2023
+GER - German
+34200
+German Literature II: From The 18th Century To The 21st Century
+GER - German
+48000
+German Civilization
+Fall 2023
+GER - German
+49800
+The Cultures of Fascism
+GER - German
+54500
+ German Prose From Naturalism To The Present
+GER - German
+55100
+Lyric Poetry From Romanticism To The Present
+GER - German
+55400
+ German Drama Before Naturalism
+GER - German
+55500
+ German Drama From Naturalism To The Present
+GER - German
+58100
+German Culture
+GER - German
+59400
+German Novelle
+GER - German
+59400
+Special Topics in German Literature
+GSLA - Global Studies Lib Arts
+10100
+Global Awareness
+Fall 2023, Spring 2024
+HDFS - Human Development and Family Studies
+21000
+Intro Human Devlpment
+Behavioral/Social Science (BSS)
+Spring 2024, Summer 2024
+HDFS - Human Development and Family Studies
+33000
+Sexuality And Family Life
+JEDI
+Spring 2024, Summer 2024
+HEBR - Hebrew
+28400
+Anc Near Eastern Hist & Cult
+Fall 2023
+HEBR - Hebrew
+38000
+Israel And The Modern World
+JEDI,Humanities (H)
+HIST - History
+10300
+Intro To Medieval Wrld
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+HIST - History
+10400
+Intro To Modern World
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+HIST - History
+10500
+Global History
+JEDI,Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+HIST - History
+15100
+Amer Hist To 1877
+Humanities (H),Civics Literacy
+Fall 2023, Spring 2024, Summer 2024
+HIST - History
+15200
+U S Since 1877
+Humanities (H),Civics Literacy
+Fall 2023, Spring 2024, Summer 2024
+HIST - History
+20100
+Anc Jud & Early Christ
+Fall 2023
+HIST - History
+20100
+Ancient Near Eastern History & Culture
+HIST - History
+20100
+History of the Military Art
+HIST - History
+21000
+The Making of Modern Africa
+Humanities (H)
+HIST - History
+21100
+World Soccer & Global History
+Humanities (H)
+HIST - History
+22100
+History Behind the Headlines
+HIST - History
+22505
+Land of Indians: NA in Indiana
+HIST - History
+22800
+English History to 1688
+HIST - History
+23005
+Hitler's Europe
+HIST - History
+23800
+Hist Russ Med Tm-1861
+Humanities (H)
+HIST - History
+23900
+History of Russia from 1861 -  Present
+Humanities (H)
+HIST - History
+24000
+East Asia & Hist Trad
+Humanities (H)
+Fall 2023
+HIST - History
+24100
+East Asia Modern World
+Humanities (H)
+Spring 2024
+HIST - History
+24300
+South Asia Hist & Civ
+JEDI,Humanities (H)
+Fall 2023, Spring 2024
+HIST - History
+24600
+Mod Mid East &N Africa
+Humanities (H)
+Spring 2024
+HIST - History
+25000
+US Relatn with MENA
+Humanities (H)
+Fall 2023
+HIST - History
+27100
+Intro To Colonial Latin Amer
+Humanities (H)
+Fall 2023
+HIST - History
+27200
+Intro To Modern Latin America
+Humanities (H)
+Spring 2024
+HIST - History
+27800
+Money, Trade & Power
+Spring 2024
+HIST - History
+30000
+Eve Of Destruction: Global Crises And World Organization In The 20th Century
+Humanities (H)
+HIST - History
+30200
+AA Athletes & Problem of Race
+HIST - History
+30200
+Afro-American Athletes & Race
+HIST - History
+30200
+American Colonies
+HIST - History
+30200
+Arab-Isreali Conflict
+HIST - History
+30200
+Bible & Early Intrpret
+Spring 2024
+HIST - History
+30200
+Black Pop Culture&Civil Rghts
+HIST - History
+30200
+Brewing & The American Expr
+HIST - History
+30200
+Conquistadors in Red, White, and Black
+HIST - History
+30200
+Democracy and Education
+HIST - History
+30200
+Intro To Digital Humanities
+JEDI
+Spring 2024
+HIST - History
+30200
+Early Modern Madness
+HIST - History
+30200
+Flight Paths-Honors
+HIST - History
+30200
+Gender and War in the Time of Napoleon - Honors
+HIST - History
+30200
+Ghandi:Myth Real&Persp
+HIST - History
+30200
+Global 1960s Revolution
+HIST - History
+30200
+Global Hist Theory & Practice
+HIST - History
+30200
+Hamilton the Musical
+HIST - History
+30200
+History of Ireland: 1556-1921
+HIST - History
+30200
+History of Korea
+HIST - History
+30200
+History of Sports in America
+HIST - History
+30200
+History of US Presidential Debate
+HIST - History
+30200
+Hitler and Nazis
+HIST - History
+30200
+Hitler's Europe
+HIST - History
+30200
+Intro Jewish Studies
+JEDI
+Spring 2024, Summer 2024
+HIST - History
+30200
+Kennedy Assasination in Global Perspective
+HIST - History
+30200
+Korean History, Present-1945
+HIST - History
+30200
+Modern Korean History
+HIST - History
+30200
+Modern Warfare
+HIST - History
+30200
+Muslim Americans
+HIST - History
+30200
+Muslim Women in History
+HIST - History
+30200
+Queens & Empresses
+HIST - History
+30200
+Religion in American History & Culture
+HIST - History
+30200
+ROMA History, Music & Culture
+HIST - History
+30200
+The Crusades
+HIST - History
+30200
+The Traveler's Gaze
+HIST - History
+30200
+Warfare & Diplomacy
+HIST - History
+30200
+Witchcraft& Magic in Euro Hist
+HIST - History
+30200
+WWI and the Middle East
+HIST - History
+30305
+Food in Modern America
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+30400
+America in the 1960s
+Humanities (H)
+HIST - History
+30505
+The US In World 1898-Present
+Humanities (H)
+Spring 2024
+HIST - History
+30605
+Technology & War in US History
+Humanities (H)
+Spring 2024
+HIST - History
+31005
+Civil War Reconstruct 1850-77
+Humanities (H)
+HIST - History
+31205
+Arab-Israeli Conflict
+HIST - History
+31305
+Medical Devices & Innovation
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+31405
+STEM and Gender
+JEDI,Humanities (H),Science Technology and Society (STS)
+HIST - History
+31505
+American Beauty
+Humanities (H)
+HIST - History
+31700
+A History of the Christian Church And The Expansion Of Christianity I
+HIST - History
+31800
+A History of the Christian Church And The Expansion Of Christianity II
+HIST - History
+31905
+Christianity in the Global Age
+HIST - History
+32000
+The World of Charlemagne
+HIST - History
+32105
+Spain: The First Global Empire
+HIST - History
+32300
+German History
+Humanities (H)
+Fall 2023
+HIST - History
+32400
+Modern France
+Humanities (H)
+HIST - History
+32501
+Twentieth Century Europe Through Autobiography
+HIST - History
+32600
+Popular Culture in Preindustrial Europe
+HIST - History
+32900
+History Of Women In Modern Europe
+Humanities (H)
+HIST - History
+33205
+The Nuclear Age
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+33300
+Science & Technology In Western Civilization I
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+33400
+Science & Technology in Western Civilization II
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+33505
+Nationlism Socialism E Cen Eur
+HIST - History
+33700
+Europe Age Of Cold War
+Fall 2023
+HIST - History
+33805
+History of Human Rights
+Humanities (H)
+Spring 2024
+HIST - History
+33900
+Traditional China
+Fall 2023
+HIST - History
+34000
+Modern China
+Humanities (H)
+HIST - History
+34300
+Traditional Japan
+Humanities (H)
+Spring 2024
+HIST - History
+34400
+Hist Of Modern Japan
+Humanities (H)
+HIST - History
+34505
+Arabs in American Eyes
+HIST - History
+34705
+History of Religion in America
+HIST - History
+34901
+The First World War
+Humanities (H)
+HIST - History
+35000
+Science & Society In 20th Cent
+Humanities (H),Science Technology and Society (STS)
+Summer 2024
+HIST - History
+35100
+Second World War
+Humanities (H)
+Fall 2023, Summer 2024
+HIST - History
+35205
+Death, Disease & Medicine
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+35305
+Sports in America
+Spring 2024
+HIST - History
+35400
+Women In America To 1870
+Humanities (H)
+HIST - History
+35500
+American Military Aff
+Humanities (H)
+Fall 2023, Summer 2024
+HIST - History
+35900
+Gender In East Asian History
+Humanities (H)
+HIST - History
+36305
+Medicine and Public Health
+Humanities (H),Science Technology and Society (STS)
+HIST - History
+36600
+Hispanic Heritage US
+HIST - History
+37005
+Queens in Early Modern Europe
+HIST - History
+37100
+Society & Rock & Roll
+Humanities (H)
+Fall 2023, Summer 2024
+HIST - History
+37200
+History of the American West
+HIST - History
+37500
+U S Women Since 1870
+Humanities (H)
+HIST - History
+37500
+Women In America Since 1870
+Humanities (H)
+HIST - History
+37600
+History of Indiana
+HIST - History
+37700
+Hist & Cult Native Am
+JEDI,Humanities (H)
+Spring 2024
+HIST - History
+38001
+History Of US Agriculture
+Humanities (H),Science Technology and Society (STS)
+Spring 2024
+HIST - History
+38200
+Amer Constitut Hist
+Humanities (H)
+Fall 2023
+HIST - History
+38300
+Recent American Constitutional History
+Humanities (H),Civics Literacy
+HIST - History
+38400
+History Of Aviation
+Humanities (H),Science Technology and Society (STS)
+Fall 2023
+HIST - History
+38505
+Media, Politics, & Pop Culture
+Humanities (H)
+HIST - History
+38605
+Land of Indians: NA in Indiana
+HIST - History
+38700
+Hist Of The Space Age
+JEDI,Humanities (H),Science Technology and Society (STS)
+Spring 2024
+HIST - History
+39001
+Jews In The Modern World: A Survey Of Modern Jewish Society, Culture, And Politics
+HIST - History
+39200
+Caribbean History And Culture
+HIST - History
+39400
+Environmental History Of The United States
+Humanities (H)
+HIST - History
+39500
+Activism & Rebellion in 1960's
+HIST - History
+39500
+Afro Amer Athl & Civil Rights
+HIST - History
+39500
+America in the 1980s
+HIST - History
+39500
+American Environmental Hist
+HIST - History
+39500
+Apollo U.S. Explores The Moon
+HIST - History
+39500
+Boilermakers: Hist of Purdue
+HIST - History
+39500
+Capitalism&Democracy Erly Amer
+HIST - History
+39500
+Conspiracy & Conspiracy Theory
+HIST - History
+39500
+Discover Your Roots
+HIST - History
+39500
+Dynasties & Intl Politics
+HIST - History
+39500
+Famine in World History
+Spring 2024
+HIST - History
+39500
+Foods, Fads & Fitness in America
+HIST - History
+39500
+Gender & War in Modern Europe
+HIST - History
+39500
+Gender and Politics
+HIST - History
+39500
+Hist of Medicine in Archives
+HIST - History
+39500
+Human Rights
+HIST - History
+39500
+Medicine & Public Health in US
+HIST - History
+39500
+Northern Indian Removal
+HIST - History
+39500
+Occup Eur Nazis In Archives
+Fall 2023
+HIST - History
+39500
+Nrthn Indian Removal 1783-1850
+HIST - History
+39500
+Occupied Europe
+HIST - History
+39500
+Purdue Changemakers:1940-2000
+HIST - History
+39500
+Roots of the Climate Crisis
+HIST - History
+39500
+Sex, Race, & Science
+HIST - History
+39500
+The Gender Revolution in Modern America
+HIST - History
+39500
+The Moon Race
+HIST - History
+39500
+The Politics of Popular Culture in 20th Century US
+HIST - History
+39500
+Witches, Wenches & Pirates
+HIST - History
+39600
+The Afro-American To 1865
+Humanities (H)
+HIST - History
+39800
+The Afro-American since 1865
+Humanities (H)
+HIST - History
+40000
+Great Books
+HIST - History
+40300
+Europe In Reformation
+HIST - History
+40500
+The French Revolution and Napoleon
+HIST - History
+40600
+Europe 1815-1870
+Spring 2024
+HIST - History
+40700
+Road to World War I: Europe 1870-1919
+HIST - History
+40800
+Dictatorship And Democracy: Europe 1919-1945
+HIST - History
+41005
+History of American Presidency
+Humanities (H)
+HIST - History
+41300
+Modern European Imperialism
+Fall 2023
+HIST - History
+41505
+Gender & Politics in Early Modern Europe
+HIST - History
+41800
+European Society And Culture 1450-1800
+HIST - History
+42300
+Divided Germany & the Cold War
+HIST - History
+42300
+Germany & The First World War
+Fall 2023
+HIST - History
+42300
+German Business History
+HIST - History
+43900
+Communist China
+Spring 2024
+HIST - History
+44100
+Africa in 20th Century
+HIST - History
+46000
+American Colonial History
+HIST - History
+46100
+Revolutionary Era 1763-1800
+HIST - History
+46300
+Creation Of American Legal Culture
+HIST - History
+46700
+Emergence Of Modern America
+HIST - History
+46800
+Recent American Hist
+HIST - History
+46900
+Black Civil Rights Movement
+HIST - History
+47005
+Women and Health in America
+Humanities (H)
+HIST - History
+47300
+ History Of The South
+HIST - History
+47500
+Spanish Frontier in North America
+HIST - History
+47600
+The Civil War in Myth and Memory
+HIST - History
+47700
+Native American Women's History
+HIST - History
+47900
+American Representations Of The Middle East And North Africa
+HIST - History
+48005
+Madness & The Asylum in the US
+HIST - History
+48500
+Work & Labor in Modern America
+HIST - History
+48800
+Hist Of Sexual Regul In US
+JEDI
+HIST - History
+49200
+Americans in the World
+HIST - History
+49200
+Great Trials in History
+HIST - History
+49200
+Modern Arab Thought
+Fall 2023
+HIST - History
+49200
+Pres COM In Election Yr
+HIST - History
+49200
+Refuges and Statelessness
+HIST - History
+49200
+Spain Under the Habsburgs
+HIST - History
+49200
+US Imperialism
+HIST - History
+49400
+Science And Technology In American Civilization
+HIST - History
+49500
+1960s America
+HIST - History
+49500
+American Foreign Relations
+HIST - History
+49500
+American Imperialism
+HIST - History
+49500
+Com at the Dawn of the Republic
+HIST - History
+49500
+Decolonization and After
+Spring 2024
+HIST - History
+49500
+Famine in World History
+HIST - History
+49500
+Flight and Space
+HIST - History
+49500
+Gender and War
+HIST - History
+49500
+Gender and World War I
+HIST - History
+49500
+Madness and the Asylum
+HIST - History
+49500
+Material Culture
+HIST - History
+49500
+Medicine and Madness
+HIST - History
+49500
+Media & Pols In Modern America
+Fall 2023
+HIST - History
+49500
+Modern Civil Rights Movement
+HIST - History
+49500
+Modern US Protest Movements
+HIST - History
+49500
+Native American History
+HIST - History
+49500
+Persistent Myths in Amer Hist
+HIST - History
+49500
+Psychedelic Psychiatry
+HIST - History
+49500
+Psychedlic Pscyhiatry
+HIST - History
+49500
+Race & Civil Rights Movmnt
+HIST - History
+49500
+Race & Modern Civil Rights
+HIST - History
+49500
+Rights & Revolution-Eur & America
+HIST - History
+49500
+Seminar on Native America
+HIST - History
+49500
+Witchcraft & Magic
+HIST - History
+49500
+Wrtg Hist US Foreign Relations
+Fall 2023
+HIST - History
+49500
+World War I in the Middle East
+Spring 2024
+HIST - History
+49500
+Writing the Age of Revolutions
+HIST - History
+51200
+ England Under The Stuarts
+HIST - History
+51400
+History of  Western Thought I
+HIST - History
+54800
+Conflict in East Asia: Twentieth Century
+HIST - History
+57600
+ Problems In Latin American History
+HIST - History
+59500
+The Holocaust and Genocide
+HONR - Honors
+19900
+Beyond Afghanistan
+HONR - Honors
+29900
+Underground Networks
+HONR - Honors
+39900
+Community Changemaking
+HONR - Honors
+39900
+Drug Addiction
+HONR - Honors
+39900
+Engineering Health Equity
+JEDI
+HONR - Honors
+39900
+Happiness
+Summer 2024
+HONR - Honors
+39900
+How To Feed The World
+JEDI
+HONR - Honors
+39900
+Human Redesign Calendar
+HONR - Honors
+39900
+Media, Equity, Elec Vehicles
+JEDI
+HONR - Honors
+39900
+Music As A Chariot
+JEDI
+HONR - Honors
+39900
+Race In American Popular Music
+JEDI
+HONR - Honors
+39900
+Sports & Politics
+JEDI
+Spring 2024
+HONR - Honors
+39900
+The World's Grand Challenges
+JEDI
+HONR - Honors
+39900
+World Building
+HONR - Honors
+39900
+Animals, Society & Education
+Spring 2024
+HONR - Honors
+46000
+Technological Justice
+Spring 2024
+IDIS - Interdisciplinary Studies
+49100
+Arab Women Writers
+IDIS - Interdisciplinary Studies
+49100
+Arabic Culture
+Fall 2023
+IDIS - Interdisciplinary Studies
+49100
+Cultural Encounters
+IDIS - Interdisciplinary Studies
+49100
+Global Leadership Program
+Fall 2023
+IDIS - Interdisciplinary Studies
+49100
+Evolutn of Bible Revol Effcts
+IDIS - Interdisciplinary Studies
+49100
+German Lit In Translation
+Spring 2024
+IDIS - Interdisciplinary Studies
+49100
+Intro to Global Urban Envrnmnt
+IDIS - Interdisciplinary Studies
+49100
+Intro to Islamic Civ & Cul
+Spring 2024
+IDIS - Interdisciplinary Studies
+49100
+Jewish Cinema
+Spring 2024
+IDIS - Interdisciplinary Studies
+49100
+Milton
+IDIS - Interdisciplinary Studies
+49100
+Muslim Women in History
+IDIS - Interdisciplinary Studies
+49100
+Muslims in America
+IDIS - Interdisciplinary Studies
+49100
+Myth, Legend, & Folklore
+IDIS - Interdisciplinary Studies
+49100
+Myths & Legends: Elves to Elvis
+IDIS - Interdisciplinary Studies
+49100
+Race & Religion in the US
+IDIS - Interdisciplinary Studies
+49100
+The Icelandic Saga
+IDIS - Interdisciplinary Studies
+49100
+Women Writers in Translation
+IDIS - Interdisciplinary Studies
+59100
+Bible & Early Inerpret
+IDIS - Interdisciplinary Studies
+59100
+Seventeenth Cent Lit
+IDIS - Interdisciplinary Studies
+59100
+Modern Arab Thought
+Fall 2023
+ILS - Information and Library Sci
+23000
+Data Science & Society ELSI
+Spring 2024, Summer 2024
+ITAL - Italian
+23100
+Dante's Divine Comedy
+ITAL - Italian
+28100
+Italian Renaissance Impact
+Humanities (H)
+Fall 2023
+ITAL - Italian
+33000
+The Italian Cinema
+Humanities (H)
+ITAL - Italian
+33300
+Spirit Of Ital Comedy
+Humanities (H)
+Spring 2024
+ITAL - Italian
+33500
+Italian-American Cinema
+ITAL - Italian
+34100
+Italian Literature I: From The Middle Ages To The Enlightenment
+ITAL - Italian
+34200
+Italian Literature II
+ITAL - Italian
+39300
+Italian Women Writers in Translation
+ITAL - Italian
+39300
+Mafia And The Movies
+ITAL - Italian
+39300
+The Cultures of Fascism
+ITAL - Italian
+49300
+Mafia & the Movies
+JPNS - Japanese
+24100
+Intro Study Jpns Lit
+Spring 2024
+JPNS - Japanese
+28000
+Intro Mod Japanese Civ
+JEDI
+Fall 2023, Spring 2024
+JPNS - Japanese
+33000
+Japanese Cinema
+JPNS - Japanese
+34100
+Japanese Literature I
+Spring 2024
+JPNS - Japanese
+36300
+Relatns Japan Lang&Soc
+JEDI
+Spring 2024
+JPNS - Japanese
+48000
+Japanese Civilization
+JPNS - Japanese
+48500
+Culinary Culture of Japan
+JEDI
+JPNS - Japanese
+49000
+Contemporary Japanese Popular Literature & Culture
+JPNS - Japanese
+49000
+Japanese Culinary Culture
+JPNS - Japanese
+49000
+Japanese Society Through Songs
+JPNS - Japanese
+49000
+Japanese Songs
+JPNS - Japanese
+49000
+JPNS B Movies Document Films
+JPNS - Japanese
+49000
+JPNS Cinema II:Enter & Othr Fm
+JPNS - Japanese
+49000
+Modern JPNS Masterpiece Novels
+JPNS - Japanese
+59400
+Contemp JPNS Women Writers
+JWST - Jewish Studies
+33000
+Intro Jewish Studies
+JEDI,Humanities (H)
+Spring 2024, Summer 2024
+KOR - Korean
+33000
+Intro To Korean Cinema
+Spring 2024
+KOR - Korean
+38000
+Dating, Sex & Marriage - Korea
+KOR - Korean
+38000
+Imag Disaster Kor&The Apoc Mod
+KOR - Korean
+38000
+introduction to Korean Culture
+KOR - Korean
+48000
+KPop: Gen, Iden, Indus & Fan
+JEDI
+LALS - Latin American and Latino Studies
+25000
+Intro Latin Am & Latino Study
+Spring 2024
+LALS - Latin American and Latino Studies
+26000
+U S Latino Culture
+LALS - Latin American and Latino Studies
+30100
+Hispanic Lit I
+LALS - Latin American and Latino Studies
+40100
+Latin Amer Civiliztn
+LALS - Latin American and Latino Studies
+40100
+Latin American Culture
+JEDI
+Spring 2024
+LALS - Latin American and Latino Studies
+40100
+Latina Feminisms
+LATN - Latin  
+34300
+Roman Oratory
+Humanities (H)
+LATN - Latin  
+34400
+Roman Epic
+Humanities (H)
+LATN - Latin  
+34500
+Roman Elegy
+Humanities (H)
+LATN - Latin  
+34700
+Roman Comedy
+Humanities (H)
+LATN - Latin  
+44200
+Roman Lyric Poetry
+Humanities (H)
+LATN - Latin  
+44300
+Roman Satire
+Humanities (H)
+LATN - Latin  
+44400
+ Roman Philosophers
+LATN - Latin  
+44600
+Roman Historians
+Humanities (H)
+LATN - Latin  
+49000
+ Directed Reading In Latin�Latin Paleography
+LATN - Latin  
+59000
+ Directed Reading In Latin�Latin Paleography
+LC  - Languages and Cultures
+33100
+ Comparative Literature In Translation�Kabbalah and Jewish Mysticism, Topics in Brazilian Culture
+LC  - Languages and Cultures
+33800
+ Language Through Films
+LC - Languages and Cultures
+23000
+Arabic Culture
+Fall 2023
+LC - Languages and Cultures
+23000
+Arabic Literature in Translati
+LC - Languages and Cultures
+23000
+Intro to Islami Civ & Cul
+LC - Languages and Cultures
+23000
+Introduction To Comparative Literature
+LC - Languages and Cultures
+23000
+World Lit 1700 to Now
+LC - Languages and Cultures
+23100
+Fairytale, Folktale, Fable
+LC - Languages and Cultures
+23300
+Love, Sex, and Gender in West European Literature
+LC - Languages and Cultures
+23500
+East Asian Literature
+JEDI
+Spring 2024
+LC - Languages and Cultures
+23700
+Lang & Cultures Global Context
+LC - Languages and Cultures
+23900
+Italian Women Writers In Translation
+Humanities (H)
+LC - Languages and Cultures
+23900
+Women Writers in Translation
+Humanities (H)
+LC - Languages and Cultures
+33300
+Middle Ages On Film
+Humanities (H)
+Spring 2024
+LC - Languages and Cultures
+49000
+Bible & Early Intrpret
+Spring 2024
+LC - Languages and Cultures
+49000
+BTS and Kpop Culture
+LC - Languages and Cultures
+49000
+Cold War Cultures in Korea
+LC - Languages and Cultures
+49000
+Food Culture in Russia
+LC - Languages and Cultures
+49000
+History of Chinese Art
+LC - Languages and Cultures
+49000
+Jewish Cinema
+Spring 2024
+LC - Languages and Cultures
+49000
+Language & Society
+LC - Languages and Cultures
+49000
+Leo Tolstoy His World and Art
+LC - Languages and Cultures
+49000
+Terrorism & The Movies
+LC - Languages and Cultures
+49000
+The Cultures of Fascism
+LC - Languages and Cultures
+49000
+The Hispanic World
+LC - Languages and Cultures
+49000
+Tolstoy and His Age
+LC - Languages and Cultures
+59300
+Approaches to Narrative
+LC - Languages and Cultures
+59300
+Borders and Borderlands
+LC - Languages and Cultures
+59300
+Don Quixote and Cervantes
+LC - Languages and Cultures
+59300
+Dostoevsky and His Age
+LC - Languages and Cultures
+59300
+Leo Tolstoy His World and Art
+LC - Languages and Cultures
+59300
+Mod Europ Narratv Theory Pract
+LC - Languages and Cultures
+59300
+Modern Arab Thought
+Fall 2023
+LC - Languages and Cultures
+59300
+ModEuroRhetorc,Poetcs,Narrativ
+LC - Languages and Cultures
+59300
+Stephen King's Short Stories
+LC - Languages and Cultures
+59300
+The Icelandic Saga
+LC - Languages and Cultures
+59300
+Theory of Creativity
+LC - Languages and Cultures
+59300
+Tolstoy and His World
+MARS - Medieval and Renaissance Studies
+22000
+Arthurian Literature: Medieval to Modern
+MARS - Medieval and Renaissance Studies
+22000
+Dragons
+MARS - Medieval and Renaissance Studies
+22000
+Love, Sex, and Gender in West European Literature
+MARS - Medieval and Renaissance Studies
+22000
+Middle Ages on Film
+MARS - Medieval and Renaissance Studies
+22000
+Pirates!
+MARS - Medieval and Renaissance Studies
+42000
+Tudors in Literature and Film
+MGMT - Management
+20000
+Intro Accounting
+Fall 2023, Spring 2024, Summer 2024
+MGMT - Management
+20100
+Mgmt Accounting I
+Summer 2024
+MGMT - Management
+21200
+Business Accounting
+Spring 2024, Summer 2024
+MGMT - Management
+24200
+Pers Fin Minorities
+Spring 2024
+MGMT - Management
+24300
+Th Minorities In Mgmt
+Fall 2023
+MGMT - Management
+32300
+Principles of Marketing
+Fall 2023, Spring 2024, Summer 2024
+MGMT - Management
+32400
+Marketing Management
+Fall 2023, Spring 2024, Summer 2024
+MGMT - Management
+45500
+Legal Bkgrnd Bus I
+Fall 2023, Spring 2024, Summer 2024
+MUS  - Music History and Theory
+13300
+ Music Theory II
+MUS  - Music History and Theory
+23200
+ Music Theory III
+MUS - Music History and Theory
+13200
+Music Theory I
+Humanities (H)
+Spring 2024
+MUS - Music History and Theory
+25000
+Music Appreciation
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+MUS - Music History and Theory
+36100
+Music Theory I
+Humanities (H)
+MUS - Music History and Theory
+36200
+Music Theory II
+MUS - Music History and Theory
+36300
+Music Theory III
+MUS - Music History and Theory
+37500
+Celebratory Baroque Music
+MUS - Music History and Theory
+37600
+World Music
+Humanities (H)
+MUS - Music History and Theory
+37800
+Jazz History
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+MUS - Music History and Theory
+38100
+Music History I
+Fall 2023
+MUS - Music History and Theory
+38200
+Music History II
+Spring 2024
+MUS - Music History and Theory
+49000
+History of Rock Music
+Summer 2024
+NS - Naval Science
+21300
+Sea Power & Maritm Aff
+Spring 2024
+NS - Naval Science
+33000
+Evolution Of Warfare
+Spring 2024
+NS - Naval Science
+41300
+Naval Leadership & Ethics
+JEDI
+Spring 2024
+OBHR - Organizational Behavior and Human Resource
+33000
+Intro To Org Behavior
+Fall 2023, Spring 2024, Summer 2024
+PHIL - Philosophy
+11000
+Big Questions: Intro To Phil
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+PHIL - Philosophy
+11005
+Intro Phil Through Video Games
+Spring 2024
+PHIL - Philosophy
+11100
+Introduction To Ethics
+Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+PHIL - Philosophy
+11400
+Global Moral Issues
+JEDI,Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+PHIL - Philosophy
+12000
+Critical Thinking
+Information Literacy (IL)
+PHIL - Philosophy
+20600
+Intro To Phil Of Religion
+Humanities (H)
+Fall 2023
+PHIL - Philosophy
+20700
+Ethics for Tech, Engr, Design
+Science Technology and Society (STS)
+Spring 2024
+PHIL - Philosophy
+20800
+Ethics of Data Science
+Science Technology and Society (STS)
+Summer 2024
+PHIL - Philosophy
+21900
+Phil & the Meaning of Life
+Humanities (H)
+Fall 2023
+PHIL - Philosophy
+22100
+Intro Philosophy Sci
+Science Technology and Society (STS)
+Fall 2023, Spring 2024
+PHIL - Philosophy
+22300
+Fate and Free Will
+Humanities (H)
+PHIL - Philosophy
+22500
+Philosophy and Gender
+Humanities (H)
+PHIL - Philosophy
+22700
+Science And Religion
+Spring 2024
+PHIL - Philosophy
+23000
+Religions of the East
+JEDI,Humanities (H)
+Fall 2023, Spring 2024
+PHIL - Philosophy
+23100
+Religions of the West
+JEDI,Humanities (H)
+Fall 2023, Spring 2024
+PHIL - Philosophy
+24000
+Social And Polit Phil
+Humanities (H)
+Fall 2023
+PHIL - Philosophy
+24200
+Phil,Cul,African Ameri
+JEDI,Humanities (H)
+PHIL - Philosophy
+26000
+Philosophy and Law
+Information Literacy (IL),Written Communication (WC)
+Fall 2023
+PHIL - Philosophy
+27000
+Biomed Ethics
+Science Technology and Society (STS)
+Fall 2023, Summer 2024
+PHIL - Philosophy
+27500
+Philosophy of Art
+Humanities (H)
+Spring 2024
+PHIL - Philosophy
+28000
+Ethics and Animals
+Humanities (H)
+PHIL - Philosophy
+29000
+Environmental Ethics
+Humanities (H)
+Spring 2024, Summer 2024
+PHIL - Philosophy
+29300
+Philosophy Of AI
+Fall 2023
+PHIL - Philosophy
+29300
+Ethics for Data Sciences
+PHIL - Philosophy
+29300
+Philosophy of Disability
+PHIL - Philosophy
+30100
+Ancient Philosophy
+Humanities (H)
+Fall 2023, Spring 2024
+PHIL - Philosophy
+30200
+Hist Medieval Philos
+Humanities (H)
+Spring 2024
+PHIL - Philosophy
+30300
+Hist Of Modern Phil
+Humanities (H)
+Fall 2023, Spring 2024
+PHIL - Philosophy
+30400
+19th Cent Philosophy
+Humanities (H)
+PHIL - Philosophy
+30600
+20th Cent Philosophy
+Spring 2024
+PHIL - Philosophy
+32200
+Philosophy of Technology
+PHIL - Philosophy
+40200
+Studies in Medieval Christian Thought
+PHIL - Philosophy
+40300
+Moral Psychology and Climate Change
+PHIL - Philosophy
+40600
+Intermed Phil Religion
+Spring 2024
+PHIL - Philosophy
+41100
+Modern Ethical Theory
+Humanities (H)
+PHIL - Philosophy
+42100
+Philosophy Of Science
+PHIL - Philosophy
+42400
+Recent Ethical Theory
+Humanities (H)
+Spring 2024
+PHIL - Philosophy
+42500
+Metaphysics
+Fall 2023
+PHIL - Philosophy
+43200
+Theory of Knowledge
+PHIL - Philosophy
+43500
+Philosophy Of Mind
+Fall 2023
+PHIL - Philosophy
+46500
+Philosophy of Language
+PHIL - Philosophy
+49000
+Ethics and Philosophy of Info
+PHIL - Philosophy
+49000
+Democracy, Autocracy & Justice
+Fall 2023
+PHIL - Philosophy
+49000
+Fun & The Meaning Of Life
+PHIL - Philosophy
+49000
+Moral Psych & Environ
+PHIL - Philosophy
+49000
+Philosophy of Race
+Fall 2023
+PHIL - Philosophy
+50100
+Studies In Greek Phil
+Fall 2023
+PHIL - Philosophy
+50200
+Studies Medieval Phil
+Fall 2023
+PHIL - Philosophy
+50300
+Studies in Early Modern Philosophy
+PHIL - Philosophy
+50500
+Islamic/Jewish Phil
+Spring 2024
+PHIL - Philosophy
+50600
+Advanced Philosophy Of Religion
+PHIL - Philosophy
+50700
+Recent American Philosophy
+PHIL - Philosophy
+51000
+Phenomenology
+PHIL - Philosophy
+51400
+Twentieth-Century Analytical Philosophy I
+PHIL - Philosophy
+51500
+Twentieth-Century Analytical Philosophy II
+PHIL - Philosophy
+52000
+Existentialism
+PHIL - Philosophy
+52400
+Contemporary Ethical Theory
+PHIL - Philosophy
+52500
+Studies in Metaphysics
+PHIL - Philosophy
+53000
+Deconstructionist And Postmodernist Philosophy
+PHIL - Philosophy
+53200
+Studies In The Theory of Knowledge
+PHIL - Philosophy
+53500
+Studies Philos Mind
+Spring 2024
+PHIL - Philosophy
+54000
+Studies In Social And Political Philosophy
+PHIL - Philosophy
+54200
+Rationality and Relativism: African American Perspectives
+PHIL - Philosophy
+54500
+Recent Analytic Phillosophy
+PHIL - Philosophy
+55100
+Philosophy Of The Natural Sciences
+PHIL - Philosophy
+55200
+Philosophy Of The Social Sciences
+PHIL - Philosophy
+55500
+Critical Theory
+PHIL - Philosophy
+56200
+Reading to Argue
+Spring 2024
+PHIL - Philosophy
+58000
+Imagination and Literature
+PHIL - Philosophy
+58000
+Laws/Causes
+PHIL - Philosophy
+58000
+Metalogic
+PHIL - Philosophy
+58000
+Modern Arab Thought
+PHIL - Philosophy
+58000
+Philosophy Of AI
+Fall 2023
+PHIL - Philosophy
+58000
+Phil Race
+PHIL - Philosophy
+58000
+Proseminar in Philosophy
+PHPR - Philosophy
+49000
+ Special Topics�Traditnl Chns Med In Shanghai
+POL  - Political Science
+35100
+ Foundations Of Western Political Theory: From Plato To The Reformation
+POL  - Political Science
+41300
+ The Human Basis Of Politics
+POL - Political Science
+10100
+American Government
+Behavioral/Social Science (BSS),Civics Literacy
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+12000
+Intr Pub Pol-Pub Admin
+Behavioral/Social Science (BSS),Civics Literacy
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+13000
+Intro To Int Reltns
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+14100
+Govts Of The World
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+15000
+Intro To Pol Thought
+Fall 2023
+POL - Political Science
+20000
+Intro Study Pol Sci
+POL - Political Science
+22200
+Wom Pol And Publ Pol
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+22300
+Intr Environmental Pol
+Behavioral/Social Science (BSS),Science Technology and Society (STS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+22800
+Data Science and Public Policy
+Spring 2024
+POL - Political Science
+22900
+Global Habitats, Cmnty Dev&Sust
+POL - Political Science
+22900
+Social and Political Philosophy
+POL - Political Science
+22900
+Spies and Lies
+POL - Political Science
+22900
+State Borders and Disputes
+POL - Political Science
+22900
+Terrorism
+POL - Political Science
+22900
+Terrorism & National Security
+POL - Political Science
+22900
+The US, Cuba & Latin America
+POL - Political Science
+23000
+Introduction to the Study Of Peace
+POL - Political Science
+23100
+Intro U S For Policy
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+23400
+The Politics of Terrorism
+Spring 2024
+POL - Political Science
+23500
+Rich And Poor Nations
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+23700
+Mod Weapons & Intl Rel
+Science Technology and Society (STS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+30000
+Intro Polit Analysis
+Information Literacy (IL)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+31400
+President Pol Process
+POL - Political Science
+32300
+Comparative Environmental Policy
+POL - Political Science
+32600
+Black Pol Part In Amer
+JEDI,Behavioral/Social Science (BSS) 
+Summer 2024
+POL - Political Science
+32700
+Global Green Politics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+POL - Political Science
+33500
+China Globalization
+Behavioral/Social Science (BSS)
+POL - Political Science
+34500
+West European Democracies In The Post-Industrial Era
+POL - Political Science
+34700
+Introduction To Latin American Politics
+POL - Political Science
+34800
+East Asian Politics
+POL - Political Science
+35300
+Current Political Ideologies
+POL - Political Science
+36000
+Women and the Law
+Behavioral/Social Science (BSS)
+POL - Political Science
+37200
+Indiana Gov & Politics
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024
+POL - Political Science
+37300
+Campaigns And Elections
+Civics Literacy
+POL - Political Science
+41000
+ Political Parties And Politics
+POL - Political Science
+41100
+Congress Structure
+Fall 2023, Spring 2024
+POL - Political Science
+41500
+US Politic & The Media
+Spring 2024
+POL - Political Science
+42300
+Intl Envir Policy
+Fall 2023, Spring 2024
+POL - Political Science
+42500
+ Environmental Law And Politics
+POL - Political Science
+42800
+Politics Of Regulation
+Spring 2024
+POL - Political Science
+42900
+Am Political Communication
+Fall 2023
+POL - Political Science
+42900
+Black Women in Politics
+POL - Political Science
+42900
+Collaboratory
+POL - Political Science
+42900
+Community Resilience
+POL - Political Science
+42900
+Contemporary Political Problems
+POL - Political Science
+42900
+CSPAN:Com Democracy Thru Media
+POL - Political Science
+42900
+Digital Democracy
+POL - Political Science
+42900
+Intro to Nuc & Rad Security
+Spring 2024
+POL - Political Science
+42900
+Intro Environ&Sustnablty Stdes
+Fall 2023
+POL - Political Science
+42900
+It's a Complex World
+POL - Political Science
+42900
+LGBTQ+ Politics
+POL - Political Science
+42900
+Media Influe Conflit Envir
+POL - Political Science
+42900
+Model United Nations
+POL - Political Science
+42900
+Modeling for Public Policy
+POL - Political Science
+42900
+Pol & Econ Dev In Latin Amer
+POL - Political Science
+42900
+Power & Interdependence
+Fall 2023
+POL - Political Science
+42900
+Politics Of Fairness
+POL - Political Science
+42900
+Pres COM in Election Yr
+POL - Political Science
+42900
+Public Opinion & Elections
+POL - Political Science
+42900
+Science Technology and Policy
+POL - Political Science
+42900
+Supreme Ct & Const Law
+POL - Political Science
+42900
+Understand Fed Sci Pol & Fund
+POL - Political Science
+43000
+Causes & Consequences of War
+POL - Political Science
+43000
+Conf & Devl: US in Afghanistan
+POL - Political Science
+43000
+International Human Rights
+POL - Political Science
+43000
+IR: The Iraq Wars
+POL - Political Science
+43000
+International Law And Conflict
+Fall 2023
+POL - Political Science
+43000
+Nation-building and War
+POL - Political Science
+43000
+Select Topics in Diplomacy
+POL - Political Science
+43000
+Selected Problems In International Relations
+POL - Political Science
+43000
+Spies&Lies Studies Intel&Secur
+POL - Political Science
+43000
+Terrorism and Intl Security
+POL - Political Science
+43000
+Theories of IR
+POL - Political Science
+43200
+ Selected Problems In World Order�Selected Problems in World Order: Human Transformations
+POL - Political Science
+43300
+Internat Organization
+Fall 2023
+POL - Political Science
+43500
+ International Law
+POL - Political Science
+43801
+International Human Rights
+Spring 2024
+POL - Political Science
+46000
+Judicial Politics
+Spring 2024
+POL - Political Science
+46100
+Constitutional Law I
+Civics Literacy
+Fall 2023, Spring 2024
+POL - Political Science
+46200
+Constitutional Law II
+Civics Literacy
+Spring 2024
+POL - Political Science
+49100
+Comp Pol of Renewable Energy
+POL - Political Science
+49100
+Con Law Death Pen & Privacy
+POL - Political Science
+49100
+Conservativism&US Foreign Policy
+POL - Political Science
+49100
+Democracy & Its Critics
+Fall 2023
+POL - Political Science
+49100
+Environmental Federalism
+POL - Political Science
+49100
+Global Governance
+POL - Political Science
+49100
+Hard Decisions
+POL - Political Science
+49100
+Health Care Policy and Politics
+POL - Political Science
+49100
+Moving Across Borders
+POL - Political Science
+49100
+Politics of Japan and China
+POL - Political Science
+49100
+Power, Bargaining, & Conflict
+POL - Political Science
+49100
+Power & Policy US Politics
+Fall 2023
+POL - Political Science
+49100
+Powers & International Order
+POL - Political Science
+49100
+Race, Gender & Pol Rep
+POL - Political Science
+49100
+Senior Seminar Env Policy
+POL - Political Science
+49100
+SrSemr Congress Age of TV
+POL - Political Science
+49100
+SrSemr Conservatism
+POL - Political Science
+49100
+SrSemr Demcrcy & Critics
+POL - Political Science
+49100
+Supreme Court In American Pol
+Fall 2023
+POL - Political Science
+49100
+The Politics of Immigration
+POL - Political Science
+49100
+The Rise and Fall of Dictators
+POL - Political Science
+49300
+Data Driven Apprch/Polcy Mking
+POL - Political Science
+49300
+Intro Jewish Studies
+Spring 2024, Summer 2024
+POL - Political Science
+51700
+The Politics Of Capital And Labor In The United States
+POL - Political Science
+52000
+Dem Deliberation Participation
+POL - Political Science
+52000
+Diversity Equity Inclusion
+POL - Political Science
+52000
+Health, Built Env & Sustain
+POL - Political Science
+52000
+Nuclear Strategy/Proliferation
+POL - Political Science
+52000
+Policy Analysis Climate Change
+Spring 2024
+POL - Political Science
+52000
+Race, Representation, & Policy
+Fall 2023
+POL - Political Science
+52000
+Transportation Equity
+Fall 2023
+POL - Political Science
+52000
+Race Ethnicity Representation
+POL - Political Science
+52300
+Environmental Politics & Public Policy
+POL - Political Science
+52400
+Public Policy and the Family
+POL - Political Science
+53200
+Nuclear Strat & Proliferation
+Spring 2024
+POL - Political Science
+59000
+Holocaust and Genocide
+PSY - Psychology
+12000
+Elementary Psychology
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+12300
+Beyond Mental Health: The Science Of Well-Being
+Behavioral/Social Science (BSS)
+PSY - Psychology
+20000
+Intro Cogn Psych
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+22200
+Intro Behvr Neurosci
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+23500
+Child Psychology
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+23900
+Psych Of Women
+PSY - Psychology
+24000
+Intro Social Psych
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+24400
+Introduction To Human Sexuality
+PSY - Psychology
+27200
+Intro To Ind-Org Psych
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+29200
+Intro to Clincial Psych
+PSY - Psychology
+29200
+Intro to Neuropsychology
+Spring 2024
+PSY - Psychology
+29200
+Science of Well Being
+PSY - Psychology
+31000
+Sensory Percep Proc
+Fall 2023
+PSY - Psychology
+31100
+Human Memory
+PSY - Psychology
+31400
+Intro To Learning
+Fall 2023
+PSY - Psychology
+32400
+Intro Cog Neurosci
+Fall 2023, Spring 2024
+PSY - Psychology
+32700
+Psychology of Helping
+PSY - Psychology
+33500
+Stereotyping And Prej
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+33600
+Issues In Devel Psych
+Fall 2023
+PSY - Psychology
+33700
+Social Cognition
+PSY - Psychology
+34200
+Psych Of Personality
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+35000
+Abnormal Psychology
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+35200
+Intro to Neuropsychology
+Spring 2024
+PSY - Psychology
+35400
+Close Relationships
+Spring 2024, Summer 2024
+PSY - Psychology
+36100
+Human Development I: Infancy And Childhood
+PSY - Psychology
+36700
+Adult Development And Aging
+PSY - Psychology
+37600
+Attention & Cognitive Control
+Spring 2024
+PSY - Psychology
+38000
+Behavior Change Methds
+Spring 2024, Summer 2024
+PSY - Psychology
+39200
+Attention & Cognitive Control
+PSY - Psychology
+39200
+Beh/Neural Sys Learn & Mem
+PSY - Psychology
+39200
+Belief In Weird Things
+Fall 2023
+PSY - Psychology
+39200
+Belonging And Exclusion
+PSY - Psychology
+39200
+Close Relationships
+Fall 2023
+PSY - Psychology
+39200
+Cognitive Neurosci of Vision
+PSY - Psychology
+39200
+Cultural Psychology
+Fall 2023
+PSY - Psychology
+39200
+Diversity and Inclusion
+PSY - Psychology
+39200
+Eating Disorders & Obesity
+Fall 2023
+PSY - Psychology
+39200
+Foods and Behavior
+PSY - Psychology
+39200
+Intro to Clinical Psychology
+PSY - Psychology
+39200
+Judgement And Decision Making
+Spring 2024
+PSY - Psychology
+39200
+Language & The Brain
+PSY - Psychology
+39200
+Lifespan Development
+PSY - Psychology
+39200
+Neurobiology of Disease
+PSY - Psychology
+39200
+Neurodevelopmental Disorders
+PSY - Psychology
+39200
+Parapsyc & Psychic Claims
+PSY - Psychology
+39200
+Positive Work Psychology
+Spring 2024
+PSY - Psychology
+39200
+Psy of Workplace Tech
+PSY - Psychology
+39200
+Psychology Of Climate Change
+PSY - Psychology
+39200
+Psychology of Gender
+Fall 2023, Spring 2024, Summer 2024
+PSY - Psychology
+39200
+Psychology of Trauma
+Spring 2024
+PSY - Psychology
+39200
+Science of Happiness
+PSY - Psychology
+39200
+Social Psychology & Film
+PSY - Psychology
+39200
+Understanding Autism
+PSY - Psychology
+39200
+Future Of Work
+Fall 2023
+PSY - Psychology
+41800
+ Understanding Autism
+PSY - Psychology
+42100
+Alcohol Use And Disorders
+PSY - Psychology
+42200
+Genes and Behavior
+Fall 2023
+PSY - Psychology
+42600
+Language Development
+Spring 2024
+PSY - Psychology
+42800
+Drugs And Behavior
+PSY - Psychology
+42900
+Hormones And Behavior
+Spring 2024
+PSY - Psychology
+43200
+Social Psychology in Film
+PSY - Psychology
+43600
+Foods and Behavior
+PSY - Psychology
+43800
+Intro to Clinical Psychology
+Summer 2024
+PSY - Psychology
+44300
+Aggression and Violence
+PSY - Psychology
+46400
+Research Ethics
+PSY - Psychology
+47300
+Selec & Perf Appraisal
+PSY - Psychology
+47500
+Work Motivation and Job Satisfaction
+PSY - Psychology
+48400
+Psychology of Consciousness
+PSY - Psychology
+51500
+Neuroscience of Consciousness
+PSY - Psychology
+53500
+Psychology Of Death And Dying
+PSY - Psychology
+59100
+Acceptance and Inclusion
+PSY - Psychology
+59100
+Cross Cultural Social Psy
+PSY - Psychology
+59100
+Current Readings in Social Psychology
+PSY - Psychology
+59100
+Developmental Cognitive Neuroscience
+PSY - Psychology
+59100
+Foundations of Clinical Psych
+PSY - Psychology
+59100
+Diversity Science
+Fall 2023
+PSY - Psychology
+59100
+Intro to Compu/Cog Neurosci
+PSY - Psychology
+59100
+Neuroethics
+PSY - Psychology
+59100
+Ostracism
+PTGS - Portuguese
+33000
+Brazilian, Portuguese, And African Cinema
+PTGS - Portuguese
+55100
+Brazilian Poetry
+PTGS - Portuguese
+55500
+Brazilian Drama
+PTGS - Portuguese
+55700
+Brazilian Fiction
+PTGS - Portuguese
+59400
+Latin American Short Story
+PTGS - Portuguese
+59400
+Machado & Borges
+REL - Religious Studies
+20000
+Intro To Study Of Rel
+Humanities (H)
+Spring 2024
+REL - Religious Studies
+20100
+Interpretation of the New Testament
+REL - Religious Studies
+20200
+Intrp of Old Testament
+Fall 2023
+REL - Religious Studies
+20300
+Theology Of Paul
+REL - Religious Studies
+20400
+Intro To Christ Theol
+Fall 2023
+REL - Religious Studies
+23000
+Religions Of The East
+Humanities (H)
+Fall 2023, Spring 2024
+REL - Religious Studies
+23100
+Religions Of The West
+Humanities (H)
+Fall 2023, Spring 2024
+REL - Religious Studies
+25000
+Hist Christn Afterlife
+REL - Religious Studies
+31700
+Anc Jud & Early Christ
+Fall 2023
+REL - Religious Studies
+31800
+Bible & Early Intrpret
+Spring 2024
+REL - Religious Studies
+35000
+History of Christian Theology
+REL - Religious Studies
+35100
+Christian Mysticism
+REL - Religious Studies
+45000
+Christian Ethics
+REL - Religious Studies
+45100
+Christology
+REL - Religious Studies
+45200
+Systematic Theology
+REL - Religious Studies
+49100
+Engaging Religious Diversity
+REL - Religious Studies
+49100
+Rhetorics of Religion
+RUSS - Russian
+29800
+Food Culture in Russia
+RUSS - Russian
+29800
+Russian and Slavic Fairy Tales
+RUSS - Russian
+33000
+Russian And East European Cinema
+Humanities (H)
+RUSS - Russian
+34100
+Russian Literature I: From The Beginnings To 1900
+RUSS - Russian
+34200
+Soviet Literature and Beyond
+Fall 2023
+RUSS - Russian
+38000
+Russian Culture & Civ I
+Spring 2024
+RUSS - Russian
+38100
+Russian Culture & Civ II
+RUSS - Russian
+48000
+Russian Civilization
+RUSS - Russian
+49700
+Dostoevsky and His Age
+RUSS - Russian
+49700
+Tolstoy And His Age
+JEDI
+RUSS - Russian
+49800
+Post-Soviet Russian Cinema
+RUSS - Russian
+49800
+The Caucasus
+RUSS - Russian
+58100
+Russian Culture
+SFS - Sustainable Food and Farm Sys
+41100
+Structural Racism In US Ag
+JEDI
+Spring 2024
+SFS - Sustainable Food and Farm Sys
+41200
+Colonial Globaln Food Justice
+JEDI
+Spring 2024
+SFS - Sustainable Food and Farm Sys
+41300
+Cultures And Agricultures US
+JEDI
+Spring 2024
+SOC - Sociology
+10000
+Intro Sociology
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024, Summer 2024
+SOC - Sociology
+22000
+Social Problems
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024, Summer 2024
+SOC - Sociology
+27500
+Sociology of Aging
+Behavioral/Social Science (BSS)
+SOC - Sociology
+31000
+Race And Ethnicity
+JEDI
+Fall 2023, Spring 2024, Summer 2024
+SOC - Sociology
+31200
+American Society
+SOC - Sociology
+32400
+Criminology
+Fall 2023, Spring 2024, Summer 2024
+SOC - Sociology
+32600
+Social Conflict And Criminal Justice
+Behavioral/Social Science (BSS)
+SOC - Sociology
+32700
+Crime, Deviance And Mass Media
+SOC - Sociology
+32800
+Criminal Justice
+Fall 2023, Spring 2024, Summer 2024
+SOC - Sociology
+33400
+Urban Sociology
+SOC - Sociology
+33500
+Political Sociology
+Science Technology and Society (STS)
+SOC - Sociology
+33800
+Global Social Movements
+SOC - Sociology
+33900
+Sociology Of Global Develop
+JEDI
+Fall 2023
+SOC - Sociology
+34000
+Gen Social Psychology
+Fall 2023, Spring 2024
+SOC - Sociology
+34400
+Environmental Sociology
+Behavioral/Social Science (BSS)
+SOC - Sociology
+35000
+Sociology of Family
+Fall 2023, Spring 2024
+SOC - Sociology
+35200
+Drugs,Culture,&Society
+Behavioral/Social Science (BSS)
+Spring 2024, Summer 2024
+SOC - Sociology
+35600
+Hate And Violence
+JEDI
+Spring 2024
+SOC - Sociology
+36700
+Religion In America
+JEDI
+Fall 2023
+SOC - Sociology
+36800
+ The Social Significance Of Religion
+SOC - Sociology
+36900
+Chinese Religion
+SOC - Sociology
+37400
+Medical Sociology
+Behavioral/Social Science (BSS)
+Fall 2023
+SOC - Sociology
+38100
+Data And Society
+Spring 2024
+SOC - Sociology
+39100
+Analyzing Culture on TV
+Fall 2023
+SOC - Sociology
+39100
+Criminal Law
+Fall 2023, Spring 2024
+SOC - Sociology
+39100
+Employment and Law
+SOC - Sociology
+39100
+Sociology of Gaming
+SOC - Sociology
+39100
+Sociology of Mental Health
+SOC - Sociology
+39100
+Sociology of Policing
+Fall 2023, Spring 2024
+SOC - Sociology
+40200
+Sociological Theory
+Fall 2023, Spring 2024
+SOC - Sociology
+40900
+Social Networks
+SOC - Sociology
+41100
+Social Inequality
+Fall 2023, Spring 2024
+SOC - Sociology
+41900
+Sociology Of Law
+Fall 2023, Spring 2024
+SOC - Sociology
+42100
+Juvenile Delinquency
+SOC - Sociology
+42600
+Soc Deviance & Control
+Fall 2023
+SOC - Sociology
+42900
+Sociology Of Protest
+Behavioral/Social Science (BSS)
+Fall 2023
+SOC - Sociology
+43200
+Work in Contemporary America
+SOC - Sociology
+45000
+Gender Roles Mod Soc
+JEDI
+Fall 2023, Spring 2024
+SOC - Sociology
+46100
+Health and Social Behavior
+Spring 2024
+SOC - Sociology
+52000
+Work In Contemporary America
+SOC - Sociology
+52500
+Social Movements
+SOC - Sociology
+53100
+Community Organization
+SOC - Sociology
+56700
+Religion In Social Context
+SOC - Sociology
+57000
+ Sociology Of Education
+SOC - Sociology
+57100
+Health & Social Behavior
+SOC - Sociology
+57200
+ Comparative Healthcare Systems
+SOC - Sociology
+57300
+ The Human Side Of Medicine
+SOC - Sociology
+57400
+ The Social Organization Of Healthcare
+SOC - Sociology
+57600
+Health And Aging In Social Context
+SOC - Sociology
+59100
+Sociology ProSeminar
+Spring 2024
+SPAN - Spanish
+23100
+Cervantes' Don Quixote
+SPAN - Spanish
+23500
+Spanish American Literature in Translation
+Humanities (H)
+SPAN - Spanish
+24100
+Intro To Hispanic Lit
+Fall 2023, Spring 2024
+SPAN - Spanish
+28000
+Intro Latin Am & Latino Study
+SPAN - Spanish
+33000
+Spanish And Latin American Cinema
+Humanities (H)
+SPAN - Spanish
+33500
+The Literature of Spanish-Speaking Peoples in the United States
+SPAN - Spanish
+34100
+Hispanic Literature I: Poetry And Drama
+SPAN - Spanish
+34200
+Hispanic Lit II
+JEDI
+Spring 2024
+SPAN - Spanish
+39800
+The Hispanic World
+SPAN - Spanish
+48000
+Spanish Civilization
+JEDI
+Spring 2024
+SPAN - Spanish
+48100
+Spanish Culture
+Fall 2023
+SPAN - Spanish
+48200
+Latin American Civilization
+SPAN - Spanish
+48300
+Latin American Culture
+Fall 2023, Spring 2024
+SPAN - Spanish
+48500
+Food And Culture Hispan World
+Spring 2024
+SPAN - Spanish
+49800
+Don Quixote
+SPAN - Spanish
+49800
+Food Culture Hispanic World
+SPAN - Spanish
+49800
+Hispanic Film in Spanish
+SPAN - Spanish
+49800
+Spanglish In Ling & Cul
+SPAN - Spanish
+54000
+Spanish Literature Of The Middle Ages
+SPAN - Spanish
+54100
+Spanish Literature of the Golden Age
+SPAN - Spanish
+54200
+Cervantes' Don Quijote
+SPAN - Spanish
+54300
+Spanish Literature Of The 18th And 19th Centuries
+SPAN - Spanish
+54500
+Spanish Literature Of The 20th Century
+SPAN - Spanish
+55000
+Spanish American Literature of the Colonial Period
+SPAN - Spanish
+55100
+Span Am Lit 19th Cent
+Spring 2024
+SPAN - Spanish
+55200
+Spanish American Literature from 1900 to 1970
+SPAN - Spanish
+55300
+Spanish American Literature From 1970- Present
+SPAN - Spanish
+55400
+Hispanic & Caribbean Literature
+SPAN - Spanish
+55500
+Spn/Am Lit Colonal Prd
+SPAN - Spanish
+55600
+Mexican Literature
+SPAN - Spanish
+59000
+Spanish American Novel
+SPAN - Spanish
+59400
+Borders and Borderlands
+SPAN - Spanish
+59400
+Hispanic Film in Spani Part II
+SPAN - Spanish
+59400
+Modern Spanish Comic Theater
+SPAN - Spanish
+59400
+Transatlantic Poetry
+SYS - Purdue Sys Collaboratory
+30000
+Address Global Challngs-Honors
+Spring 2024
+THTR - Theatre
+20100
+Theatre Appreciation
+Humanities (H)
+Fall 2023, Spring 2024
+THTR - Theatre
+38000
+History Of Theatre I
+Fall 2023
+THTR - Theatre
+38100
+History Of Theatre II
+Spring 2024
+THTR - Theatre
+39000
+Black Drama
+Spring 2024
+THTR - Theatre
+39000
+Hamilton: Hist Artistry Impact
+WGSS - Women Gender and Sexuality Studies
+28000
+Women's Studies: An Introductn
+JEDI,Behavioral/Social Science (BSS),Humanities (H)
+Fall 2023, Spring 2024, Summer 2024
+WGSS - Women Gender and Sexuality Studies
+28100
+20th Century Women Artists
+WGSS - Women Gender and Sexuality Studies
+28100
+Arab Women Writers
+WGSS - Women Gender and Sexuality Studies
+28100
+Contemporary Foreign Women Writers In Translation
+WGSS - Women Gender and Sexuality Studies
+28100
+Intro to Study of Religion
+WGSS - Women Gender and Sexuality Studies
+28100
+Spanish American Literature in Translation
+WGSS - Women Gender and Sexuality Studies
+28100
+Wom Pol and Publ Pol
+JEDI
+Fall 2023, Spring 2024
+WGSS - Women Gender and Sexuality Studies
+28100
+Women Writers in Translation
+WGSS - Women Gender and Sexuality Studies
+28200
+Intro To LGBTQ Studies
+JEDI,Behavioral/Social Science (BSS) 
+Fall 2023, Spring 2024
+WGSS - Women Gender and Sexuality Studies
+38000
+Comp Studies Gender & Culture
+Behavioral/Social Science (BSS)
+Fall 2023, Spring 2024
+WGSS - Women Gender and Sexuality Studies
+38100
+Women Of Color In The United States
+WGSS - Women Gender and Sexuality Studies
+38200
+Love, Sex and Sexuality
+Spring 2024
+WGSS - Women Gender and Sexuality Studies
+38300
+Women, Work, And Labor
+JEDI
+WGSS - Women Gender and Sexuality Studies
+39000
+American Beauty
+WGSS - Women Gender and Sexuality Studies
+39000
+Feminist Technoscience Studies
+WGSS - Women Gender and Sexuality Studies
+39000
+Gender and Literature
+Spring 2024
+WGSS - Women Gender and Sexuality Studies
+39000
+Gender and Politics in Early Modern Europe
+WGSS - Women Gender and Sexuality Studies
+39000
+Gender Revolution in Mod Amer
+WGSS - Women Gender and Sexuality Studies
+39000
+Hist of Sexual Regul in US
+WGSS - Women Gender and Sexuality Studies
+39000
+Latina Feminisms
+WGSS - Women Gender and Sexuality Studies
+39000
+Literature, Queer Studies & Disability
+WGSS - Women Gender and Sexuality Studies
+39000
+Queens & Empresses in Early Modern Europe
+WGSS - Women Gender and Sexuality Studies
+39000
+Sports & Popular Feminism
+WGSS - Women Gender and Sexuality Studies
+39000
+STEM and Gender
+WGSS - Women Gender and Sexuality Studies
+39000
+Understsanding the NFL
+WGSS - Women Gender and Sexuality Studies
+39000
+US Women Since 1870
+WGSS - Women Gender and Sexuality Studies
+39000
+Women and Health in America
+WGSS - Women Gender and Sexuality Studies
+39000
+Women and Leadership
+Spring 2024
+WGSS - Women Gender and Sexuality Studies
+39000
+Women and the Law
+WGSS - Women Gender and Sexuality Studies
+39000
+Women&Games: Design Dev & Play
+WGSS - Women Gender and Sexuality Studies
+48000
+Feminist Theory
+JEDI
+WGSS - Women Gender and Sexuality Studies
+48200
+Interdisc Studies In Sexuality
+Spring 2024
+WGSS - Women Gender and Sexuality Studies
+48300
+Feminism In Global Perspective
+Fall 2023
+WGSS - Women Gender and Sexuality Studies
+48500
+Feminist Perspectives on Film & Cinema & Visual Culture
+WGSS - Women Gender and Sexuality Studies
+49900
+Black Women Writers
+WGSS - Women Gender and Sexuality Studies
+49900
+Women and Health in America
+WGSS - Women Gender and Sexuality Studies
+59900
+Gender & Sexuality in Sport
+WGSS - Women Gender and Sexuality Studies
+59900
+Native Amer Women Writers
+WGSS - Women Gender and Sexuality Studies
+59900
+Public Pol and Family
+YDAE - Youth Development and Ag Education
+49100
+Consequences of Race and Privilege in Today's America

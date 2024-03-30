@@ -1,3 +1,4 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/bachelor.html
 Computer Science Degree Requirements
 The first six (core) courses, which are taken in the freshman and sophomore years, lay a strong foundation for computer science majors. Each student then selects a Track in which to complete 6 advanced courses. Each Track has 2-4 Required Courses and a list of potential electives. A student may complete more than one Track if desired.
 The flexibility of the Computer Science curriculum comes from requiring only six foundational (core) courses followed by one or more Tracks, which allow students to deepen their understanding in a specific area of computer science. Some intersection between tracks allows specialization in multiple areas, for example, Systems Programming and Software Engineering.

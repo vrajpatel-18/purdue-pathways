@@ -1,0 +1,106 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/bs-ms.html
+4+1 BS/MS Degree Program
+Computer science majors can take advantage of the 4+1 BS/MS combined degree program. Graduates in the program experience a streamlined approach towards a master’s degree in computer science while completing their bachelor’s degree credits. 
+Criteria
+Computer science majors need to meet the following for admittance.
+Able to complete both degrees within five calendar years, beginning with the student's first term as a degree-seeking student at Purdue, regardless of major, campus, or discontinuities in registration.
+Only two semesters of undergraduate education remaining (Fall or Spring). Summer is not considered a semester. Students who apply before their sixth semester will be expected to complete their BS in fewer than eight semesters.
+100 credit hours completed by the end of the semester in which the application is submitted.
+CS GPA Requirement:
+Students applying for Fall 2024 admission (application window April 15 - May 15): 3.5 GPA in Computer Science courses.
+Students applying admission for Spring 2025 (application window November 15 – December 15) and beyond: 3.5 GPA in 
+specified
+ Computer Science courses (see below).
+Cumulative GPA 3.0
+Data Science and AI majors are not eligible for the combined degree program.
+How this works
+The requirements for both degrees are not altered, provided the student earns both degrees within five calendar years, beginning with the student's first term as a degree-seeking student at Purdue, regardless of major, campus, or discontinuities in registration. 
+The combined degree program consists of two “combined year” semesters (no more, no less) and two MS year semesters (no more, no less). Students who are able to complete their BS in fewer than eight semesters should apply in the third-to-last undergraduate semester and complete the program in less than five years (ten semesters not including summer sessions).
+Nine credits of approved graduate-level courses can be used as free electives or to satisfy track requirements (“selectives”) for the 
+BS program
+ and also for 
+MS program
+ requirements. BS/MS students are permitted to double count i.e., use a graduate course to meet both a CS BS requirement and a CS MS requirement, but they may not triple count any course.
+A CS grad course may count toward two but not three of the following:
+MS requirement
+Track requirement/selective
+CSHO 500-level requirement OR as a grad level substitution for 352 (502), 354 (503), or 381 (580), but not both requirements
+Graduate-level undergraduate excess credits can be used in combination with up to nine shared credits for the combined degree but the sum of the dual-counted and graduate-level undergraduate excess credits may not exceed 12 credits. All other graduate courses to be used for the MS must be taken after the award of the BS.
+The student's primary degree objective will remain the BS until the BS is awarded. The MS will be the student's secondary degree objective from the time the student is accepted as an MS student by the Graduate School until the award of the BS. During this combined year, the student must take at least one three-credit graduate course each semester. After the BS degree is conferred, the MS will become the student's primary degree objective.
+Specified CS Courses
+Note: this policy does not go into effect until the Spring 2025 application cycle (Nov. 15th to Dec. 15th, 2024).
+Applicants must demonstrate a solid foundation and show potential for success in graduate courses through course and GPA requirements. Nine (9) CS courses as listed below will be counted toward the 3.5 GPA requirement. No other course grades will be included. All courses must be taken at Purdue West Lafayette, transfer courses will not be considered.
+The following nine courses must be completed with a regular grade prior to admission:
+All CS core courses -CS18000, CS18200, CS24000, CS25000, CS25100, CS25200
+CS38100 Introduction to Analysis of Algorithms
+Two additional courses from the table below
+Course
+Title
+CS 33400
+Fundamentals of Computer Graphics (take in semester 4-5)
+CS 34800
+Information Systems
+CS 35200
+Compilers: Principles & Practice
+CS 35400
+Operating Systems
+CS 37300
+Data Mining and Machine Learning
+CS 40800
+Software Testing
+CS 42200
+Computer Networks
+CS 42600
+Computer Security
+CS 45600
+Programming Languages
+CS 47100
+Introduction to Artificial Intelligence
+Application Windows
+Fall start of BS/MS Degree Program – apply April 15th – May 15th
+Spring start of BS/MS Degree Program – apply November 15th – December 15th
+Admission Requirements & Process
+Students who apply should have a GPA of at least 3.5 in the specified CS courses and a cumulative GPA of at least 3.0. A student should apply for the BS/MS program in their 6th undergraduate semester or third to last semester for those who will fulfill BS requirements early. The student’s application to the BS/MS program will then be reviewed after the student’s transcript shows completion of the specified courses and at least 100 of the 120 credits required for the BS. 
+Admission Process
+Complete a 
+term-by-term plan of study
+ (PDF) to include all remaining courses for both BS and MS degrees. Your Undergraduate Advisor must review and approve the remaining BS degree requirements.
+Send the plan of study approved by your undergrad advisor to 
+csgrad@purdue.edu
+ for MS Graduate Program Coordinator/Advisor approval.
+Complete and sign a 
+Graduate School Form 27
+ (Combined-Degree Program Request, PDF).
+After 1-3 are completed, submit the 
+electronic graduate application
+.
+Upload the fully approved BS/MS plan of study with your graduate application.
+The application system requires you to list three recommenders in order to submit the application. For the BS/MS Degree Program, only a brief recommendation from your Undergraduate Advisor or CS faculty member is required. Responses are not needed from the other two listed recommenders. 
+You are not required to submit GRE scores or a Personal History Statement. 
+The Academic Statement of Purpose should be a brief overview of why you feel you will be successful in the program. 
+When you have completed the above, send an email to 
+csgrad@purdue.edu
+ with a statement indicating your application has been submitted. 
+Attach your approved plan of study and Form 27
+.
+Program Policies & Procedures
+Students are responsible for knowing and following program policies, procedures, requirements, and expectations. Students are presumed to have received and read all University and departmental communications sent to their official Purdue University e-mail account. Admitted students should consult their MS Advisor with questions or concerns.
+Plan of Study:
+After admission to the program, the student will have an advisor for each degree. During the combined year, it is expected that students follow the term-by-term BS/MS plan of study submitted with the application. Changes may be made in the BS/MS plan but MUST be approved by the student’s undergraduate advisor and the MS Graduate Program Coordinator by submitting a revised BS/MS term-by-term plan of study as described in Admission Process steps #1 and 2 above. Once the student completes their BS, they must use the MS portion of the most current BS/MS term-by-term plan to create a formal electronic MS plan of study required by the Graduate School in their first MS semester.
+Instructions on How to File a Plan of Study for the MS Degree
+. Students are encouraged to pay close attention to deadlines to avoid late fees.
+Residence requirement: 
+The BS/MS program is an accelerated pathway to a graduate degree. As such, it is expected that participants will remain on the Purdue West Lafayette campus during the combined and MS years to focus on completion. Co-op, study abroad or other absences are not allowed.
+Withdrawal: 
+Students who withdraw from the BS/MS program may continue as BS students only. Any 500- or 600-level courses used toward the completion of the BS degree may not be counted toward a graduate degree if the student later applies for the MS program and is admitted. A 500- or 600-level course taken as excess credit would be available for use if applicable.
+Graduation/Candidacy:
+CS graduate students must 
+"declare candidacy" to graduate
+. BS/MS students should declare candidacy by the end of the first week of classes of their second MS semester. 
+See additional guidance here
+.
+For questions about the BS/MS program, contact 
+csgradinfo@purdue.edu
+.
+Last Updated:
+ Mar 4, 2024 11:14 AM

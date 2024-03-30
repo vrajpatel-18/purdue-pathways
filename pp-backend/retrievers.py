@@ -37,13 +37,13 @@ def structured_retrieval(query_text):
         | (lambda x: x.split("\n"))
     )
 
-    ## Chain for extracting relevant documents
+    # Chain for extracting relevant documents
     retrieval_chain_rag_fusion = generate_queries | retriever.map()
 
     # retrieve documents
     results = retrieval_chain_rag_fusion.invoke({"question": query_text})
 
-    #Reciprical ranked fusion
+    #Reciprocal ranked fusion
     fused_scores = {}
     k=60
     for docs in results:
@@ -74,7 +74,7 @@ def structured_retrieval(query_text):
 
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
 
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI()
 
     final_rag_chain = (prompt | llm | StrOutputParser())
 

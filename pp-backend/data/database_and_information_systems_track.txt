@@ -1,0 +1,64 @@
+https://www.cs.purdue.edu/undergraduate/curriculum/track-database-fall2023.html
+Database and Information Systems Track
+Objectives
+Prepares students to apply database principles, algorithms, and optimization techniques to design, build, and manage current and future database and information systems.
+All major required courses, all track requirements and track selectives, and their pre-requisites, regardless of department, must be completed with a grade of C or better
+.
+Required Courses (4)
+Course
+Title
+CS 34800
+Information Systems
+CS 38100
+Introduction to the Analysis of Algorithms
+CS 44800
+Introduction to Relational Databases
+CS 37300
+or
+CS 47300
+Data Mining and Machine Learning
+or
+Web Information Search & Management
+Choose at least one course from each of the following three (3) categories.
+Electives
+Course
+Title
+Computing Systems - 1 From the Following List
+CS 35200
+Compilers: Principles and Practice
+CS 35300
+Principles of Concurrency and Parallelism
+CS 35400
+Operating Systems
+Information Assurance - 1 From the Following List
+CS 35500
+Introduction to Cryptography
+CS 42600
+Computer Security
+Related Studies - 1 From the Following List
+CS 37300
+Data Mining and Machine Learning
+CS 42200
+Computer Networks
+CS 47100
+Introduction to Artificial Intelligence
+CS 47300
+Web Information Search & Management
+CS 47800
+Introduction to Bioinformatics
+CS 48300
+Introduction to the Theory of Computation
+CS 49000
+or
+CS 49700
+or
+EPICS 41100
+/
+41200
+Senior Project
+Honors Research Project
+Honors Research Project
+Note: Senior Project must be at least 3 credits and approved by the track chair. (Examples: EPICS 41100/41200 Senior Design, CS 49000, CS 49700 Honors Research Project)
+Note: No course can be counted both for required and elective credit. This is true for all tracks.
+Last Updated:
+ Jun 23, 2023 9:11 AM
