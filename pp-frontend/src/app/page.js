@@ -5,6 +5,8 @@ import logo from "./pathways_transparent.png";
 import { useState } from "react";
 import { TypeAnimation } from "react-type-animation";
 import { FaUser, FaRobot } from "react-icons/fa";
+import { NextApiRequest, NextApiResponse } from "next";
+import axios from "axios";
 
 export default function Home() {
   const [submitted, setSubmitted] = useState(false);
@@ -20,15 +22,18 @@ export default function Home() {
   };
 
   // Simulate a bot response after user sends a message
-  const sendMessage = (text) => {
-    return new Promise((resolve) => {
-      // Wrap logic in a promise
-      const newMessage = { id: messages.length + 1, text, sender: "user" };
-      setMessages([...messages, newMessage]);
-      setTimeout(() => {
-        receiveBotMessage("This is a simulated bot response");
-        resolve(); // Resolve the promise after the timeout
-      }, 1500); // Simulate a delay for bot response
+  const sendMessage = async (text) => {
+    // Wrap logic in a promise
+    const newMessage = { id: messages.length + 1, text, sender: "user" };
+    setMessages([...messages, newMessage]);
+
+    await axios({
+      method: "post",
+      url: "http://127.0.0.1:5000/hello",
+      data: { data: "test" },
+    }).then(function (response) {
+      console.log(response);
+      receiveBotMessage(response.data.message);
     });
   };
 
@@ -44,10 +49,10 @@ export default function Home() {
     setSubmitted(true);
 
     await sendMessage(queryText).then(() => {
-      setLoading(false); // Ensure loading is set to false after message processing
+      setLoading(false);
     });
 
-    setQueryText(""); // Clear input after sending
+    setQueryText("");
   };
 
   return (
