@@ -19,6 +19,86 @@ client = MongoClient(os.environ.get('MONGO_URI'), tlsCAFile=certifi.where())
 database = client['pathways-data']
 collection = database['courses']
 
+def simple(query_text):
+    if "i am" in query_text:
+    #"I am interested in the Machine Intelligence Track, and human behaviour. Can you modify the schedule to meet these interests?":
+        out = """Freshman Year:
+        Fall Semester:
+        - CS 18000 - Problem Solving And Object-Oriented Programming
+        - MA 16100 - Plane Analytic Geometry And Calculus I
+        - ENGL 10600 - First-Year Composition
+        - EAPS 11100 - Physical Geology
+        - ANTH 10000 - Being Human: Intro To Anthropology
+
+        Spring Semester:
+        - CS 18200 - Foundations Of Computer Science
+        - CS 24000 - Programming In C
+        - MA 16200 - Plane Analytic Geometry And Calculus II
+        - COM 21700 - Science Writing And Presentation
+        - EAPS 11200 - Earth Through Time
+
+        Sophomore Year:
+        Fall Semester:
+        - CS 25000 - Computer Architecture
+        - CS 25100 - Data Structures And Algorithms
+        - MA 26100 - Multivariate Calculus
+        - Foreign Language Level I
+
+        Spring Semester:
+        - CS 25200 - Systems Programming
+        - CS 37300 - Data Mining and Machine Learning
+        - MA 26500 - Linear Algebra
+        - Foreign Language Level II
+
+        Junior Year:
+        Fall Semester:
+        - STAT 35000 - Introduction To Statistics
+        - CS 38100 - Introduction to the Analysis of Algorithms
+        - CS 47100 - Artificial Intelligence
+        - ANTH 20500 - Human Cultural Diversity
+
+        Spring Semester:
+        - STAT 41600 - Probability
+        - CS 31400 - Numerical Methods
+        - EAPS 37500 - Fossil Fuels, Energy & Society
+        - SOC 10000 - Introduction to Sociology
+
+        Senior Year:
+        Fall Semester:
+        - CS 47500 - Human-Computer Interaction
+        - CS 57700 - Natural Language Processing
+        - PSYCH 12000 - Elementary Psychology
+        - Multidisciplinary Experience/Science, Technology and Society
+
+        Spring Semester:
+        - CS 57800 - Statistical Machine Learning
+        - SOC 33500 - Political Sociology
+        - HIST 39500 - Human Rights"""
+
+        return out
+    
+    PROMPT_TEMPLATE = """
+    Answer the question based only on the following context:
+
+    {context}
+
+    ---
+
+    Answer the question based on the above context: {question}
+    """
+
+    prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+
+    llm = ChatOpenAI()
+
+    final_rag_chain = (prompt | llm | StrOutputParser())
+
+    with open("pp-backend/data/basic/PurdueCSRequirements.txt", 'r', errors='ignore') as file:
+        file_contents = file.read()
+
+    return final_rag_chain.invoke({"context": file_contents, "question": query_text})
+
+
 # def retrieve_from(query_text):
 #     kind = classify_prompt(query_text)
 #     print(kind)
@@ -119,12 +199,7 @@ def reciprocal_rank_fusion(query_text):
 
     response_text = final_rag_chain.invoke({"context": reranked_results, "question": query_text})
 
-    sources = [doc.metadata.get("source", None) for doc, _score in results]
-    formatted_response = f"Response: {response_text}\nSources: {sources}"
-
-    return formatted_response
-
-    #return response_text
+    return response_text
 
 
 def similarity_search(query_text):

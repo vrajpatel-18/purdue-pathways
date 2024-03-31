@@ -1,7 +1,3 @@
 langchain
-PyPDF2
 os
 shutil
-llama-index 
-llama-index-packs-raptor 
-llama-index-vector-stores-qdrant
