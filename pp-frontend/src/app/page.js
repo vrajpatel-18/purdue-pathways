@@ -30,7 +30,7 @@ export default function Home() {
     await axios({
       method: "post",
       url: "http://127.0.0.1:5000/hello",
-      data: { data: "test" },
+      data: { data: queryText },
     }).then(function (response) {
       console.log(response);
       receiveBotMessage(response.data.message);
@@ -121,6 +121,7 @@ export default function Home() {
                     sequence={[`${message.text}`]}
                     repeat={1}
                     cursor={false}
+                    speed={85}
                   />
                 </span>
               )}

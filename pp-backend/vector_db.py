@@ -7,8 +7,8 @@ import os
 import shutil
 import json
 
-CHROMA_PATH = "pp-backend/chroma"
-DATA_PATH = "pp-backend/data/basic"
+CHROMA_PATH = "chroma"
+DATA_PATH = "basic"
 
 def generate_data_store():
     documents = load_documents()

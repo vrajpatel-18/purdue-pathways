@@ -11,6 +11,3 @@ class Course:
         return f"""The course {self.title} has the following prerequisite requirements: {self.prereqs}.
         The course description is: {self.description}. {self.title} is restricted to {self.restrictions}.
         {self.title} has the following expected outcomes: {self.outcomes}."""
-
-    def findPostreqs(self):
-        print("work in progress")

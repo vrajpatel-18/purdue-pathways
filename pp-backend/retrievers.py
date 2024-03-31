@@ -20,123 +20,78 @@ database = client['pathways-data']
 collection = database['courses']
 
 def simple(query_text):
-    if "i am" in query_text:
-    #"I am interested in the Machine Intelligence Track, and human behaviour. Can you modify the schedule to meet these interests?":
-        out = """Freshman Year:
-        Fall Semester:
-        - CS 18000 - Problem Solving And Object-Oriented Programming
-        - MA 16100 - Plane Analytic Geometry And Calculus I
-        - ENGL 10600 - First-Year Composition
-        - EAPS 11100 - Physical Geology
-        - ANTH 10000 - Being Human: Intro To Anthropology
-
-        Spring Semester:
-        - CS 18200 - Foundations Of Computer Science
-        - CS 24000 - Programming In C
-        - MA 16200 - Plane Analytic Geometry And Calculus II
-        - COM 21700 - Science Writing And Presentation
-        - EAPS 11200 - Earth Through Time
-
-        Sophomore Year:
-        Fall Semester:
-        - CS 25000 - Computer Architecture
-        - CS 25100 - Data Structures And Algorithms
-        - MA 26100 - Multivariate Calculus
-        - Foreign Language Level I
-
-        Spring Semester:
-        - CS 25200 - Systems Programming
-        - CS 37300 - Data Mining and Machine Learning
-        - MA 26500 - Linear Algebra
-        - Foreign Language Level II
-
-        Junior Year:
-        Fall Semester:
-        - STAT 35000 - Introduction To Statistics
-        - CS 38100 - Introduction to the Analysis of Algorithms
-        - CS 47100 - Artificial Intelligence
-        - ANTH 20500 - Human Cultural Diversity
-
-        Spring Semester:
-        - STAT 41600 - Probability
-        - CS 31400 - Numerical Methods
-        - EAPS 37500 - Fossil Fuels, Energy & Society
-        - SOC 10000 - Introduction to Sociology
-
-        Senior Year:
-        Fall Semester:
-        - CS 47500 - Human-Computer Interaction
-        - CS 57700 - Natural Language Processing
-        - PSYCH 12000 - Elementary Psychology
-        - Multidisciplinary Experience/Science, Technology and Society
-
-        Spring Semester:
-        - CS 57800 - Statistical Machine Learning
-        - SOC 33500 - Political Sociology
-        - HIST 39500 - Human Rights"""
-
-        return out
     
-    PROMPT_TEMPLATE = """
-    Answer the question based only on the following context:
+    if course_info_retriever(query_text) != "":
+        PROMPT_TEMPLATE = """
+        Answer the question based only on the following context:
+        {courseInfo}
+        {context}
 
-    {context}
+        ---
 
-    ---
+        Answer the question based on the above context: {question}
+        """
+    else:
+        PROMPT_TEMPLATE = """
+        Answer the question based only on the following context:
 
-    Answer the question based on the above context: {question}
-    """
+        {context}
 
+        ---
+
+        Answer the question based on the above context: {question}
+        """
+        
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
 
     llm = ChatOpenAI()
 
     final_rag_chain = (prompt | llm | StrOutputParser())
 
-    with open("pp-backend/data/basic/PurdueCSRequirements.txt", 'r', errors='ignore') as file:
+    with open("data/basic/PurdueCSRequirements.txt", 'r', errors='ignore') as file:
         file_contents = file.read()
 
-    return final_rag_chain.invoke({"context": file_contents, "question": query_text})
+    return final_rag_chain.invoke({"context": file_contents, "courseInfo" : course_info_retriever(query_text), "question": query_text})
 
 
-# def retrieve_from(query_text):
-#     kind = classify_prompt(query_text)
-#     print(kind)
-#     if kind == 1:
-#         return reciprocal_rank_fusion(query_text, "basic")
-#     elif kind == 2:
-#         return reciprocal_rank_fusion(query_text, "geneds")
-#     elif kind == 3:
-#         return reciprocal_rank_fusion(query_text, "tracks")
+def retrieve_from(query_text):
+    kind = classify_prompt(query_text)
+    print(kind)
+    if kind == 1:
+        return reciprocal_rank_fusion(query_text, "basic")
+    elif kind == 2:
+        return reciprocal_rank_fusion(query_text, "geneds")
+    elif kind == 3:
+        return reciprocal_rank_fusion(query_text, "tracks")
         
-# def classify_prompt(query_text):
-#     llm = ChatOpenAI()
+def classify_prompt(query_text):
+    llm = ChatOpenAI()
     
-#     prompt_template = """You are an assistant that classifies questions that are to be inputted into a tool that helps with academic advising for Computer Science majors.
-#     To help the tool narrow which data should be retrieved for the specific question, you are going to classify the question into one of 3 categories:
-#     The categories are as follows:
-#     1. Computer Science Course Information/Requirements
-#     2. Non Computer Science Course Information/Requirements
-#     3. Computer Science Track Information/Requirements
+    prompt_template = """You are an assistant that classifies questions that are to be inputted into a tool that helps with academic advising for Computer Science majors.
+    To help the tool narrow which data should be retrieved for the specific question, you are going to classify the question into one of 3 categories:
+    The categories are as follows:
+    1. Computer Science Course Information/Requirements
+    2. Non Computer Science Course Information/Requirements
+    3. Computer Science Track Information/Requirements
     
-#     Here is the prompt to be classfied: {question}"""
+    Here is the prompt to be classfied: {question}"""
     
-#     prompt = ChatPromptTemplate.from_template(prompt_template)
+    prompt = ChatPromptTemplate.from_template(prompt_template)
 
-#     chain = (prompt | llm | StrOutputParser())
+    chain = (prompt | llm | StrOutputParser())
 
-#     response = chain.invoke({"question": query_text})
+    response = chain.invoke({"question": query_text})
 
-#     print(response)
+    print(response)
 
-#     if response == "Category: Computer Science Course Information/Requirements":
-#         return 1
-#     elif response == "Category: Non Computer Science Course Information/Requirements":
-#         return 2
-#     elif response == "Category: Computer Science Track Information/Requirements":
-#         return 3
-#     else:
-#         return 0 
+    if response == "Category: Computer Science Course Information/Requirements":
+        return 1
+    elif response == "Category: Non Computer Science Course Information/Requirements":
+        return 2
+    elif response == "Category: Computer Science Track Information/Requirements":
+        return 3
+    else:
+        return 0 
 
 def reciprocal_rank_fusion(query_text):
     path = CHROMA_PATH
