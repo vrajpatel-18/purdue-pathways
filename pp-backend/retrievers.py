@@ -56,7 +56,6 @@ def simple(query_text):
 
 def retrieve_from(query_text):
     kind = classify_prompt(query_text)
-    print(kind)
     if kind == 1:
         return reciprocal_rank_fusion(query_text, "basic")
     elif kind == 2:
@@ -122,7 +121,6 @@ def reciprocal_rank_fusion(query_text):
         for rank, doc in enumerate(docs):
             doc_str = dumps(doc)
             # If the document is not yet in the fused_scores dictionary, add it with an initial score of 0
-            # print('\n')
             if doc_str not in fused_scores:
                 fused_scores[doc_str] = 0
             # Retrieve the current score of the document, if any
@@ -176,14 +174,12 @@ def similarity_search(query_text):
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
     prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     prompt = prompt_template.format(context=context_text, question=query_text)
-    #print(prompt)
 
     model = ChatOpenAI()
     response_text = model.invoke(prompt)
 
     sources = [doc.metadata.get("source", None) for doc, _score in results]
     formatted_response = f"Response: {response_text}\nSources: {sources}"
-    #print(formatted_response)
     
     return formatted_response
 
@@ -236,7 +232,6 @@ def structured_retrieval(query_text):
         for rank, doc in enumerate(docs):
             doc_str = dumps(doc)
             # If the document is not yet in the fused_scores dictionary, add it with an initial score of 0
-            # print('\n')
             if doc_str not in fused_scores:
                 fused_scores[doc_str] = 0
             # Retrieve the current score of the document, if any

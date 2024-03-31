@@ -8,7 +8,6 @@ CORS(app)
 @app.route('/hello', methods=['POST'])
 def hello():
     query = request.json['data']  # Adjusted to support both form and JSON
-    print(query)
     data = {
         'message': invoke(query),
         'query': query  # Echoing back the query
