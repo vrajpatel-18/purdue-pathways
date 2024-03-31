@@ -1,0 +1,261 @@
+3/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 1/72019-2020 University Catalog Purdue University
+[ARCHIVED CATALOG]
+Computer Science, BS
+About the Program
+Purdue Computer Science is one of the country’s top-ranked programs. Faculty members are shaping the future of information
+technology through cutting-edge research. Students can take courses that include such topics as graphics and animation, web
+programming, competitive programming, cryptography and security, networks, software engineering, distributed systems,
+information systems, artificial intelligence, and bioinformatics.
+The Purdue University Department of Computer Science has a comprehensive and exciting curriculum for its undergraduate
+students. The flexible curriculum offers adventurous young women and men an excellent opportunity to be involved in a
+dynamic discipline that will continue to grow and to contribute significantly to progress in many other disciplines and
+ultimately to changes in human society that are nothing short of profound. Students learn communication skills, teamwork, and
+problem-solving skills and acquire the necessary technical skills for positions in computing in nearly any industry.
+Computer Science students begin by taking six core courses that teach them the fundamentals of computer science. Students
+can then select one or more tracks, which allow them to deepen their understanding in a specific area (or areas) of Computer
+Science. These academic tracks include:
+Computer Science Concentration - Computational Science and Engineering Track  
+Computer Science Concentration - Computer Graphics and Visualization Track  
+Computer Science Concentration - Database and Information Systems Track (DBIS)  
+Computer Science Concentration - Foundations of Computer Science Track (FCS)  
+Computer Science Concentration - Machine Intelligence Track (MI)  
+Computer Science Concentration - Programming Language Track (PL)  
+Computer Science Concentration - Security Track  
+Computer Science Concentration - Software Engineering Track  
+Computer Science Concentration - Systems Programming Track (Systems)
+ 
+Computer Science Website
+Degree Requirements
+120 Credits Required
+Curriculum and Degree Requirements for College of Science
+A College of Science degree is conferred when a student successfully completes all requirements in their degree
+program.  Students will complete coursework or approved experiential learning activities to meet the following three degree
+components:
+1. Major
+2. Science Core Curriculum
+3. Electives3/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 2/7Students may use any of the following options to meet College of Science degree requirements:
+Purdue Coursework
+Ap, IB, and CLEP credit.  The use of AP and IB coursework varies between College of Science degree plans.
+Transfer Credit . Students should consult the Admissions Transfer Credit Resource page for all available transfer
+options.
+College of Science degree programs vary widely in their approval and use of the proceeding options and thus students are
+strongly encouraged to work closely with their academic advisors and to regularly consult their MyPurduePlan to view the
+use of each option in their degree plan. 
+Most College of Science degree programs contain elective credits students may use to pursue courses that relate to their in -
+terests or which support their major area of study. The elective area of a degree plan may also be used to complete minors ,
+second majors and certificates such as the Entrepreneurial Certificate. With the exception of courses on the No Count List,
+any Purdue course may be used to meet the elective area of a student’s degree plan.
+College of Science Core Requirements
+All Students starting Purdue University Fall semester, 2007 or later are required to pursue the 2007 Science Core
+curriculum.
+The College of Science Core Curriculum requires the completion of approved coursework and/or experiential learning op -
+portunities in the following academic areas:
+Composition and Presentation  
+Computing   
+Cultural Diversity (Language and Culture)   
+General Education  
+Great Issues in Science   
+Laboratory Science   
+Mathematics    
+Multidisciplinary Experience  
+Statistics   
+Teambuilding and Collaboration    
+No Count List   
+Earning Core Curricular Requirements through Experience
+Students may meet selected core curriculum requirements through approved experiential learning opportunities. Interested
+students should contact their academic advisor for more information on this option and incorporating experiential learning
+into their four-year program of study. For more information on earning requirements through experience, please click here .
+Computer Science Major Courses (46-50 credits)
+Required CS Major Math Courses (7-8 credits)
+Must have C or better to meet prerequisite for certain upper level CS courses
+MA 26100 - Multivariate Calculus or
+MA 27101 - Honors Multivariate Calculus
+ 
+MA 26500 - Linear Algebra or
+MA 35100 - Elementary Linear Algebra
+Required CS Major Core Courses (21 credits)
+Must have C or better in all courses.3/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 3/7CS 18000 - Problem Solving And Object-Oriented Programming   (satisfies Computing and Teambuilding require -
+ments for College of Science core)
+CS 18200 - Foundations Of Computer Science    
+CS 24000 - Programming In C    
+CS 25000 - Computer Architecture
+CS 25100 - Data Structures And Algorithms
+CS 25200 - Systems Programming
+Required CS Major Track Selectives - (18-21 credits)
+Please see links to all track requirements above.
+Must have a C or better in all courses. Select from  list.
+CS Track Required course - Credit Hours: 3.00
+CS Track Required Course - Credit Hours: 3.00
+CS Track Required/Elective course - Credit Hours: 3.00
+CS Track Required/Elective course - Credit Hours: 3.00
+CS Track Elective course - Credit Hours: 3.00
+CS Track Elective course - Credit Hours: 3.00
+CS Track Elective course (if Computational Science & Engineering track or Database & Information Systems track)
+- Credit Hours: 3.00
+Other Departmental/Program Course Requirements (32-62 credits)
+* Requirement may be met with a zero credit experiential learning option. See your advisor for more information.
+ENGL 10600 - First-Year Composition (satisfies Written Communication and Information Literacy Selective for core)
+or
+ENGL 10800 - Accelerated First-Year Composition (satisfies Written Communication and Information Literacy
+Selective for core) or
+HONR 19903 - Interdisciplinary Approaches In Writing or
+SCLA 10100 - Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity
+(satisfies Written Communication and Information Literacy Selective for core)
+ 
+MA 16100 - Plane Analytic Geometry And Calculus I    (satisfies Quantitative Reasoning for core) (must have C or bet -
+ter to meet prerequisite for CS 18200 ) or
+MA 16500 - Analytic Geometry And Calculus I    (satisfies Quantitative Reasoning for core) (must have C or better to
+meet prerequisite for CS 18200 )
+ 
+MA 16200 - Plane Analytic Geometry And Calculus II (satisfies Quantitative Reasoning for core) or
+MA 16600 - Analytic Geometry And Calculus II (satisfies Quantitative Reasoning for core)
+ 
+STAT 35000 - Introduction To Statistics or
+STAT 51100 - Statistical Methods
+ 
+Technical Writing Option* - ( COM 21700  recommended) select from list - Credit Hours: 0.00 - 3.00
+Technical Presenting Option* - ( COM 21700  recommended) (may satisfy Oral Communication for core) select from
+list - Credit Hours: 0.00 - 3.00
+Language I * - select from three options; select from list - Credit Hours: 0.00 - 4.00
+Language II * - select from three options; select from list  - Credit Hours: 0.00 - 4.00
+Language and Culture III * - (may satisfy Human Cultures Humanities for core) select from three options; select from
+list - Credit Hours: 0.00 - 4.003/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 4/7General Education I - (may satisfy Human Culture Humanities and Behavioral/Social Science for core) select from list
+- Credit Hours: 3.00
+General Education II - (may satisfy Human Culture Humanities and Behavioral/Social Science for core) select from
+list - Credit Hours: 3.00
+General Education III - select from list - Credit Hours: 3.00
+Great Issues -select from list - Credit Hours: 3.00
+Multidisciplinary Experience * - (may satisfy Science, Technology & Society for core) select from list - Credit Hours:
+0.00 - 3.00
+Teambuilding and Collaboration Experience * ( CS 18000  meets requirement) - select from list - Credit Hours: 0.00 -
+4.00
+Lab Science I selective - (satisfies Science for core) select from list - Credit Hours: 3.00 - 4.00
+Lab Science II selective - (may satisfy Science for core) select from list - Credit Hours: 3.00 - 4.00
+Electives (8-42 credits)
+CS 19100 - Freshman Resources Seminar and CS 19300 - Tools are required freshman seminar courses; corequisites with
+CS 18000 . They are not degree requirements. CS 29100 - Sophomore Development Seminar  and CS 39100 - Junior
+Resources Seminar  are optional but recommended.
+ 
+University Core Requirements
+Human Cultures Humanities
+Human Cultures Behavioral/Social Science
+Information Literacy
+Science #1
+Science #2
+Science, Technology, and Society
+Written Communication
+Oral Communication
+Quantitative Reasoning
+For a complete listing of course selectives, visit the Provost’s Website .
+Prerequisite Information:
+For current pre-requisites for courses, click here .
+ 
+Program Requirements
+Fall 1st Year
+CS 18000 - Problem Solving And Object-Oriented Programming   *** (satisfies Computing and Teambuilding and
+Collaboration requirement for core)
+ 
+MA 16100 - Plane Analytic Geometry And Calculus I    or
+MA 16500 - Analytic Geometry And Calculus I  
+ 
+ENGL 10600 - First-Year Composition or3/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 5/7ENGL 10800 - Accelerated First-Year Composition or
+HONR 19903 - Interdisciplinary Approaches In Writing or
+SCLA 10100 - Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity or
+Language Level I - Credit Hours: 3.00 - 4.00
+ 
+Elective - Credit Hours: 1.00 ( CS 19300  recommended)
+Elective - Credit Hours: 1.00 ( CS 19100  recommended)
+Elective - Credit Hours: 1.00
+14-16 Credits
+Spring 1st Year
+CS 18200 - Foundations Of Computer Science *** 
+CS 24000 - Programming In C ***  
+ 
+MA 16200 - Plane Analytic Geometry And Calculus II or
+MA 16600 - Analytic Geometry And Calculus II
+ 
+COM 21700 - Science Writing And Presentation or
+Language Level II - Credit Hours:  3.00 - 4.00
+ 
+Elective - Credit Hours: 1.00 - 3.00
+14-16 Credits
+Fall 2nd Year
+CS 25000 - Computer Architecture ***
+CS 25100 - Data Structures And Algorithms ***
+ 
+MA 26100 - Multivariate Calculus or
+MA 27101 - Honors Multivariate Calculus
+ 
+Language level II - Credit Hours: 3.00 - 4.00
+Elective ( CS 29100  recommended) - Credit Hours: 1.00
+15-17 Credits
+Spring 2nd Year
+CS 25200 - Systems Programming ***
+ 
+MA 26500 - Linear Algebra or
+MA 35100 - Elementary Linear Algebra
+ 
+Elective - Credit Hours: 3.00 ( COM 21700  recommended)
+Language level II or Culture course or Diversity course - Credit Hours: 3.00 - 4.00
+Elective - Credit Hours: 3.003/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 6/716 Credits
+Fall 3rd Year
+STAT 35000 - Introduction To Statistics or
+STAT 51100 - Statistical Methods
+ 
+Elective- Credit Hours: 3.00
+General Education I - Credit Hours: 3.00
+Elective - Credit Hours: 1.00 ( CS 39100  recommended)
+CS track requirement - Credit Hours: 3.00 ***
+CS track requirement - Credit Hours: 3.00 **
+16 Credits
+Spring 3rd Year
+CS track requirement/elective - Credit Hours: 3.00 ***
+CS track elective/requirement - Credit Hours: 3.00 ***
+Great Issues - Credit Hours: 3.00
+General Education II - Credit Hours: 3.00
+Elective - Credit Hours: 3.00
+15 Credits
+Fall 4th Year
+CS track elective - Credit Hours: 3.00 ***
+Lab Science I - Credit Hours: 3.00 - 4.00
+Multidisciplinary Experience/Science, Technology and Society - Credit Hours: 3.00
+General Education III - Credit Hours: 3.00
+Elective - Credit Hours: 3.00
+15-16 Credits
+Spring 4th Year
+CS track elective - Credit Hours: 3.00 ***
+Lab Science II - Credit Hours: 3.00 - 4.00
+Elective - Credit Hours: 3.00
+Elective - Credit Hours: 3.00
+Elective - Credit Hours: 3.00
+15-16 Credits
+Notes
+2.0 Major and Graduation GPA required for Bachelor of Science degree.3/10/24, 2:26 PM Program: Computer Science, BS - Purdue University - Acalog ACMS™
+https://catalog.purdue.edu/preview_program.php?catoid=10&poid=12802&returnto=13413&print 7/7***All CS core courses and all track requirements, regardless of department, must be completed with a grade of “C” or
+higher. 
+All prerequisites to CS core courses and track requirements, regardless of department, must be completed with a grade
+of C or higher.
+Enrollment in freshman seminar courses CS 19100  and CS 19300  is required with CS 18000 . They are not degree
+requirements. CS 29100 - Sophomore Development Seminar  and CS 39100 - Junior Resources Seminar  are optional
+but recommended.
+Foreign Language Courses
+Foreign Language proficiency requirements vary by program. 
+For acceptable languages and proficiency levels, see your advisor: American Sign Language, Arabic, Chinese,
+French, German, (ancient) Greek, Hebrew, Italian, Japanese, Latin, Portuguese, Russian, Spanish
+Critical Course
+The    course is considered critical.
+In alignment with the Degree Map Guidance for Indiana’s Public Colleges and Universities, published by the
+Commission for Higher Education (pursuant to HEA 1348-2013), a Critical Course is identified as “one that a
+student must be able to pass to persist and succeed in a particular major.  Students who want to be nurses,
+for example, should know that they are expected to be proficient in courses like biology in order to be suc -
+cessful.  These would be identified by the institutions for each degree program”. 
+Disclaimer
+The student is ultimately responsible for knowing and completing all degree requirements.
+The myPurduePlan powered by DegreeWorks is the knowledge source for specific requirements and
+completion.
